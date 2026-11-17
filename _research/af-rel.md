@@ -1,0 +1,341 @@
+# appfunctions
+
+Allows apps to share functionality and data with AI assistants, enabling them to discover and execute tasks directly on the device to fulfill user requests.
+
+| Latest Update | Stable Release | Release Candidate | Beta Release | Alpha Release |
+|---|---|---|---|---|
+| November 04, 2026 | - | [1.0.0-rc01](https://developer.android.com/jetpack/androidx/releases/appfunctions#1.0.0-rc01) | - | - |
+
+## Declaring dependencies
+
+To add a dependency on appfunctions, you must add the Google Maven repository to your
+project. Read [Google's Maven repository](https://developer.android.com/studio/build/dependencies#google-maven)
+for more information.
+
+Add the dependencies for the artifacts you need in the `build.gradle` file for
+your app or module:
+
+### Groovy
+
+```groovy
+dependencies {
+    implementation "androidx.appfunctions:appfunctions:1.0.0-rc01"
+    // Use Kotlin Symbol Processing (KSP) for the appfunctions compiler plugin.
+    // See https://kotlinlang.org/docs/ksp-quickstart.html to add KSP to your build
+    ksp "androidx.appfunctions:appfunctions-compiler:1.0.0-rc01"
+}
+```
+
+### Kotlin
+
+```kotlin
+dependencies {
+    implementation("androidx.appfunctions:appfunctions:1.0.0-rc01")
+    // Use Kotlin Symbol Processing (KSP) for the appfunctions compiler plugin.
+    // See https://kotlinlang.org/docs/ksp-quickstart.html to add KSP to your build
+    ksp("androidx.appfunctions:appfunctions-compiler:1.0.0-rc01")
+}
+```
+
+For more information about dependencies, see [Add build dependencies](https://developer.android.com/studio/build/dependencies).
+
+## Feedback
+
+Your feedback helps make Jetpack better. Let us know if you discover new issues or have
+ideas for improving this library. Please take a look at the
+[existing issues](https://issuetracker.google.com/issues?q=componentid:1709065+status:open)
+in this library before you create a new one. You can add your vote to an existing issue by
+clicking the star button.
+
+[Create a new issue](https://issuetracker.google.com/issues/new?component=1709065&template=2081773)
+
+See the [Issue Tracker documentation](https://developers.google.com/issue-tracker)
+for more information.
+
+There are no release notes for this artifact.
+
+## Version 1.0
+
+### Version 1.0.0-rc01
+
+November 04, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-rc01`, `androidx.appfunctions:appfunctions-compiler:1.0.0-rc01`, and `androidx.appfunctions:appfunctions-testing:1.0.0-rc01` are released. Version 1.0.0-rc01 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/3e1d825a56395e550f616184e9364be9fa3b45a9..3a5a6c1812a9d0857c55d3a4e737157d9aa4c452/appfunctions).
+
+**New Features**
+
+- Version bump to RC and remove legacy aggregation compiler option.
+
+### Version 1.0.0-beta01
+
+October 21, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-beta01`, `androidx.appfunctions:appfunctions-compiler:1.0.0-beta01`, and `androidx.appfunctions:appfunctions-testing:1.0.0-beta01` are released. Version 1.0.0-beta01 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/f00b1745e804a33584208947a6cdbb3915f9b8cb..b463fe32f4f38cfc70d99bf57a4587ff83459dcc/appfunctions).
+
+**API Changes**
+
+- `AppFunctionName` has been moved from the `androidx.appfunctions.metadata` package to `androidx.appfunctions`. ([Iec624](https://android-review.googlesource.com/#/q/Iec624d1e6b3ca8a9d9fb28ce4615572801087736))
+- Removed the default value of `isDescribedByKDoc` from `AppFunctionDeclaration`, `AppFunctionSerializable` and `AppFunctionSignature`; it must now be set explicitly. ([Idcfd2](https://android-review.googlesource.com/#/q/Idcfd2babf997325625fad74f3e65e7a03f24fd6a))
+- Support `AppFunctionServiceEntryPoint` in `AppFunctionTestRule` ([I12e01](https://android-review.googlesource.com/#/q/I12e018f778635aa2275a663bdf79aae56b49dbc5))
+- AppFunctionResourceContainer and AppFunctionTextResource are now marked as @ExperimentalAppFunctionsApi. ([If9469](https://android-review.googlesource.com/#/q/If9469259dd0e0666bc87785feca4b62c09e8db9d))
+- Renamed `AppFunctionAppMetadata.description` to `instructions`, and the `description` XML attribute of `AppFunctionAppMetadata` to `instructions`, to align with MCP naming conventions. ([I04d08](https://android-review.googlesource.com/#/q/I04d0856646dee1cb6315e08f8c7b4288a5345cf3))
+- Replaced regex pattern in @AppFunctionStringValueConstraint with patternMatchers backed by android.os.PatternMatcher. ([I7c7cc](https://android-review.googlesource.com/#/q/I7c7cc52fa221d0eea5533b43ae976b057c6bf406))
+
+**Bug Fixes**
+
+- Fixed `java.time` parameter types failing to deserialize in apps with Java library desugaring enabled. ([I211ce](https://android-review.googlesource.com/#/q/I211ce88646c06747d1e36429877c1bea5f6965e5))
+- Fixed the issue that the generated file name could contain invalid symbol for some operating systems. ([Idced4](https://android-review.googlesource.com/q/Idced400abced6ec83206ad07c12ce91d736559a8))
+- Fixed the issue that on SDK37+, the URI permissions are granted twice. ([I3c845](https://android-review.googlesource.com/#/q/I3c84590d07b5f6a7a3769658a8764c2e683868a4))
+
+### Version 1.0.0-alpha13
+
+October 07, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha13`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha13`, and `androidx.appfunctions:appfunctions-testing:1.0.0-alpha13` are released. Version 1.0.0-alpha13 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/f77468c7762fc61d6c4489eec93f95b8e27410fc..0990e6ecc6b2bb46ca9e51bdc845da764080ba4f/appfunctions).
+
+**API Changes**
+
+- Add @AppFunctionAccessLevel annotation to support access restriction setting. ([Id47e1](https://android-review.googlesource.com/#/q/Id47e134fc3aac0901ec0a026904d48222653d8fe))
+- Rename `AppFunction` annotation to `AppFunctionDeclaration` ([I4b15d](https://android-review.googlesource.com/#/q/I4b15d35e7889272811b725fb5eed0ba1a9e863da))
+- Rename `ObserveAppFunctionsEvent` to `AppFunctionsChangeEvent` ([Iec918](https://android-review.googlesource.com/#/q/Iec9182fb0e2583f4086281e1572d6ab3d028e00a))
+- Surface `AppFunctionMetadata` in `AppFunctionService`. ([If1117](https://android-review.googlesource.com/#/q/If11170bcc6498efc1c1bc09a67ef354ce2e2ca9d))
+
+**Bug Fixes**
+
+- Support all built-in proxy types (LocalDate, LocalTime, Instant, ZoneId) in AppFunctionData. ([I61c16](https://android-review.googlesource.com/#/q/I61c16ec04842353212bc1e2df3f7a00fecc1abf8))
+
+### Version 1.0.0-alpha12
+
+September 23, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha12`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha12`, and `androidx.appfunctions:appfunctions-testing:1.0.0-alpha12` are released. Version 1.0.0-alpha12 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/c99f838c940f9efc7418c943dd43bb1f36b38529..f77468c7762fc61d6c4489eec93f95b8e27410fc/appfunctions).
+
+**API Changes**
+
+- Requires `AppFunctionData#serialize` caller to provide metadata. ([I61eca](https://android-review.googlesource.com/#/q/I61eca34a3a31514bc85d65c4e90fac292d472ee5))
+- Adds inline reified `getHandleAppFunctionRequestAdapter` in addition to the existing `Class`-based overload. ([Ic1b4e](https://android-review.googlesource.com/#/q/Ic1b4e594ae32b5d63f090b1456e2b2f6892db0ea))
+- Removes `AppFunctionContext` and `AppFunctionConfiguration` ([I9dd8f](https://android-review.googlesource.com/#/q/I9dd8f79a0a4a1463cdb95117f35c74ac0f07aad9))
+- Adds `activityId` to `ExecuteAppFunctionRequest` ([I6ac86](https://android-review.googlesource.com/#/q/I6ac86d38a464e91ae20c812826aa94f65d64b91f))
+- Adds `registerAppFunction`, `registerAppFunctions`, `RegisterAppFunctionRequest`, and `CallbackAppFunction` as `@ExperimentalAppFunctionsApi`. ([Idb2ca](https://android-review.googlesource.com/#/q/Idb2cafbb8342003c29b79a59a4ce51867e49d768))
+- Adds `scope` in `AppFunctionMetadata` and `AppFunctionSearchSpec` ([I4344c](https://android-review.googlesource.com/#/q/I4344ccd3a3e056dff4f6cea9702b615c8b012f94))
+- Adds `AppFunctionUriValueConstraint` as a public API. ([I75070](https://android-review.googlesource.com/#/q/I750702dcd86703ff2e493d4918686e83dc98b891))
+- Update `AppFunctionPackageMetadata` constructor ([I096f7](https://android-review.googlesource.com/#/q/I096f7901d6ca95efb6cd376d443f7ab5667c8020))
+
+### Version 1.0.0-alpha11
+
+August 26, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha11`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha11`, and `androidx.appfunctions:appfunctions-testing:1.0.0-alpha11` are released. Version 1.0.0-alpha11 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/673c70767fb204c629acc6d6e1b5e5e1ea80075e..212831d6b3196011d8f8b10e59ab6026371bc5d6/appfunctions).
+
+**API Changes**
+
+- Add `@AppFunctionSignature` as experimental public API. The API supports dynamic AppFunction registration via Jetpack. ([I72e23](https://android-review.googlesource.com/#/q/I72e23761b6f0c4e21d3ce11c75810f6cc7222e26), [b/501032667](https://issuetracker.google.com/issues/501032667))
+- Add `AppFunctionState` and `AppFunctionManager#getAppFunctionStates`. This replaces `AppFunctionMetadata#isEnabled`. The metadata is now completely separated from the state. ([I8e490](https://android-review.googlesource.com/#/q/I8e4908eeac1d617a64cf809a47792b005aec1c6d), [b/494238383](https://issuetracker.google.com/issues/494238383))
+- `Add getAppFunctionActivityStates`. ([I41093](https://android-review.googlesource.com/#/q/I4109379174eff35b7b171883cc17de0f3ec14762), [b/542075714](https://issuetracker.google.com/issues/542075714))
+- Add `ExtensionsAppFunctionService` to support apps working with sidecar. ([I7cf10](https://android-review.googlesource.com/#/q/I7cf10c88661d47ad1f3a1880f601eb81bb9c2d5a), [b/524941402](https://issuetracker.google.com/issues/524941402))
+- Update `observeAppFunctions` API to match platform API. ([Ifa6fb](https://android-review.googlesource.com/#/q/Ifa6fbb753a36d7bb916bade1e5574fcb825a26c5), [b/494238381](https://issuetracker.google.com/issues/494238381))
+
+**Bug Fixes**
+
+- Fix the issue that missing runtime metadata could cause app to crash when calling `setAppFunctionEnabled` during OOBE. ([Ibe229](https://android-review.googlesource.com/#/q/Ibe229b8534c6b515d7f477ecf645796088904589), [b/536750020](https://issuetracker.google.com/issues/536750020))
+- Temporary disable data validation when using `AppFunctionData#serialize` API until the metadata is coming from the same source of the truth. ([I6c95](https://android-review.googlesource.com/#/q/I6c953455a0b2d11a4b3347b1343e87980b0c0f18), [b/545200019](https://issuetracker.google.com/issues/545200019))
+
+### Version 1.0.0-alpha10
+
+July 01, 2026
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha10`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha10`, and `androidx.appfunctions:appfunctions-testing:1.0.0-alpha10` are released. Version 1.0.0-alpha10 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/05192460aef562f83eca3446674026b917977615..072655e27a9e07e74cc1493667526ee98f3de919/appfunctions).
+
+**API Changes**
+
+- Added `AppFunctionServiceEntryPoint`. All AppFunction annotation must be declared within the `AppFunctionService` that is annotated with `AppFunctionServiceEntryPoint` ([Idc5d5](https://android-review.googlesource.com/#/q/Idc5d5a5cc0f3a20f5d8f0e4387f8e6dd43a2f260), [b/463909015](https://issuetracker.google.com/issues/463909015))
+- Moved `AppFunction` and `AppFunctionConfiguration` APIs . `AppFunctionConfiguration` will be removed in future release as it will be replaced by `AppFunctionServiceEntryPoint` ([Iaff23](https://android-review.googlesource.com/#/q/Iaff2378a969f282d667f00db5f59ae3bb733de85), [I4cf3e](https://android-review.googlesource.com/#/q/I4cf3efd8a640ad221d2224dae3e09ae5e20b78e4), [b/517876475](https://issuetracker.google.com/issues/517876475))
+- Updated `AppFunctionService` API to support callback ([I6e0d7](https://android-review.googlesource.com/#/q/I6e0d71c9606633315664390e567b66f928fa0189), [b/519880977](https://issuetracker.google.com/issues/519880977))
+- Add `searchAppFunctions` API ([I8c0f9](https://android-review.googlesource.com/#/q/I8c0f99fd6f4c548b23dbbfa95c2bd55b4b995b31), [I1fa27](https://android-review.googlesource.com/#/q/I1fa27e6a02a8c70d7539796c14159f859e3c46f5), [b/494239238](https://issuetracker.google.com/issues/494239238))
+- Added `functionNames` to `AppFunctionSearchSpec` ([I95f53](https://android-review.googlesource.com/#/q/I95f535e4de738e45132eeab61a115d253e369b8a), [b/494239238](https://issuetracker.google.com/issues/494239238))
+- Added `AppFunctionInstruction` annotation ([I21120](https://android-review.googlesource.com/#/q/I21120525ca7f0be0307395ab0aa2f4905fff5c04), [b/488994214](https://issuetracker.google.com/issues/488994214))
+- Added `AppFunctionSignature` annotation and accompanying constants to declare runtime registered app function signatures. ([I82a05](https://android-review.googlesource.com/#/q/I82a0564aa3a8c7c227cd9527b8a2a70db4fe9621), [Ie2361](https://android-review.googlesource.com/#/q/Ie23619350211671447abdcc2f157c67912ada33e), [Ib6bb2](https://android-review.googlesource.com/#/q/Ib6bb2c7263026b537a5a322abaa57e45577847be))
+
+**Bug Fixes**
+
+- Omit `enabledByDefault` from generated XML for `AppFunctionSignatures` ([Ie2996](https://android-review.googlesource.com/#/q/Ie299615ae35eacf4cff5d1ce58e6bae5294962c7), [b/501032667](https://issuetracker.google.com/issues/501032667))
+
+### Version 1.0.0-alpha09
+
+May 06, 2026
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha09` is released. Version 1.0.0-alpha09 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/1a508f033de883ba2853b9f9ae1853eec7010638..05192460aef562f83eca3446674026b917977615/appfunctions).
+
+**API Changes**
+
+- Accept `AppInteractionAttribution` in `ExecuteAppFunctionRequest` ([I70ad8](https://android-review.googlesource.com/#/q/I70ad80ec0d58a0ef29dd3b04cb94a94b6fb136f2), [b/462092640](https://issuetracker.google.com/issues/462092640))
+
+**Bug Fixes**
+
+- Fix `AppFunctionUriGrant` compatibility issue on SDK37 ([I21110](https://android-review.googlesource.com/#/q/I21110a9c2e593927a2ac2097a70d40c1fc30afae), [b/485613578](https://issuetracker.google.com/issues/485613578))
+
+### Version 1.0.0-alpha08
+
+March 11, 2026
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha08` is released. Version 1.0.0-alpha08 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/fe02b1e42b486a2911eb323ef49a2caf556982bc..1a508f033de883ba2853b9f9ae1853eec7010638/appfunctions).
+
+**New Features**
+
+- Added support for Parcelable (s) besides `PendingIntent` ([I8ab9f](https://android-review.googlesource.com/#/q/I8ab9fcc69d0ebe11ce1cc9caeed7c7e3f69984d9))
+- APIs to convert from/to Platform request and response ([Ifdf20](https://android-review.googlesource.com/#/q/Ifdf20ebaa1e365cae501dfea7f4c326c208d3bfe)),
+
+**API Changes**
+
+- Parameter conformity with styleguide. ([I69b2d](https://android-review.googlesource.com/#/q/I69b2ddfdf8ae4fdf341cd5f364c056bae23f9c51))
+- Add APIs to convert from/to Platform request and response ([Ifdf20](https://android-review.googlesource.com/#/q/Ifdf20ebaa1e365cae501dfea7f4c326c208d3bfe), [b/476047880](https://issuetracker.google.com/issues/476047880))
+- Rename `AppFunctionManagerCompat` to `AppFunctionManager`. ([Id9a78](https://android-review.googlesource.com/#/q/Id9a78b0a74787ec911f0b10b9b5bd237937ca838), [b/448372122](https://issuetracker.google.com/issues/448372122))
+- Remove get/set APIs for `PendingIntent`. ([Ic7fd6](https://android-review.googlesource.com/#/q/Ic7fd6c9f5a9d69b6d88e752253e99f3369e1fbf1), [b/447530985](https://issuetracker.google.com/issues/447530985))
+- Add support for Parcelables and migrate `PendingIntent` to be represented as a Parcelable. ([I8ab9f](https://android-review.googlesource.com/#/q/I8ab9fcc69d0ebe11ce1cc9caeed7c7e3f69984d9), [b/447530985](https://issuetracker.google.com/issues/447530985))
+
+**Bug Fixes**
+
+- Moves libraries to use Java 11 target. This means produced bytecode will be Java 11 (class file version 55) and might require desugaring to use the library ([If4c2a](https://android-review.googlesource.com/#/q/If4c2a6fdda1278f42ea080fa365e8b437b2c2ae6), [b/457821470](https://issuetracker.google.com/issues/457821470))
+
+### Version 1.0.0-alpha07
+
+November 19, 2025
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha07` is released. Version 1.0.0-alpha07 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/a3cfe112d4f736e9cd9dd1c4b222448bfcc3cfa4..fe02b1e42b486a2911eb323ef49a2caf556982bc/appfunctions).
+
+**API Changes**
+
+- Support deprecating `AppFunction` ([I39229](https://android-review.googlesource.com/#/q/I392294f4cda7036d967d010c41f5acb2b1136abb), [b/454661174](https://issuetracker.google.com/issues/454661174))
+
+**Bug Fixes**
+
+- Fix issue with non-null required top-level parameters ([Ic60fc](https://android-review.googlesource.com/#/q/Ic60fc80c67ad724866313c3c744954493b9c0e78), [b/456717542](https://issuetracker.google.com/issues/456717542))
+
+### Version 1.0.0-alpha06
+
+November 05, 2025
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha06` is released. Version 1.0.0-alpha06 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/dac153545321dddc78a0fe286c86be49f86de8f6..a3cfe112d4f736e9cd9dd1c4b222448bfcc3cfa4/appfunctions).
+
+**New Features**
+
+- Support embedding resource as part of AppFunction response
+- Allow using `FLAG_GRANT_PERSISTABLE_URI_PERMISSION` in `AppFunctionUriGrant`
+
+**API Changes**
+
+- Add `ResourceHolder` API ([I08c1c](https://android-review.googlesource.com/#/q/I08c1cd97978c0a1008a4d06a4dec7411f74d399c), [b/447530724](https://issuetracker.google.com/issues/447530724))
+- Add `AppFunctionTextResource` API ([I7d54f](https://android-review.googlesource.com/#/q/I7d54f8f56818addcc43de8bf20960a5a62c4f48d), [b/447530724](https://issuetracker.google.com/issues/447530724))
+- Add `AppFunctionOneOfTypeMetadata` API ([I12c67](https://android-review.googlesource.com/#/q/I12c67479b526332fa58a03164ccb51cd5daddcd6), [b/449915612](https://issuetracker.google.com/issues/449915612))
+- Drop Compat suffix from Service APIs. ([Ib9291](https://android-review.googlesource.com/#/q/Ib9291c5faeb6caf1dac723b81b7642350f812674), [b/449797980](https://issuetracker.google.com/issues/449797980), [b/449797980](https://issuetracker.google.com/issues/449797980))
+- Support build `AppFunctionData` from `AllOfType` ([Ib1176](https://android-review.googlesource.com/#/q/Ib11763755ead6155aaa8919779ffc262e1d69227), [b/447535093](https://issuetracker.google.com/issues/447535093))
+- Add get/set Parcelable API(s) in `AppFunctionData` ([I3aec7](https://android-review.googlesource.com/#/q/I3aec78ef958a7c9d26d430b1033f51bbbe903de0), [b/447530985](https://issuetracker.google.com/issues/447530985))
+
+**Bug Fixes**
+
+- Fix the issue that ignoring nullable required field would fail when constructing `AppFunctionData` ([I52195](https://android-review.googlesource.com/c/platform/frameworks/support/+/3791966))
+- Fix the issue that using `List<PendingIntent>` with `AppFunction` would fail at compile time ([Iebde7](https://android-review.googlesource.com/c/platform/frameworks/support/+/3795955))
+- Fix the issue that `ByteArray`'s metadata was generated incorrectly as `List<ByteArray>` ([I2e499](https://android-review.googlesource.com/c/platform/frameworks/support/+/3810704))
+
+### Version 1.0.0-alpha05
+
+October 08, 2025
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha05` is released. Version 1.0.0-alpha05 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/f9ac371e13def566b9138a983e5dd9327a6244ae..dac153545321dddc78a0fe286c86be49f86de8f6/appfunctions).
+
+**New Features**
+
+- Enforce required fields are provided when constructing `AppFunctionData`
+- Validating `AppFunctionData` against constraint values
+
+**API Changes**
+
+- Add `AppFunctionService` Compat API(s). ([I2f1b1](https://android-review.googlesource.com/#/q/I2f1b1450f3a2402698b43e3559fcfcd0c34b0e64), [b/445388953](https://issuetracker.google.com/issues/445388953))
+
+**Bug Fixes**
+
+- Add required field `AppFunctionsData` check. ([I36b16](https://android-review.googlesource.com/#/q/I36b16cd87e420d1dbbb8918a11cfd3df9570911c), [b/394553462](https://issuetracker.google.com/issues/394553462))
+- Fix the issue that parameter optional state was not respected when overriding an interface.
+- Generate an empty XML file even when no `AppFunctions` are present since `AppSearch` expects the corresponding file specified in the App manifest.
+
+### Version 1.0.0-alpha04
+
+September 10, 2025
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha04` is released. Version 1.0.0-alpha04 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/0fc7aad34811cf94484effd29bc2696bb001758f..f9ac371e13def566b9138a983e5dd9327a6244ae/appfunctions).
+
+**Bug Fixes**
+
+- Fix R8 issues for release builds.
+
+### Version 1.0.0-alpha03
+
+August 13, 2025
+
+`androidx.appfunctions:appfunctions-*:1.0.0-alpha03` is released. Version 1.0.0-alpha03 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/0fc7aad34811cf94484effd29bc2696bb001758f/appfunctions).
+
+**New Features**
+
+- Use KDoc(s) as `AppFunction` descriptions
+- Restrict values for Int and String types using `AppFunctionIntValueConstraint` and `AppFunctionStringValueConstraint` annotations, respectively.
+- Specify a natural language description for large language models and a user visible description displayed within agent apps.
+- Automatically grant permissions to URI(s) returned from an app function using `AppFunctionUriGrant` class.
+- Write Robolectric tests using `AppFunctionTestRule` for testing your app function setup.
+
+**API Changes**
+
+- Add `AppFunctionStringValueConstraint` ([I10e3f](https://android-review.googlesource.com/#/q/I10e3fdff4693e4bf2088d170c0ac654457e8411c))
+- Add `AppFunctionIntValueConstraint` ([Ifda13](https://android-review.googlesource.com/#/q/Ifda13b0c50b2caa57de6bd7844b987ce72e70379))
+- Refactor `AppFunctionPrimitiveTypeMetadata` to specific data type classes. ([I1a3b2](https://android-review.googlesource.com/#/q/I1a3b2e308411bf070c485d90fbe70e399a92642e))
+- Add description field in `AppFunctionResponseMetadata` ([I2332b](https://android-review.googlesource.com/#/q/I2332bb9f5cd75c6269c3b1d671a38e0cb3b20d3d))
+- Remove permission requirement from `setAppFunctionEnabled` API ([I1b92a](https://android-review.googlesource.com/#/q/I1b92a6627801c98aa5fd0e49445092467b9120b9))
+- Add description field in `AppFunctionParameterMetadata` ([I40a67](https://android-review.googlesource.com/#/q/I40a67b95d3f6616e0d747f1be317bb758e1697e6))
+- Add `AppFunctionUriGrant` ([I67ca9](https://android-review.googlesource.com/#/q/I67ca988737fbe065ce8874f5b9b233c218a2f85b))
+- Add `resolveAppFunctionAppMetadata` API. ([I17408](https://android-review.googlesource.com/#/q/I174089a944187498e16190cb931197cf1b763fc4))
+- Add `isDescribedByKdoc` in `@AppFunctionSerializable` annotation ([Ie14e7](https://android-review.googlesource.com/#/q/Ie14e74525a708d7d775c1c0ef579f2349b06e5e8))
+- Add description field in `AppFunctionDataTypeMetadata` ([I1bcac](https://android-review.googlesource.com/#/q/I1bcacafddd42cd5190655d3d6b343c5058384e5e))
+- Return `AppPackageMetadata` from `observeAppFunctions` API. ([I68c7e](https://android-review.googlesource.com/#/q/I68c7e47ea7f2dfc7094ae5c19978fbb3263a6868))
+- Add description field in `AppFunctionMetadata` ([I060e2](https://android-review.googlesource.com/#/q/I060e22469b217a09008ca291d6d76b9d76cf268a))
+- Add `AppFunctionTestRule` ([Id5ed0](https://android-review.googlesource.com/#/q/Id5ed0992d87e1587fb9e3c4a96a6d9f6b3c33724))
+- Add `isDescribedByKdoc` in `@AppFunction` annotation ([Ia84d2](https://android-review.googlesource.com/#/q/Ia84d2a381fce668eec266c3555779be61b419315))
+
+**Bug Fixes**
+
+- `AppFunctionManagerCompat` only supports U+ devices ([Ifa8d0](https://android-review.googlesource.com/#/q/Ifa8d06581a37fabcd8f68b1ab6c89ae889ed57ae))
+- Add property descriptions of shared serializable types in `AppFunction`'s metadata xml ([I2aab2](https://android-review.googlesource.com/#/q/I2aab2c3148393e6177c20963dd5a274d38defce2))
+- Add a description element in generated `AppFunction`'s metadata xml ([Ie5bf6](https://android-review.googlesource.com/#/q/Ie5bf6e021da58c3779a8e463a1e3366637e27c08))
+
+### Version 1.0.0-alpha02
+
+June 4, 2025
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha02`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha02`, and `androidx.appfunctions:appfunctions-service:1.0.0-alpha02` are released. Version 1.0.0-alpha02 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/b6c541571b9fb5471f965fc52612cb280713e5e4..786176dc2284c87a0e620477608e0aca9adeff15/appfunctions).
+
+**New Features**
+
+- Support Android 16 API(s).
+- Better support for parameterized `AppFunctionSerializable(s)` at compile time.
+
+**API Changes**
+
+- Introduced `AppFunctionSchemaDefinition` API, enabling agents to define their own predefined function schemas.
+
+**Bug Fixes**
+
+- Error handling for missing runtime enabled state of `AppFunctions`.
+- Minor bugfix in `observeAppFunctions` API to observe changes in `AppFunctionComponentMetadata`.
+- Additional error logs.
+
+### Version 1.0.0-alpha01
+
+May 7, 2025
+
+`androidx.appfunctions:appfunctions:1.0.0-alpha01`, `androidx.appfunctions:appfunctions-compiler:1.0.0-alpha01`, and `androidx.appfunctions:appfunctions-service:1.0.0-alpha01` are released. Version 1.0.0-alpha01 contains [these commits](https://android.googlesource.com/platform/frameworks/support/+log/b6c541571b9fb5471f965fc52612cb280713e5e4/appfunctions).
+
+**New Features**
+
+The `AppFunctions` Jetpack library is built on top of `android.app.appfunctions` platform APIs. This library simplifies exposing your app's functionality to the Assistant and allows the Assistant to interact with the app's exposed functions.
+
+- **`androidx.appfunctions:appfunctions`** : Core client APIs for managing (enable/disable) and interacting with (search/execute) `AppFunctions`.
+- **`androidx.appfunctions:appfunctions-service`** : Service-side APIs to easily expose your app's functionalities as `AppFunctions`.
+- **`androidx.appfunctions:appfunctions-compiler`** : Required KSP compiler to generate necessary code for exposing `AppFunctions`.
