@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Изтича след %1$d час</item>
+        <item quantity="other">Изтича след %1$d часа</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Изтича след %1$d минута</item>
+        <item quantity="other">Изтича след %1$d минути</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">Задача трябва да бъде прегледана</item>
+        <item quantity="other">%1$d задачи трябва да бъдат прегледани</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d включени</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d пътник</item>
+        <item quantity="other">%1$d пътници</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d нощ</item>
+        <item quantity="other">%1$d нощи</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d задача трябва да бъде прегледана</item>
+        <item quantity="other">%1$d задачи трябва да бъдат прегледани</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">Преди %1$d д</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">Преди %1$d ч</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">Преди %1$d мин</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d артикул</item>
+        <item quantity="other">%1$d артикула</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">С %1$s и %2$d друг</item>
+        <item quantity="other">С %1$s и %2$d други</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d гост</item>
+        <item quantity="other">%1$d гости</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d нощ</item>
+        <item quantity="other">%1$d нощи</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d отзив</item>
+        <item quantity="other">%1$d отзива</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">Налични са още %1$d акаунта</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s и %2$d друг профил</item>
+        <item quantity="other">%1$s и %2$d други профила</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d профил ще има достъп до %2$s</item>
+        <item quantity="other">%1$d профила ще имат достъп до %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d автомобил</item>
+        <item quantity="other">%1$d автомобила</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d голяма чанта</item>
+        <item quantity="other">%1$d големи чанти</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="one">Включен е %1$s км</item>
+        <item quantity="other">Включени са %1$s км</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">Включена е %1$s миля</item>
+        <item quantity="other">Включени са %1$s мили</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d място</item>
+        <item quantity="other">%1$d места</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Вижте %1$d автомобил</item>
+        <item quantity="other">Вижте всички %1$d автомобила</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d малък куфар</item>
+        <item quantity="other">%1$d малки чанти</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">още над %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d артикул</item>
+        <item quantity="other">%1$d артикула</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Споделено с %1$d човек</item>
+        <item quantity="other">Споделено с %1$d души</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d сътрудник</item>
+        <item quantity="other">%1$d сътрудници</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d човек</item>
+        <item quantity="other">%1$d души</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d пространство</item>
+        <item quantity="other">%1$d пространства</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Ще запазите своя %1$s токен</item>
+        <item quantity="other">Ще запазите своите %1$s токена</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">Остават %1$d опита. Ако PIN кодът ви е неправилен, ще изгубите достъп.</item>
+        <item quantity="other">Остават %1$d опита, преди да изгубите достъп.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">Неправилен PIN код. Остава ви %1$d опит.</item>
+        <item quantity="other">Неправилен PIN код. Остават ви %1$d опита.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Показване на %1$d неактивни</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Сподели пространство с вас и %1$d друг.</item>
+        <item quantity="other">Сподели пространство с вас и %1$d други.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Опция %1$s</item>
+        <item quantity="other">Опции %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Използване на %1$d изображение</item>
+        <item quantity="other">Използване на %1$d изображения</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d задача в браузъра</item>
+        <item quantity="other">%1$d задачи в браузъра</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">Този код е неправилен. Остават %1$d опита.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d включени</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Потвърждаване на полета</item>
+        <item quantity="other">Потвърждаване на полети</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d чанта за ръчен багаж</item>
+        <item quantity="other">%1$d чанти за ръчен багаж</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d чекиран багаж</item>
+        <item quantity="other">%1$d чекирани багажа</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d пътник</item>
+        <item quantity="other">%1$d пътници</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d спиране</item>
+        <item quantity="other">%1$d спирания</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Показване на още %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d конектор</item>
+        <item quantity="other">%1$d конектора</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+ още %1$d задача</item>
+        <item quantity="other">Още +%1$d задачи</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">Още %1$d видеоклип</item>
+        <item quantity="other">Още %1$d видеоклипа</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Безплатно връщане за %1$d ден</item>
+        <item quantity="other">Безплатно връщане за %1$d дни</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Връщане в рамките на %1$d дни</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d сътрудник</item>
+        <item quantity="other">%1$d сътрудници</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d артикул</item>
+        <item quantity="other">%1$d артикула</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d от %2$d задачи е готова</item>
+        <item quantity="other">%1$d от %2$d задачи са готови</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">%1$d акаунт</item>
+        <item quantity="other">%1$d акаунта</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d сътрудник</item>
+        <item quantity="other">%1$d сътрудници</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d насрочена задача</item>
+        <item quantity="other">%1$d насрочени задачи</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">На всеки %1$d час</item>
+        <item quantity="other">На всеки %1$d часа</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">На всеки %1$d минути</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">На всеки %1$d секунди</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">Окончателно изтриване на %1$d файл?</item>
+        <item quantity="other">Окончателно изтриване на %1$d файла?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">Изтриване на %1$d файл</item>
+        <item quantity="other">Изтриване на %1$d файла</item>
+    </plurals>
+</resources>

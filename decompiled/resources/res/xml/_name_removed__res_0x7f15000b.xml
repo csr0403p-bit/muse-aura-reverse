@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="com.facebook.aura.main.AuraMainActivity"
+    android:sessionService="com.facebook.aura.assist.HatchVoiceInteractionSessionService"
+    android:recognitionService="com.facebook.aura.assist.HatchRecognitionService"
+    android:supportsAssist="true"
+    android:supportsLaunchVoiceAssistFromKeyguard="true"/>

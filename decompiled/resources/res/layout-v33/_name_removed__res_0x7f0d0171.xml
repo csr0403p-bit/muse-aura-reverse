@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="bottom|center_horizontal"
+    android:id="@+id/glanceView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textDirection="locale"
+    android:layoutDirection="locale"
+    app:NOT_FOUND_0x7="true"
+    style="@style/_name_removed__res_0x7f130089">
+    <ViewStub
+        android:id="@+id/checkBox"
+        android:layout="@layout/_name_removed__res_0x7f0d017d"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</FrameLayout>

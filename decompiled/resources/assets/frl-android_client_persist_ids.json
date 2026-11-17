@@ -1,0 +1,14 @@
+{
+  "FrlBloksAppRootQuery": {
+    "client_doc_id": "616550760289040519743181607",
+    "schema": "frl"
+  },
+  "FrlBloksAsyncActionQuery": {
+    "client_doc_id": "2538893941228892083057983102",
+    "schema": "frl"
+  },
+  "FrlBloksAsyncComponentQuery": {
+    "client_doc_id": "26656874273987966852919433040",
+    "schema": "frl"
+  }
+}

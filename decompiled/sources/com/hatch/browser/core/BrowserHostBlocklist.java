@@ -1,0 +1,14 @@
+package com.hatch.browser.core;
+
+import X.HtJ;
+
+/* loaded from: classes6.dex */
+public interface BrowserHostBlocklist {
+    public static final Companion Companion = Companion.$$INSTANCE;
+
+    public final class Companion {
+        public static final /* synthetic */ Companion $$INSTANCE = new Companion();
+    }
+
+    Object check(byte[] bArr, HtJ<? super NativeBlocklistCheckResult> htJ);
+}

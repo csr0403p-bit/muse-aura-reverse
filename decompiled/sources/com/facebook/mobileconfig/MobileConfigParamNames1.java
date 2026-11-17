@@ -1,0 +1,944 @@
+package com.facebook.mobileconfig;
+
+import X.AbstractC7608F5v;
+import com.facebook.aura.accountcenter.MC;
+import com.facebook.aura.activation.view.AuraWaitlistConfettiKt;
+import com.facebook.aura.activation.view.InviteCodeScratcherKt;
+import com.facebook.aura.agentpermission.MC;
+import com.facebook.aura.ageverification.SelfieSnapshotKt;
+import com.facebook.aura.auth.credentialmanager.MC;
+import com.facebook.aura.avatarassets.appearance.MC;
+import com.facebook.aura.browsertask.control.BrowserTaskStopKt;
+import com.facebook.aura.commands.health.MC;
+import com.facebook.aura.commands.sms.MessageDraftSenderKt;
+import com.facebook.aura.common.video.HatchTransportHttpDataSourceKt;
+import com.facebook.aura.components.reactions.AuraHeartEyesKt;
+import com.facebook.aura.components.reactions.AuraLightningLatchKt;
+import com.facebook.aura.components.reactions.AuraMicroLaunchKt;
+import com.facebook.aura.components.reactions.AuraPressureReleaseKt;
+import com.facebook.aura.components.reactions.AuraScatterKt;
+import com.facebook.aura.composer.util.ImageCompressor;
+import com.facebook.aura.dancingavatars.gating.MC;
+import com.facebook.aura.devices.pairing.LinkEncryptedPairingKt;
+import com.facebook.aura.file.utils.HtmlPdfRenderer;
+import com.facebook.aura.gateway.store.HatchGatewayPrefsStore;
+import com.facebook.aura.handoff.impl.MC;
+import com.facebook.aura.iap.MC;
+import com.facebook.aura.identity.datr.MC;
+import com.facebook.aura.login.nativeflow.MC;
+import com.facebook.aura.maps.MC;
+import com.facebook.aura.network.transport.flipper.FlipperNoiseReporter;
+import com.facebook.aura.partners.accountlinking.nativeauthlogging.MC;
+import com.facebook.aura.partners.voice.infra.VideoConfigJsonKt;
+import com.facebook.aura.partners.wearables.linking.MC;
+import com.facebook.aura.qpl.module.MC;
+import com.facebook.aura.settings.MC;
+import com.facebook.aura.sharesheet.HatchIdeaShareImageRenderer;
+import com.facebook.aura.sharesheet.HatchMessageShareDocumentRenderer;
+import com.facebook.aura.utils.MC;
+import com.facebook.aura.wearablebroadcast.MC;
+import com.facebook.aura.widgets.MC;
+
+/* loaded from: classes6.dex */
+public class MobileConfigParamNames1 {
+    public static String getDoubleParamName(long j) {
+        return "";
+    }
+
+    public static String getBooleanParamName(long j) {
+        switch (AbstractC7608F5v.A07(j)) {
+            case 54:
+                return "fb4a_lias_launch";
+            case 55:
+                return "fb4a_login_send_device_emails_to_server_killswitch";
+            case 56:
+                return "fb4a_login_send_sso_userids_to_server_killswitch";
+            case 57:
+                return "caa_native_integration_point_fb_and_msgr_gk";
+            case 58:
+                return "android_first_party_provider";
+            case 59:
+                return "android_sso_provider_use_trustedapp_api";
+            case 60:
+                return "germany_tos_sept_2017";
+            case 61:
+                return "fb4a_read_first_party_sso_credentials_killswitch";
+            case HatchMessageShareDocumentRenderer.TABLE_MIN_ROW_HEIGHT_PX /* 62 */:
+                return "app_session_remove_confirmation_status_killswitch";
+            case 63:
+                return "italian_court_order_banner";
+            case 64:
+                return "zero_header_transparency_fb4a_killswitch";
+            case LinkEncryptedPairingKt.LINK_PUBLIC_KEY_SIZE /* 65 */:
+                return "gk_netzdg";
+            case 66:
+                return "fb4a_dbl_popup_menu_do_not_disturb_lc";
+            case MessageDraftSenderKt.UNICODE_MULTIPART_CHARS /* 67 */:
+                return "fb4a_dbl_nux_password_account_fix";
+            case 68:
+                return "orca_login_graph_api_migration";
+            case 69:
+                return "fb4a_nonce_autologin_different_user_killswitch";
+            case MessageDraftSenderKt.UNICODE_SINGLE_PART_CHARS /* 70 */:
+                return "fb4a_reg_full_name";
+            case 71:
+                return "fb4a_reg_name_inline_validation";
+            case 72:
+                return "fb4a_reg_inline_terms_step";
+            case 73:
+                return "fb4a_show_cp_upload_legal_notice";
+            case 74:
+                return "show_eu_tos";
+            case 75:
+                return "fb4a_reg_header_prefill_killswitch";
+            case HatchIdeaShareImageRenderer.TEXT_LEFT /* 76 */:
+                return "ccu_content_sessionless";
+            case HatchMessageShareDocumentRenderer.APP_ICON_SIZE_PX /* 77 */:
+                return "italian_notice_on_tos_screen";
+            case 78:
+                return "show_rest_of_world_tos";
+            case 79:
+                return "fb4a_autoconf_inapp_kill_switch";
+            case 80:
+                return "android_userstatus_ipc_account_manager_killswitch";
+            case 81:
+                return "me_to_fb4a_sso_save_extra_info_killswitch";
+            case 82:
+                return "gk_mobileboost_killswitch_2019h2";
+            case 83:
+                return "android_messenger_sms_retriever";
+            case 84:
+                return "gk_cpuboost_killswitch_2019h2";
+            case ImageCompressor.IMAGE_COMPRESSION_QUALITY /* 85 */:
+                return "fb4a_conf_2_step_conf_single_option";
+            case 86:
+                return "smartlock_multiple_credential_optimization_launch";
+            case 87:
+                return "orca_persistent_data_retention_helper_ks";
+            case 88:
+                return "m4a_s208426_initial_fix";
+            case 89:
+                return "android_password_encryption_common_lib_disabled";
+            case 90:
+                return "can_see_new_entrypoint";
+            case 91:
+                return "show_standardized_entry_point";
+            case AuraWaitlistConfettiKt.StandardParticleCount /* 92 */:
+                return "blocklist_countries";
+            case 93:
+                return "should_cache_product_price_gql";
+            case 94:
+                return "android_iap_paid_apps_country_blacklist";
+            case SelfieSnapshotKt.SELFIE_JPEG_QUALITY /* 95 */:
+                return "ios_enable_3p_link_in_app_setting";
+            case 96:
+                return "ios_enable_3p_link_in_connected_apps";
+            case 97:
+                return "android_enable_3p_link_in_app_setting";
+            case 98:
+                return "android_enable_3p_link_in_connected_apps";
+            case 99:
+                return "android_enable_quirks_mode";
+            case 100:
+                return "ios_use_https_auth_callback";
+            case FlipperNoiseReporter.SWITCHING_PROTOCOLS_STATUS_CODE /* 101 */:
+                return "enable_3p_connector_local_prompt_resend";
+            case 102:
+                return "enable_3p_connector_oauth_prompt_resend";
+            case 103:
+                return "ios_accept_server_https_auth_callback";
+            case 104:
+                return "enable_magus";
+            case 105:
+                return "enable_magus_addons";
+            case 106:
+                return "enable_flatbuffer_backed_client_doc_ids";
+            case 107:
+                return "enable_oss_parsing";
+            default:
+                return "";
+        }
+    }
+
+    public static String getLongParamName(long j) {
+        switch (AbstractC7608F5v.A07(j)) {
+            case 387:
+                return "max_rtt_for_fec";
+            case 388:
+                return "min_frames_for_fec";
+            case 389:
+                return "min_keyframe_bytes_for_fec";
+            case 390:
+                return "packet_loss_protection_max_pct";
+            case 391:
+                return "first_partition_overhead_latest";
+            case 392:
+                return "use_packet_loss_rate_as_protection_rate";
+            case 393:
+                return "plr_pr_minimum_protection_rate";
+            case 394:
+                return "disable_fec_for_quality_bwe_high_kbps";
+            case 395:
+                return "disable_fec_for_quality_bwe_low_kbps";
+            case 396:
+                return "honor_min_video_bitrate";
+            case 397:
+                return "k_loss_pr_smoothing_factor_latest";
+            case 398:
+                return "generate_fec_when_buffer_full";
+            case 399:
+            case 407:
+            case 412:
+            case 418:
+            case 437:
+            case 513:
+            case 563:
+            case 571:
+            case 572:
+            case 611:
+            case 622:
+            case 631:
+            case 662:
+            case 679:
+            case 689:
+            case 701:
+            case 707:
+            case AuraMicroLaunchKt.MICRO_LAUNCH_TOTAL_MS /* 710 */:
+            case 711:
+            case 714:
+            case 715:
+            case 716:
+            case 717:
+            case 721:
+            case 728:
+            case 744:
+            case 745:
+            case 746:
+                return "enabled";
+            case 400:
+                return "session_key_protocol_enabled";
+            case 401:
+                return "key_provider_lookup_with_cname_enabled";
+            case MC.stella_payments_in_app_purchases.__CONFIG__ /* 402 */:
+                return "pass_through_encryption_on_e2ee_teardown_enabled";
+            case 403:
+                return "enable";
+            case 404:
+                return "enable_compound_rtcp";
+            case 405:
+                return "background_gradients_enabled";
+            case MC.mwa_accounts_center_3p_link.__CONFIG__ /* 406 */:
+                return "lighting_enabled";
+            case 408:
+                return "high_res_enabled";
+            case 409:
+                return "avatar_communication_enabled";
+            case 410:
+                return "avatar_rtc_armadillo_enabled";
+            case 411:
+                return "restore_last_camera_setting_on_exit";
+            case 413:
+                return "opus_priority";
+            case 414:
+                return "mlow_priority";
+            case 415:
+                return "set_maxplaybackrate";
+            case HatchTransportHttpDataSourceKt.HTTP_RANGE_NOT_SATISFIABLE /* 416 */:
+                return "set_usedtx";
+            case 417:
+                return "set_stereo";
+            case 419:
+                return "enable_congestion_detector";
+            case 420:
+                return "enable_loss_based_bwe";
+            case 421:
+                return "enable_packet_loss_tolerance_indicator";
+            case 422:
+                return "enable_ramp_up_down_controller";
+            case 423:
+                return "plr_decrease_threshold";
+            case 424:
+                return "plr_increase_threshold";
+            case 425:
+                return "plr_tolerance_threshold_ema";
+            case 426:
+                return "plr_tolerance_threshold_gap";
+            case 427:
+                return "plr_tolerance_threshold_lowdelay";
+            case 428:
+                return "rtt_congestion_multiplier";
+            case 429:
+                return "rtt_congestion_multiplier_threshold";
+            case 430:
+                return "rtt_congestion_step_ema";
+            case 431:
+                return "rtt_congestion_step_highest";
+            case 432:
+                return "rtt_congestion_threshold_abs";
+            case 433:
+                return "rtt_congestion_threshold_initial";
+            case 434:
+                return "rtt_no_data_received_threshold";
+            case 435:
+                return "rtt_no_rtcp_received_threshold";
+            case MC.mwa_qpl_metadata.__CONFIG__ /* 436 */:
+                return "send_side_bwe_close_to_ceiling_threshold";
+            case 438:
+                return "rtt_skip_min_cmp";
+            case 439:
+                return "ackrate_max_win";
+            case 440:
+                return "cap_bitrate_mode";
+            case 441:
+                return "incr_intvl";
+            case 442:
+                return "decr_intvl";
+            case 443:
+                return "rtt_signal_source";
+            case 444:
+                return "timeout_decr";
+            case 445:
+                return "incr";
+            case 446:
+                return "rtt_congestion_detect_mode";
+            case 447:
+                return "fec_underprotection_threshold";
+            case VideoConfigJsonKt.SOURCE_WIDTH /* 448 */:
+                return "fec_tolerance_adjustment_perc";
+            case 449:
+                return "fast_ramp_up_mode";
+            case 450:
+                return "rtt_congestion_timeout_fix";
+            case 451:
+                return "percent_packet_pairs";
+            case 452:
+                return "min_bwe_kbps_for_packet_pairs";
+            case 453:
+                return "use_pp_aimd_rate_controller_bwe";
+            case 454:
+                return "version_of_pp_bwe";
+            case 455:
+                return "pp_aimd_rate_controller_adjustment_bps";
+            case 456:
+                return "pp_aimd_rate_controller_adjustment_pct";
+            case 457:
+                return "pp_aimd_rate_controller_max_additive_incr_pct";
+            case 458:
+                return "pp_aimd_rate_controller_max_estimate_pct";
+            case 459:
+                return "send_side_bwe_pp_holdout_type";
+            case AuraLightningLatchKt.LIGHTNING_TOTAL_MS /* 460 */:
+                return "pp_aimd_rate_controller_multiplicative_slow_increase_pct";
+            case 461:
+                return "pp_aimd_rate_controller_full_adjustment_kbps";
+            case 462:
+                return "pp_link_capacity_alpha";
+            case 463:
+                return "pp_link_capacity_beta";
+            case 464:
+                return "high_plr_slow_ramp_up_without_congestion_onhold_time_interval";
+            case 465:
+                return "high_plr_slow_ramp_up_without_congestion_onhold_num";
+            case 466:
+                return "high_plr_slow_ramp_up_without_congestion_mode";
+            case 467:
+                return "high_plr_slow_ramp_up_without_congestion_bitrate_threshold";
+            case 468:
+                return "pp_aimd_max_from_est_pct";
+            case 469:
+                return "additive_cap_kbps";
+            case 470:
+                return "send_side_bwe_fast_rampup_floating_max_threshold";
+            case 471:
+                return "enable_bwe_isp_cap";
+            case 472:
+                return "isp_cap_twcc_loss_threshold_high";
+            case MC.frl_google_credential_manager.__CONFIG__ /* 473 */:
+                return "isp_cap_twcc_loss_threshold_low";
+            case 474:
+                return "isp_cap_std_relative2mean";
+            case 475:
+                return "isp_cap_min_bitrate";
+            case 476:
+                return "enable_loss_ramp_up_without_descrease_mode";
+            case 477:
+                return "use_history_uncertainty_region";
+            case 478:
+                return "history_uncertainty_region_time";
+            case 479:
+                return "history_uncertainty_region_percentile";
+            case 480:
+                return "enable_loss_smoothing";
+            case 481:
+                return "link_capacity_low_confidence_on_reset";
+            case 482:
+                return "enable_transport_socket_error_signal";
+            case 483:
+                return "plr_threshold_ignore_congestion_in_rpl";
+            case 484:
+                return "random_packet_loss_detector_use_mode";
+            case 485:
+                return "plr_threshold_ignore_tolerance_in_rpl";
+            case 486:
+                return "audio_additive_cap_kbps";
+            case 487:
+                return "audio_cap_multiplier_factor";
+            case 488:
+                return "enable_separate_audio_config";
+            case 489:
+                return "receiver_limit_override_bps";
+            case 490:
+                return "receiver_limit_override_mode";
+            case 491:
+                return "audio_rampup_headroom_pct";
+            case 492:
+                return "audio_rampup_min_bitrate_kbps";
+            case 493:
+                return "audio_rampup_step_pct";
+            case 494:
+                return "audio_rampup_window_ms";
+            case 495:
+                return "enable_audio_conservative_rampup";
+            case 496:
+                return "audio_rampup_dtx_gap_ms";
+            case 497:
+                return "audio_rampup_dtx_recovery_only";
+            case 498:
+                return "audio_rampup_filter_low_throughput";
+            case MC.c50_accounts_center_settings.__CONFIG__ /* 499 */:
+                return "audio_rampup_use_link_capacity";
+            case 500:
+                return "should_skip_video_escalation_handshake";
+            case 501:
+                return "improved_video_to_audio_deescalation";
+            case 502:
+                return "h265_allowed";
+            case BrowserTaskStopKt.HTTP_SERVICE_UNAVAILABLE /* 503 */:
+                return "data_rate_limit_pct";
+            case 504:
+                return "has_trusted_rc";
+            case 505:
+                return "disable_max_key_frame_interval";
+            case 506:
+                return "h265_max_key_frame_interval_duration";
+            case 507:
+                return "h265_max_key_frame_interval";
+            case 508:
+                return "psnr_control";
+            case 509:
+                return "enable_av1_decode";
+            case 510:
+                return "enable_decode_error_recover";
+            case 511:
+                return "low_latency_rate_control_enabled";
+            case 512:
+                return "use_passthrough";
+            case 514:
+                return "initial_encoder_type";
+            case 515:
+                return "switch_to_sw_by_bitrate";
+            case MC.wearables_hatch.__CONFIG__ /* 516 */:
+                return "switch_to_sw_kbps_threshold";
+            case 517:
+                return "switch_to_hw_by_bitrate";
+            case 518:
+                return "switch_to_hw_kbps_threshold";
+            case 519:
+                return "switch_to_sw_for_screen_sharing";
+            case InviteCodeScratcherKt.REVEAL_DURATION_MS /* 520 */:
+                return "switch_to_sw_for_encoder_error";
+            case 521:
+                return "hw_encoder_error_threshold";
+            case MC.hatch_android_subscription.__CONFIG__ /* 522 */:
+                return "hw_encoder_delay_ms_threshold";
+            case 523:
+                return "max_get_back_to_hw_attempt";
+            case 524:
+                return "min_encoding_period";
+            case 525:
+                return "force_to_sw";
+            case 526:
+                return "min_bitrate_buffer_size";
+            case 527:
+                return "enable_fast_switch_to_sw";
+            case 528:
+                return "bitrate_buffer_size_ramp_up";
+            case 529:
+                return "use_hw_only_for_hd";
+            case 530:
+                return "fix_init_hw_twice";
+            case MC.wearables_hatch_health_connectors.__CONFIG__ /* 531 */:
+                return "include_default_av1_enc";
+            case 532:
+                return "halo_button_icon_with_play";
+            case 533:
+                return "microphone_enabled";
+            case MC.dcp_iap_android.__CONFIG__ /* 534 */:
+                return "fallback_burst_cpu_denominator";
+            case 535:
+                return "fallback_burst_cpu_numerator";
+            case 536:
+                return "fallback_burst_cpu_threshold";
+            case 537:
+                return "fallback_sustained_cpu_denominator";
+            case MC.android_lobster_wearables_v2.__CONFIG__ /* 538 */:
+                return "fallback_sustained_cpu_numerator";
+            case 539:
+                return "fallback_sustained_cpu_threshold";
+            case 540:
+                return "ml_use_pytorch_api_threads_guard";
+            case 541:
+                return "asp_use_workthread";
+            case 542:
+                return "use_pytorch_no_pthread_pool_guard";
+            case 543:
+                return "enable_qpl_logging";
+            case 544:
+                return "enable_dynamic_ml_process";
+            case 545:
+                return "dynamic_ml_process_pwr_detect_threshold_db";
+            case 546:
+                return "dynamic_ml_process_active_hangon_seconds";
+            case MC.hatch_android_visual_refresh.__CONFIG__ /* 547 */:
+                return "use_executorch";
+            case 548:
+                return "suppression_intensity";
+            case 549:
+                return "bypass_ml_ns_result";
+            case 550:
+                return "ml_ns_wetness";
+            case 551:
+                return "ml_ns_model_sampling_rate";
+            case 552:
+                return "ml_ns_inference_delay_ms";
+            case MC.hatch_android_maps.__CONFIG__ /* 553 */:
+                return "ml_ns_allowed_audio_routes";
+            case MC.hatch_maps.__CONFIG__ /* 554 */:
+                return "disable_hw_ns_when_ml_ns_active";
+            case 555:
+                return "use_meta_audio_resampler";
+            case 556:
+                return "ml_ns_comfort_noise_attenuation_db";
+            case 557:
+                return "enable_cascaded_ns";
+            case 558:
+                return "disable_ml_ns_when_video_call";
+            case 559:
+                return "disable_rusage_stats";
+            case 560:
+                return "apexrt_model_version";
+            case 561:
+                return "ml_ns_backend";
+            case 562:
+                return "identity_key_mode";
+            case 564:
+                return "enable_in_latest";
+            case 565:
+                return "enforce_enable_audio_session_after_adm_start";
+            case MC.hatch_android_reactions.__CONFIG__ /* 566 */:
+                return "enable_config_audio_session_in_report_incoming_call";
+            case 567:
+                return "defer_add_audio_stream_until_active_audio_session";
+            case MC.hatch_android_login.__CONFIG__ /* 568 */:
+                return "enable_timed_pause_stall_recovery_flag";
+            case 569:
+                return "enable_audio_device_playout_smoother";
+            case 570:
+                return "enable_stall_monitor_rearm";
+            case MC.hatch_message_bubble.__CONFIG__ /* 573 */:
+                return "add_pacing";
+            case 574:
+                return "min_pushback_target_bitrate_bps";
+            case 575:
+                return "additional_queue_ms";
+            case 576:
+                return "do_blocking_update";
+            case 577:
+                return "min_cc_bitrate_bps";
+            case MC.hatch_activity_screen.__CONFIG__ /* 578 */:
+                return "enable_one_way_delay";
+            case 579:
+                return "one_way_delay_threshold";
+            case MC.hatch_datr_bridge_sessionless_android.__CONFIG__ /* 580 */:
+                return "one_way_delay_unstable_threshold";
+            case 581:
+                return "min_scale_down_percentage";
+            case MC.hatch_android_enable_wa_into_hatch_sso_device_id.__CONFIG__ /* 582 */:
+                return "one_way_delay_cell_decrease_factor";
+            case 583:
+                return "severe_congestion_threshold";
+            case 584:
+                return "recovery_increase_ratio";
+            case 585:
+                return "severe_congestion_decrease_ratio";
+            case 586:
+                return "mild_congestion_decrease_ratio";
+            case 587:
+                return "encoding_ratio_floor";
+            case 588:
+                return "one_way_delay_update_mode";
+            case 589:
+                return "min_scale_down_percentage_lb";
+            case 590:
+                return "severe_congestion_rtt_threshold";
+            case MC.muse_checkout_promos.__CONFIG__ /* 591 */:
+                return "cc_bitrate_adjustment_kbps";
+            case MC.xe_growth_hatch_abra_config.__CONFIG__ /* 592 */:
+                return "enable_ml_congestion_ceiling";
+            case 593:
+                return "ml_congestion_encoding_ratio_ceiling";
+            case 594:
+                return "ml_use_lb_congestion";
+            case HtmlPdfRenderer.PAGE_WIDTH /* 595 */:
+                return "ml_use_sbp_override_cwnd_additional_queue";
+            case 596:
+                return "ml_sbp_threshold_override_cwnd_additional_queue_kbps";
+            case 597:
+                return "ml_use_congestion_model_override_additional_queue";
+            case 598:
+                return "ml_strict_additional_queue_ms_override_value";
+            case MC.hatch_android_dancing_avatars.__CONFIG__ /* 599 */:
+                return "ml_encoding_ratio_mode";
+            case 600:
+                return "use_ml_probability_capping_for_cwnd";
+            case 601:
+                return "ml_congestion_event_logging_interval_ms";
+            case 602:
+                return "computed_encoding_rate_ratio_decr";
+            case 603:
+                return "computed_encoding_rate_ratio_incr";
+            case 604:
+                return "drain_limit_ms";
+            case 605:
+                return "use_computed_encoding_rate_ratio";
+            case 606:
+                return "ml_enc_quantization_param";
+            case 607:
+                return "decode_single_nal";
+            case 608:
+                return "enable_auto_expand_ltr_index";
+            case 609:
+                return "decoder_thread_count";
+            case 610:
+                return "use_omnigrid_layout_for_chiclets";
+            case 612:
+                return "enabled_for_interop";
+            case 613:
+                return "enabled_for_rooms";
+            case 614:
+                return "check_capability";
+            case MC.muse_android_deeplink_security_controls.__CONFIG__ /* 615 */:
+                return "is_e2ee_room_call_supported";
+            case 616:
+                return "max_num_participants_allowed_in_e2ee_room_calls";
+            case MC.hatch_android_widgets.__CONFIG__ /* 617 */:
+                return "openmaxil_codec_enabled";
+            case 618:
+                return "openmaxil_decoder_enabled";
+            case 619:
+                return "openmaxil_decoder_use_hardware_buffers";
+            case AuraPressureReleaseKt.PRESSURE_TOTAL_MS /* 620 */:
+                return "codec2_decoder_enabled";
+            case 621:
+                return "skip_i420_conversion_enabled";
+            case 623:
+                return "flushing_frequency_ms";
+            case MC.hatch_android_avatar_abra.__CONFIG__ /* 624 */:
+            case HatchMessageShareDocumentRenderer.MIN_IMAGE_HEIGHT_PX /* 630 */:
+                return "tslog_encoding";
+            case 625:
+                return "rsys_promotions_enabled";
+            case 626:
+                return "promotions_in_rooms_enabled";
+            case 627:
+                return "raise_hand_halo_design_enabled";
+            case 628:
+                return "sampling_percentage";
+            case 629:
+                return "cutoff_duration";
+            case 632:
+                return "pacing_factor_percent";
+            case 633:
+                return "max_plr_enable_adaptive_pacing";
+            case 634:
+                return "min_bw_enable_adaptive_pacing";
+            case 635:
+                return "min_adaptive_pacing_factor";
+            case 636:
+                return "max_adaptive_pacing_factor";
+            case 637:
+                return "alr_probing";
+            case 638:
+                return "bitrate_adjuster";
+            case 639:
+                return "adjuster_use_headroom";
+            case 640:
+                return "pacer_use_cc_bitrate";
+            case 641:
+                return "disable_pacer_on_lan";
+            case 642:
+                return "multipeer_rate_limit_total_5s";
+            case 643:
+                return "multipeer_rate_limit_total_30s";
+            case 644:
+                return "multipeer_rate_limit_fallback_to_rtp";
+            case 645:
+                return "peer_consent_dialog_enabled";
+            case 646:
+                return "send_media_when_alone";
+            case 647:
+                return "windows_new_device_change_event_logic";
+            case 648:
+                return "windows_new_default_device_logic";
+            case 649:
+                return "throttling_code_enabled";
+            case 650:
+                return "drop_throttled_message_enabled_media_critical";
+            case 651:
+                return "max_err_per_sec_media_critical";
+            case 652:
+                return "drop_throttled_message_enabled_media_high";
+            case 653:
+                return "burst_size_media_high";
+            case 654:
+                return "max_err_per_sec_media_high";
+            case 655:
+                return "burst_size_media_low";
+            case 656:
+                return "regen_rate_media_low";
+            case 657:
+                return "drop_throttled_message_enabled_signaling_critical";
+            case 658:
+                return "max_err_per_sec_signaling_critical";
+            case 659:
+                return "regen_rate_signaling_high";
+            case 660:
+                return "burst_size_signaling_medium";
+            case 661:
+                return "regen_rate_signaling_low";
+            case 663:
+                return "fps_0";
+            case 664:
+                return "fps_1";
+            case 665:
+                return "fps_2";
+            case 666:
+                return "fps_3";
+            case 667:
+                return "fps_4";
+            case 668:
+                return "fps_5";
+            case 669:
+                return "pixels_0";
+            case 670:
+                return "pixels_1";
+            case 671:
+                return "pixels_2";
+            case 672:
+                return "pixels_3";
+            case 673:
+                return "pixels_4";
+            case 674:
+                return "pixels_5";
+            case 675:
+                return "length";
+            case 676:
+                return "pixels_6";
+            case 677:
+                return "fps_6";
+            case 678:
+                return "accept_remote_video_fix_enabled";
+            case AuraHeartEyesKt.HEART_EYES_TOTAL_MS /* 680 */:
+                return "min_time_in_fair";
+            case 681:
+                return "show_toast_flag";
+            case 682:
+                return "only_enable_for_p2p";
+            case 683:
+                return "show_toast_after_call_start_ms";
+            case 684:
+                return "allow_tcp_listen";
+            case 685:
+                return "ignore_private_ips";
+            case 686:
+                return "donot_send_host_candidates";
+            case 687:
+                return "max_ice_port";
+            case 688:
+                return "min_ice_port";
+            case 690:
+                return "max_playout_delay_ms";
+            case 691:
+                return "screen_sharing_enabled";
+            case 692:
+                return "avatars_enabled";
+            case 693:
+                return "snapshot_enabled";
+            case 694:
+                return "ar_effects_enabled";
+            case 695:
+                return "raise_hands_enabled";
+            case 696:
+                return "halo_controls_enabled";
+            case 697:
+                return "ig_media_share_enabled";
+            case 698:
+                return "ar_effects_random_effect_picker_enabled";
+            case 699:
+                return "rp_polls_enabled";
+            case 700:
+                return "ar_effects_logging_enabled";
+            case 702:
+                return "expected_frames_processed_pct";
+            case 703:
+                return "min_unmuted_frames_pct";
+            case 704:
+                return "super_silence_threshold";
+            case 705:
+                return "super_silent_frames_pct_to_fail";
+            case 706:
+                return "enable_qpl";
+            case 708:
+                return "touchup_enabled";
+            case 709:
+                return "sidebar_effects_enabled";
+            case 712:
+                return "ring_buffer_sink_capacity_in_kib";
+            case 713:
+                return "webrtc_console_log_override_level";
+            case 718:
+                return "psi";
+            case 719:
+                return "enable_render_time_fix";
+            case 720:
+                return "enable_audio_device_selector";
+            case 722:
+                return "min_dtx_consecutive_packet";
+            case 723:
+                return "no_stat_update_before_reset_ms";
+            case 724:
+                return "enable_reset_in_dtx";
+            case 725:
+                return "in_dtx_ms_before_reset";
+            case 726:
+                return "enable_reset_cached_delay";
+            case 727:
+                return "enabled_page_afterhours";
+            case 729:
+                return "windows_adm_capture_prioritize_mono";
+            case 730:
+                return "call_intent_setup_callback_inlined";
+            case 731:
+                return "webrtc_video_receiver_attach_sink_with_ssrc";
+            case 732:
+                return "allow_video_sink_replace_screensharing";
+            case 733:
+                return "use_receiver_rtp_capabilities";
+            case 734:
+                return "enable_mqtt";
+            case 735:
+                return "enable_chatd";
+            case 736:
+                return "min_payload_size_bytes";
+            case 737:
+                return "wcp_transmit_timeout_ms";
+            case 738:
+                return "send_stanza_token_ttl_seconds";
+            case 739:
+                return "reconnect_on_timeout";
+            case 740:
+                return "wameta_expects_quick_response";
+            case 741:
+                return "wameta_transfer_stats_in_callback_context";
+            case 742:
+                return "prefer_mqtt";
+            case 743:
+                return HatchGatewayPrefsStore.KEY_MAX_RETRY_COUNT;
+            case 747:
+                return "adaptive_modes_enabled";
+            case 748:
+                return "mode2_enabled";
+            case 749:
+                return "mode2_bitrate_bps";
+            case AuraScatterKt.SCATTER_TOTAL_MS /* 750 */:
+                return "mode2_max_playback_rate_hz";
+            case 751:
+                return "mode2_frame_length_ms";
+            case 752:
+                return "enable_for_audio_calls";
+            case 753:
+                return "mode10_enabled";
+            case 754:
+                return "mode10_bitrate_bps";
+            case 755:
+                return "mode10_max_playback_rate_hz";
+            case 756:
+                return "mode10_frame_length_ms";
+            case 757:
+                return "mode20_enabled";
+            case 758:
+                return "mode20_bitrate_bps";
+            case 759:
+                return "mode20_max_playback_rate_hz";
+            case 760:
+                return "mode20_frame_length_ms";
+            case 761:
+                return "mode10_enabling_bandwidth_bps";
+            case 762:
+                return "mode10_disabling_bandwidth_bps";
+            case 763:
+                return "mode20_enabling_bandwidth_bps";
+            case 764:
+                return "mode20_disabling_bandwidth_bps";
+            case 765:
+                return "mode10_complexity";
+            case 766:
+                return "mode20_complexity";
+            case 767:
+                return "initialize_delay_ms";
+            case 768:
+                return "mode5_enabled";
+            case 769:
+                return "mode5_enabling_bandwidth_bps";
+            case 770:
+                return "mode5_disabling_bandwidth_bps";
+            case 771:
+                return "mode5_bitrate_bps";
+            case 772:
+                return "mode5_max_playback_rate_hz";
+            case 773:
+                return "mode5_frame_length_ms";
+            default:
+                return "";
+        }
+    }
+
+    public static String getStringParamName(long j) {
+        switch (AbstractC7608F5v.A07(j)) {
+            case 11:
+                return "android_accounts_center_3p_link_url";
+            case 12:
+                return "android_extra_auth_urls";
+            case 13:
+                return "ac_3p_link_url_connected_apps";
+            case 14:
+                return "ac_3p_link_url_device_settings";
+            case 15:
+                return "ac_3p_link_url_meta_ai_threads";
+            case 16:
+                return "android_external_domains";
+            case 17:
+                return "consistency_blocklist_paths";
+            case 18:
+                return "name";
+            case 19:
+                return "orchestrator_override";
+            case 20:
+                return "deeplink_url";
+            case 21:
+                return "wearables_link_learn_more_link";
+            default:
+                return "";
+        }
+    }
+}

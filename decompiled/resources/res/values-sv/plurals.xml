@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Går ut om %1$d timme</item>
+        <item quantity="other">Går ut om %1$d timmar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Går ut om %1$d minut</item>
+        <item quantity="other">Går ut om %1$d minuter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">En uppgift behöver granskas</item>
+        <item quantity="other">%1$d uppgifter behöver granskas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d inkluderade</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d passagerare</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d natt</item>
+        <item quantity="other">%1$d nätter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d uppgift behöver granskas</item>
+        <item quantity="other">%1$d uppgifter behöver granskas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="one">%1$d dag sedan</item>
+        <item quantity="other">%1$d dagar sedan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d tim sedan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d min sedan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d objekt</item>
+        <item quantity="other">%1$d objekt</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">Med %1$s och %2$d till</item>
+        <item quantity="other">Med %1$s och %2$d andra</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d gäst</item>
+        <item quantity="other">%1$d gäster</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d natt</item>
+        <item quantity="other">%1$d nätter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d recension</item>
+        <item quantity="other">%1$d recensioner</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">%1$d annat konto är tillgängligt</item>
+        <item quantity="other">%1$d andra konton är tillgängliga</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s och %2$d annan profil</item>
+        <item quantity="other">%1$s och %2$d andra profiler</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profil får åtkomst till %2$s</item>
+        <item quantity="other">%1$d profiler får åtkomst till %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d bil</item>
+        <item quantity="other">%1$d bilar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d stor väska</item>
+        <item quantity="other">%1$d stora väskor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km ingår</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s miles ingår</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d säte</item>
+        <item quantity="other">%1$d säten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Visa %1$d bil</item>
+        <item quantity="other">Visa alla %1$d bilar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d liten väska</item>
+        <item quantity="other">%1$d små väskor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+ %1$d till</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · %2$d vara</item>
+        <item quantity="other">%1$s · %2$d varor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d objekt</item>
+        <item quantity="other">%1$d varor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Delas med %1$d person</item>
+        <item quantity="other">Har delats med %1$d personer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d samarbetspartner</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d personer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d platser</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Du behåller %1$s token</item>
+        <item quantity="other">Du behåller dina %1$s token</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d försök kvar. Om du anger fel pinkod blir du utelåst.</item>
+        <item quantity="other">%1$d försök kvar innan du blir utelåst.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">Fel pinkod. Du har %1$d försök kvar.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Visa %1$d inaktiva</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Har delat en plats med dig och %1$d till.</item>
+        <item quantity="other">Har delat en plats med dig och %1$d andra.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">Alternativ %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Använd %1$d bild</item>
+        <item quantity="other">Använd %1$d bilder</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d webbläsaruppgift</item>
+        <item quantity="other">%1$d webbläsaruppgifter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">Koden är felaktig. %1$d försök kvar.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d inkluderade</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">Bekräfta flyg</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d handbagage</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d incheckat bagage</item>
+        <item quantity="other">%1$d incheckade väskor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d resenär</item>
+        <item quantity="other">%1$d resenärer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$d stopp</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Visa %1$d till</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d anslutning</item>
+        <item quantity="other">%1$d anslutningar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d uppgift till</item>
+        <item quantity="other">+%1$d uppgifter till</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">%1$d video till</item>
+        <item quantity="other">%1$d videor till</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Gratis retur i %1$d dag</item>
+        <item quantity="other">Gratis returer i %1$d dagar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d-dagarsreturer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d samarbetspartner</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d objekt</item>
+        <item quantity="other">%1$d objekt</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d av %2$d uppgift har slutförts</item>
+        <item quantity="other">%1$d av %2$d uppgifter har slutförts</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="other">%1$d konton</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d samarbetspartner</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d schemalagd uppgift</item>
+        <item quantity="other">%1$d schemalagda uppgifter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">Var %1$d timme</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">Var %1$d minut</item>
+        <item quantity="other">Med %1$d minuters mellanrum</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">Var %1$d sekund</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Vill du ta bort %1$d filer permanent?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">Ta bort %1$d fil</item>
+        <item quantity="other">Ta bort %1$d filer</item>
+    </plurals>
+</resources>

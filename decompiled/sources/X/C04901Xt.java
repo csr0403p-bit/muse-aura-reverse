@@ -1,0 +1,6 @@
+package X;
+
+/* renamed from: X.1Xt, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes.dex */
+public final class C04901Xt implements InterfaceC04911Xu {
+}

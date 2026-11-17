@@ -1,0 +1,24 @@
+package com.facebook.aura.skills.view;
+
+import X.C7438Evz;
+import com.facebook.aura.skills.viewmodel.HatchConnectedConnectorsViewModel;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes.dex */
+public final /* synthetic */ class HatchConnectorPermissionsListScreenKt$HatchConnectorPermissionsListScreen$1$1$1$1 extends C7438Evz implements Function0<Unit> {
+    public HatchConnectorPermissionsListScreenKt$HatchConnectorPermissionsListScreen$1$1$1$1(Object obj) {
+        super(0, obj, HatchConnectedConnectorsViewModel.class, "refresh", "refresh()V", 0);
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        ((HatchConnectedConnectorsViewModel) this.receiver).refresh();
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+}

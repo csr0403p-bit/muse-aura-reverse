@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">Kedaluwarsa dalam %1$d jam</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">Kedaluwarsa dalam %1$d menit</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="other">%1$d tugas perlu ditinjau</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d disertakan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d penumpang</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d malam</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$d tugas perlu ditinjau</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d hari yang lalu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d jam yang lalu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$dmenit yang lalu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">%1$d item</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">Dengan %1$s dan %2$d lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d tamu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="other">%1$d malam</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">%1$d ulasan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">%1$d akun lain tersedia</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="other">%1$s dan %2$d profil lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="other">%1$d profil akan memiliki akses ke %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$d mobil</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">%1$d tas besar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km disertakan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s mil disertakan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="other">%1$d kursi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="other">Lihat semua %1$d mobil</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="other">%1$d tas kecil</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$d item</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">%1$d item</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="other">Dibagikan kepada %1$d orang</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d kolaborator</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="other">%1$d orang</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d Ruang</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">Anda akan menyimpan %1$s token Anda</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="other">%1$d sisa percobaan sebelum Anda terkunci.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">PIN salah. Anda memiliki sisa %1$d percobaan lagi.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Tampilkan %1$d tidak aktif</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">Membagikan ruang kepada Anda dan %1$d lainnya.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">Opsi %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">Gunakan %1$d gambar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d tugas browser</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">Kode tersebut salah. Tersisa %1$d percobaan.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d disertakan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">Konfirmasi penerbangan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d tas jinjing</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d bagasi yang diperiksa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d wisatawan</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$d pemberhentian</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Tampilkan %1$d lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">%1$d konektor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="other">+%1$d tugas lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">%1$d video lainnya</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">Retur gratis selama %1$d hari</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Retur %1$d-hari</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d Kolaborator</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">%1$d item</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">%1$d dari %2$d tugas selesai</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$d akun</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d Kolaborator</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="other">%1$d tugas terjadwal</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">Setiap %1$d jam</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">Setiap %1$d menit</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">Setiap %1$d detik</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Hapus %1$d file secara permanen?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">Hapus %1$d file</item>
+    </plurals>
+</resources>

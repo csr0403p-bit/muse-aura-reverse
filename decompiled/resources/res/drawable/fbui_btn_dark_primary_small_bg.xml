@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:variablePadding="false">
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true">
+        <shape>
+            <solid android:color="#33ffffff"/>
+            <stroke
+                android:width="1dp"
+                android:color="@color/_name_removed__res_0x7f060027"/>
+            <corners android:radius="@dimen/_name_removed__res_0x7f070004"/>
+            <padding
+                android:left="@dimen/_name_removed__res_0x7f070029"
+                android:top="@dimen/_name_removed__res_0x7f070015"
+                android:right="@dimen/_name_removed__res_0x7f070029"
+                android:bottom="@dimen/_name_removed__res_0x7f070015"/>
+        </shape>
+    </item>
+    <item android:state_enabled="true">
+        <shape>
+            <solid android:color="#0dffffff"/>
+            <stroke
+                android:width="1dp"
+                android:color="@color/_name_removed__res_0x7f060027"/>
+            <corners android:radius="@dimen/_name_removed__res_0x7f070004"/>
+            <padding
+                android:left="@dimen/_name_removed__res_0x7f070029"
+                android:top="@dimen/_name_removed__res_0x7f070015"
+                android:right="@dimen/_name_removed__res_0x7f070029"
+                android:bottom="@dimen/_name_removed__res_0x7f070015"/>
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape>
+            <solid android:color="#0dffffff"/>
+            <stroke
+                android:width="1dp"
+                android:color="@color/_name_removed__res_0x7f06004f"/>
+            <corners android:radius="@dimen/_name_removed__res_0x7f070004"/>
+            <padding
+                android:left="@dimen/_name_removed__res_0x7f070029"
+                android:top="@dimen/_name_removed__res_0x7f070015"
+                android:right="@dimen/_name_removed__res_0x7f070029"
+                android:bottom="@dimen/_name_removed__res_0x7f070015"/>
+        </shape>
+    </item>
+</selector>

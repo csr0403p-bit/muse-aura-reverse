@@ -1,0 +1,35 @@
+package com.facebook.aura.agentpermission;
+
+import X.AbstractC7559F3s;
+import com.facebook.aura.analytics.hatch.HatchScreen;
+import com.facebook.aura.gateway.HatchAgentPermissionsRepository;
+import com.facebook.aura.navigation.AuraNavigator;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes2.dex */
+public final class AgentPermissionTaskDetailsSheetKt$AgentPermissionTaskDetailsSheet$3$1 extends AbstractC7559F3s implements Function0<Unit> {
+    public final /* synthetic */ HatchAgentPermissionsRepository.AgentPermissionApproval $currentApproval;
+    public final /* synthetic */ AuraNavigator $navigator;
+    public final /* synthetic */ HatchScreen $openerScreen;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public AgentPermissionTaskDetailsSheetKt$AgentPermissionTaskDetailsSheet$3$1(HatchAgentPermissionsRepository.AgentPermissionApproval agentPermissionApproval, HatchScreen hatchScreen, AuraNavigator auraNavigator) {
+        super(0);
+        this.$currentApproval = agentPermissionApproval;
+        this.$openerScreen = hatchScreen;
+        this.$navigator = auraNavigator;
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        AgentPermissionTelemetryKt.logAgentPermissionSheetCloseClick(this.$currentApproval, AgentPermissionTaskDetailsSheetKt.taskDetailsScreen(this.$openerScreen));
+        this.$navigator.back();
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+}

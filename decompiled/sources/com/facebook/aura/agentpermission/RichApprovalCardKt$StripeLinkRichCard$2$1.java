@@ -1,0 +1,36 @@
+package com.facebook.aura.agentpermission;
+
+import X.AbstractC7559F3s;
+import X.G0V;
+import com.facebook.aura.analytics.hatch.HatchComponent;
+import com.facebook.aura.gateway.HatchAgentPermissionsRepository;
+import com.facebook.aura.navigation.AuraNavKey;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes2.dex */
+public final class RichApprovalCardKt$StripeLinkRichCard$2$1 extends AbstractC7559F3s implements Function0<Unit> {
+    public final /* synthetic */ HatchAgentPermissionsRepository.AgentPermissionApproval $approval;
+    public final /* synthetic */ HatchAgentPermissionsRepository.StripeLinkCheckoutApproval $checkout;
+    public final /* synthetic */ G0V<HatchComponent, AuraNavKey, Unit> $tap;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    /* JADX WARN: Multi-variable type inference failed */
+    public RichApprovalCardKt$StripeLinkRichCard$2$1(G0V<? super HatchComponent, ? super AuraNavKey, Unit> g0v, HatchAgentPermissionsRepository.AgentPermissionApproval agentPermissionApproval, HatchAgentPermissionsRepository.StripeLinkCheckoutApproval stripeLinkCheckoutApproval) {
+        super(0);
+        this.$tap = g0v;
+        this.$approval = agentPermissionApproval;
+        this.$checkout = stripeLinkCheckoutApproval;
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        this.$tap.invoke(HatchComponent.AGENT_PERMISSION_PAYMENT_ROW, AgentPermissionPendingCardKt.checkoutPaymentRowKey(this.$approval.approvalId, this.$checkout));
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+}

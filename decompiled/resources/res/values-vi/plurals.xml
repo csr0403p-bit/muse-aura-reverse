@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">Hết hạn sau %1$d giờ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">Hết hạn sau %1$d phút</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="other">%1$d nhiệm vụ cần xem xét</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">Đã bao gồm %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d hành khách</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d đêm</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$d nhiệm vụ cần xem xét</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d ngày trước</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d giờ trước</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d phút trước</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">%1$d mặt hàng</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">Với %1$s và %2$d người khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d khách</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="other">%1$d đêm</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">%1$d lượt đánh giá</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">Có %1$d tài khoản khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="other">%1$s và %2$d trang cá nhân khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="other">%1$d trang cá nhân sẽ có quyền truy cập vào %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$d ô tô</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">%1$d hành lý lớn</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">Đã bao gồm %1$s km</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">Đã bao gồm %1$s dặm</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="other">%1$d chỗ ngồi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="other">Xem tất cả %1$d ô tô</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="other">%1$d túi nhỏ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d yêu cầu khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$d mặt hàng</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">%1$d mặt hàng</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="other">Đã chia sẻ với %1$d người</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d cộng tác viên</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="other">%1$d người</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d không gian</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">Bạn sẽ giữ lại %1$s token</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="other">Bạn còn %1$d lần thử trước khi bị khóa.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">Sai mã PIN. Bạn còn %1$d lần thử.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Hiển thị %1$d ứng dụng không hoạt động</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">Đã chia sẻ một không gian với bạn và %1$d người khác.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">Các lựa chọn %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">Dùng %1$d hình ảnh</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d nhiệm vụ trong trình duyệt</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">Mã đó không chính xác. Bạn còn %1$d lần thử.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">Đã bao gồm %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">Xác nhận chuyến bay</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d túi hành lý xách tay</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d hành lý đã kiểm tra</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d du khách</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$d điểm dừng</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Hiển thị thêm %1$d mục</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">%1$d công cụ kết nối</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="other">+%1$d nhiệm vụ khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">%1$d video khác</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">Miễn phí trả hàng trong %1$d ngày</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Trả hàng trong %1$d ngày</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d cộng tác viên</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">%1$d mục</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">Đã hoàn tất %1$d/%2$d nhiệm vụ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$d tài khoản</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d cộng tác viên</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="other">%1$d nhiệm vụ đã lên lịch</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">%1$d giờ/lần</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">%1$d phút một lần</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">%1$d giây một lần</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Xóa vĩnh viễn %1$d file?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">Xóa %1$d file</item>
+    </plurals>
+</resources>

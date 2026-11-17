@@ -1,0 +1,17 @@
+package com.facebook.aura.vmbrowser.runtime;
+
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes2.dex */
+public final /* synthetic */ class BrowserViewerSession$$ExternalSyntheticLambda4 implements Function0 {
+    public final /* synthetic */ BrowserViewerSession f$0;
+
+    @Override // kotlin.jvm.functions.Function0
+    public final Object invoke() {
+        return BrowserViewerSession.launchOperation$lambda$0(this.f$0);
+    }
+
+    public /* synthetic */ BrowserViewerSession$$ExternalSyntheticLambda4(BrowserViewerSession browserViewerSession) {
+        this.f$0 = browserViewerSession;
+    }
+}

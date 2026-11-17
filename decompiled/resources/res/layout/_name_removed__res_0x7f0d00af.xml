@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/_name_removed__res_0x7f130089">
+    <include layout="@layout/_name_removed__res_0x7f0d0068"/>
+    <include layout="@layout/_name_removed__res_0x7f0d0069"/>
+    <include layout="@layout/_name_removed__res_0x7f0d006a"/>
+    <include layout="@layout/_name_removed__res_0x7f0d006b"/>
+    <include layout="@layout/_name_removed__res_0x7f0d006c"/>
+    <include layout="@layout/_name_removed__res_0x7f0d006d"/>
+    <include layout="@layout/_name_removed__res_0x7f0d006e"/>
+</FrameLayout>

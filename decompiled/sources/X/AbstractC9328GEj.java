@@ -1,0 +1,180 @@
+package X;
+
+import com.facebook.aura.localbrowser.core.BrowserOperationCatalogKt;
+import com.facebook.aura.pairs.PairsDiscretionDocument;
+import java.lang.reflect.Method;
+import java.lang.reflect.Modifier;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
+/* renamed from: X.GEj, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public abstract class AbstractC9328GEj {
+    public static final char[] A00;
+
+    static {
+        char[] cArr = new char[80];
+        A00 = cArr;
+        Arrays.fill(cArr, ' ');
+    }
+
+    public static void A00(InterfaceC9329GEk messageLite, StringBuilder buffer, int indent) {
+        boolean zEquals;
+        int iA0F;
+        Object obj;
+        Method method;
+        int length;
+        HashSet hashSetA13 = C60O.A13();
+        HashMap mapA0u = BV4.A0u();
+        TreeMap treeMap = new TreeMap();
+        for (Method method2 : messageLite.getClass().getDeclaredMethods()) {
+            if (!AbstractC7609F5w.A1Y(method2) && method2.getName().length() >= 3) {
+                if (method2.getName().startsWith("set")) {
+                    hashSetA13.add(method2.getName());
+                } else {
+                    AbstractC7611F5y.A0z(method2, mapA0u, treeMap);
+                }
+            }
+        }
+        Iterator itA0i = C3cG.A0i(treeMap);
+        while (itA0i.hasNext()) {
+            Map.Entry entryA0l = C3cH.A0l(itA0i);
+            String strSubstring = C60O.A0t(entryA0l).substring(3);
+            if (strSubstring.endsWith("List") && !strSubstring.endsWith("OrBuilderList") && !strSubstring.equals("List") && (method = (Method) entryA0l.getValue()) != null && method.getReturnType().equals(List.class)) {
+                length = strSubstring.length() - 4;
+            } else if (strSubstring.endsWith("Map") && !strSubstring.equals("Map") && (method = (Method) entryA0l.getValue()) != null && method.getReturnType().equals(Map.class) && !method.isAnnotationPresent(Deprecated.class) && Modifier.isPublic(method.getModifiers())) {
+                length = strSubstring.length() - 3;
+            } else if (hashSetA13.contains(FGI.A0M("set", strSubstring)) && (!strSubstring.endsWith("Bytes") || !FGI.A0z(strSubstring, treeMap))) {
+                Method method3 = (Method) entryA0l.getValue();
+                Method method4 = (Method) mapA0u.get(FGI.A0M("has", strSubstring));
+                if (method3 != null) {
+                    Object objA05 = GHM.A05(messageLite, method3, new Object[0]);
+                    if (method4 == null) {
+                        if (objA05 instanceof Boolean) {
+                            zEquals = !AnonymousClass001.A1X(objA05);
+                        } else {
+                            if (objA05 instanceof Integer) {
+                                iA0F = AnonymousClass001.A0F(objA05);
+                            } else if (objA05 instanceof Float) {
+                                iA0F = Float.floatToRawIntBits(AnonymousClass001.A02(objA05));
+                            } else if (objA05 instanceof Double) {
+                                iA0F = (Double.doubleToRawLongBits(BV6.A00(objA05)) > 0L ? 1 : (Double.doubleToRawLongBits(BV6.A00(objA05)) == 0L ? 0 : -1));
+                            } else {
+                                if (objA05 instanceof String) {
+                                    obj = "";
+                                } else if (objA05 instanceof AbstractC9321GEc) {
+                                    obj = AbstractC9321GEc.A00;
+                                } else {
+                                    if (objA05 instanceof InterfaceC9329GEk) {
+                                        if (objA05 == ((GHM) ((GEl) objA05)).A0E(C79.A0T)) {
+                                        }
+                                    } else if (objA05 instanceof Enum) {
+                                        iA0F = ((Enum) objA05).ordinal();
+                                    }
+                                    A01(objA05, strSubstring, buffer, indent);
+                                }
+                                zEquals = objA05.equals(obj);
+                            }
+                            if (iA0F != 0) {
+                                A01(objA05, strSubstring, buffer, indent);
+                            }
+                        }
+                        if (!zEquals) {
+                            A01(objA05, strSubstring, buffer, indent);
+                        }
+                    } else if (AnonymousClass001.A1X(GHM.A05(messageLite, method4, new Object[0]))) {
+                        A01(objA05, strSubstring, buffer, indent);
+                    }
+                }
+            }
+            A01(GHM.A05(messageLite, method, new Object[0]), strSubstring.substring(0, length), buffer, indent);
+        }
+        GHQ ghq = ((GHM) messageLite).unknownFields;
+        if (ghq != null) {
+            for (int i = 0; i < ghq.A00; i++) {
+                A01(ghq.A04[i], String.valueOf(ghq.A03[i] >>> 3), buffer, indent);
+            }
+        }
+    }
+
+    public static void A01(Object buffer, String indent, StringBuilder name, int object) {
+        String strA00;
+        if (buffer instanceof List) {
+            Iterator itA13 = AbstractC7607F5u.A13(buffer);
+            while (itA13.hasNext()) {
+                A01(itA13.next(), indent, name, object);
+            }
+            return;
+        }
+        if (buffer instanceof Map) {
+            Iterator itA0n = AnonymousClass002.A0n((Map) buffer);
+            while (itA0n.hasNext()) {
+                A01(itA0n.next(), indent, name, object);
+            }
+            return;
+        }
+        name.append('\n');
+        int i = object;
+        while (i > 0) {
+            char[] cArr = A00;
+            int i2 = 80;
+            if (i <= 80) {
+                i2 = i;
+            }
+            name.append(cArr, 0, i2);
+            i -= i2;
+        }
+        if (!indent.isEmpty()) {
+            StringBuilder sbA0w = C60O.A0w();
+            AbstractC7608F5v.A1M(sbA0w, AbstractC7607F5u.A00(indent));
+            for (int i3 = 1; i3 < indent.length(); i3++) {
+                AbstractC7608F5v.A1M(sbA0w, AbstractC7610F5x.A00(indent, sbA0w, i3));
+            }
+            indent = sbA0w.toString();
+        }
+        name.append(indent);
+        if (buffer instanceof String) {
+            name.append(": \"");
+            AbstractC9321GEc abstractC9321GEc = AbstractC9321GEc.A00;
+            strA00 = HkX.A00(new C9324GEf(((String) buffer).getBytes(AbstractC9352GFl.A04)));
+        } else {
+            if (!(buffer instanceof AbstractC9321GEc)) {
+                if (buffer instanceof GHM) {
+                    name.append(" {");
+                    A00((GHS) buffer, name, object + 2);
+                } else if (!(buffer instanceof Map.Entry)) {
+                    name.append(": ");
+                    name.append(buffer);
+                    return;
+                } else {
+                    name.append(" {");
+                    Map.Entry entry = (Map.Entry) buffer;
+                    int i4 = object + 2;
+                    A01(entry.getKey(), "key", name, i4);
+                    A01(entry.getValue(), BrowserOperationCatalogKt.VALUE, name, i4);
+                }
+                name.append(PairsDiscretionDocument.TERMINATOR);
+                while (object > 0) {
+                    char[] cArr2 = A00;
+                    int i5 = 80;
+                    if (object <= 80) {
+                        i5 = object;
+                    }
+                    name.append(cArr2, 0, i5);
+                    object -= i5;
+                }
+                name.append("}");
+                return;
+            }
+            name.append(": \"");
+            strA00 = HkX.A00((AbstractC9321GEc) buffer);
+        }
+        name.append(strA00);
+        name.append('\"');
+    }
+}

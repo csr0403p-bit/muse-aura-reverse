@@ -1,0 +1,7 @@
+package X;
+
+/* renamed from: X.GWh, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public interface InterfaceC9637GWh {
+    void audioOutputChanged();
+}

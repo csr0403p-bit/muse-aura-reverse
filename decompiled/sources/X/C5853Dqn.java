@@ -1,0 +1,152 @@
+package X;
+
+import kotlin.Unit;
+
+/* renamed from: X.Dqn, reason: case insensitive filesystem */
+/* loaded from: classes5.dex */
+public final class C5853Dqn extends AbstractC7559F3s implements G0U<C5700Dnh, Unit> {
+    public final /* synthetic */ Long $audioBufferedDurationMs;
+    public final /* synthetic */ Long $audioChunkLoadFailureCount;
+    public final /* synthetic */ Long $audioInitLoadFailureCount;
+    public final /* synthetic */ Long $bufferEndToLiveHeadDeltaMs;
+    public final /* synthetic */ String $callsiteContext;
+    public final /* synthetic */ long $clientTimestamp;
+    public final /* synthetic */ Dt0 $errorMetadata;
+    public final /* synthetic */ String $failedRequestType;
+    public final /* synthetic */ Long $inducedInPlayStallLatencyMs;
+    public final /* synthetic */ Long $inducedInPlayStallPositionMs;
+    public final /* synthetic */ Long $inducedStartStallLatencyMs;
+    public final /* synthetic */ Boolean $isAudioStalling;
+    public final /* synthetic */ Boolean $isFromPlayerSeek;
+    public final /* synthetic */ Boolean $isFromScrubbing;
+    public final /* synthetic */ Boolean $isLoading;
+    public final /* synthetic */ boolean $isLooping;
+    public final /* synthetic */ Boolean $isNetworkRequestInFlight;
+    public final /* synthetic */ Boolean $isPreloaded;
+    public final /* synthetic */ Boolean $isStalling;
+    public final /* synthetic */ Boolean $isSurfaceValid;
+    public final /* synthetic */ Long $lastHttpStatus;
+    public final /* synthetic */ Long $lastLatencyActionAgeMs;
+    public final /* synthetic */ String $lastLatencyActionType;
+    public final /* synthetic */ Long $lastLoadErrorAgeMs;
+    public final /* synthetic */ Long $lastManifestLoadSuccessAgeMs;
+    public final /* synthetic */ Long $lastMediaLoadSuccessAgeMs;
+    public final /* synthetic */ String $latencyLevel;
+    public final /* synthetic */ Long $liveEdgePositionMs;
+    public final /* synthetic */ Long $liveManifestLastVideoFrameTimeMs;
+    public final /* synthetic */ Boolean $loadControlWantsLoading;
+    public final /* synthetic */ Long $manifestEndToLiveHeadDeltaMs;
+    public final /* synthetic */ Long $manifestLoadFailureCount;
+    public final /* synthetic */ Long $oldestNetworkRequestAgeMs;
+    public final /* synthetic */ Long $playerId;
+    public final /* synthetic */ String $playerInstanceKey;
+    public final /* synthetic */ String $reason;
+    public final /* synthetic */ String $sessionToken;
+    public final /* synthetic */ String $startState;
+    public final /* synthetic */ Long $unchangedManifestRangeCount;
+    public final /* synthetic */ Long $videoBufferedDurationMs;
+    public final /* synthetic */ Long $videoChunkLoadFailureCount;
+    public final /* synthetic */ long $videoDuration;
+    public final /* synthetic */ Long $videoInitLoadFailureCount;
+    public final /* synthetic */ String $videoLoggingEventName;
+    public final /* synthetic */ long $videoPosition;
+
+    @Override // X.G0U
+    public final /* bridge */ /* synthetic */ Unit invoke(C5700Dnh c5700Dnh) {
+        C5700Dnh c5700Dnh2 = c5700Dnh;
+        C7384Etj.A0Y(c5700Dnh2, 0);
+        long j = this.$videoPosition;
+        long j2 = this.$videoDuration;
+        long j3 = this.$clientTimestamp;
+        String str = this.$videoLoggingEventName;
+        boolean z = this.$isLooping;
+        String str2 = this.$sessionToken;
+        String str3 = this.$startState;
+        Long l = this.$playerId;
+        String str4 = this.$callsiteContext;
+        String str5 = this.$reason;
+        Dt0 dt0 = this.$errorMetadata;
+        Boolean bool = this.$isAudioStalling;
+        Boolean bool2 = this.$isStalling;
+        Long l2 = this.$bufferEndToLiveHeadDeltaMs;
+        String str6 = this.$playerInstanceKey;
+        Long l3 = this.$inducedStartStallLatencyMs;
+        Long l4 = this.$inducedInPlayStallLatencyMs;
+        Long l5 = this.$inducedInPlayStallPositionMs;
+        Boolean bool3 = this.$isPreloaded;
+        Boolean bool4 = this.$isSurfaceValid;
+        Boolean bool5 = this.$isFromScrubbing;
+        Boolean bool6 = this.$isFromPlayerSeek;
+        String str7 = this.$failedRequestType;
+        Long l6 = this.$lastHttpStatus;
+        Long l7 = this.$lastLoadErrorAgeMs;
+        Long l8 = this.$lastManifestLoadSuccessAgeMs;
+        Long l9 = this.$lastMediaLoadSuccessAgeMs;
+        Long l10 = this.$unchangedManifestRangeCount;
+        Long l11 = this.$manifestLoadFailureCount;
+        Long l12 = this.$videoChunkLoadFailureCount;
+        Long l13 = this.$audioChunkLoadFailureCount;
+        Long l14 = this.$videoInitLoadFailureCount;
+        Long l15 = this.$audioInitLoadFailureCount;
+        Boolean bool7 = this.$isLoading;
+        Boolean bool8 = this.$loadControlWantsLoading;
+        Boolean bool9 = this.$isNetworkRequestInFlight;
+        Long l16 = this.$oldestNetworkRequestAgeMs;
+        Long l17 = this.$audioBufferedDurationMs;
+        Long l18 = this.$videoBufferedDurationMs;
+        Long l19 = this.$manifestEndToLiveHeadDeltaMs;
+        String str8 = this.$lastLatencyActionType;
+        c5700Dnh2.A02(dt0, bool, bool2, bool3, bool4, bool5, bool6, bool7, bool8, bool9, l, l2, l3, l4, l5, l6, l7, l8, l9, l10, l11, l12, l13, l14, l15, l16, l17, l18, l19, this.$lastLatencyActionAgeMs, this.$liveEdgePositionMs, this.$liveManifestLastVideoFrameTimeMs, str, str2, str3, str4, str5, str6, str7, str8, this.$latencyLevel, j, j2, j3, z);
+        return Unit.INSTANCE;
+    }
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public C5853Dqn(Dt0 dt0, Boolean bool, Boolean bool2, Boolean bool3, Boolean bool4, Boolean bool5, Boolean bool6, Boolean bool7, Boolean bool8, Boolean bool9, Long l, Long l2, Long l3, Long l4, Long l5, Long l6, Long l7, Long l8, Long l9, Long l10, Long l11, Long l12, Long l13, Long l14, Long l15, Long l16, Long l17, Long l18, Long l19, Long l20, Long l21, Long l22, String str, String str2, String str3, String str4, String str5, String str6, String str7, String str8, String str9, long j, long j2, long j3, boolean z) {
+        super(1);
+        this.$videoPosition = j;
+        this.$videoDuration = j2;
+        this.$clientTimestamp = j3;
+        this.$videoLoggingEventName = str;
+        this.$isLooping = z;
+        this.$sessionToken = str2;
+        this.$startState = str3;
+        this.$playerId = l;
+        this.$callsiteContext = str4;
+        this.$reason = str5;
+        this.$errorMetadata = dt0;
+        this.$isAudioStalling = bool;
+        this.$isStalling = bool2;
+        this.$bufferEndToLiveHeadDeltaMs = l2;
+        this.$playerInstanceKey = str6;
+        this.$inducedStartStallLatencyMs = l3;
+        this.$inducedInPlayStallLatencyMs = l4;
+        this.$inducedInPlayStallPositionMs = l5;
+        this.$isPreloaded = bool3;
+        this.$isSurfaceValid = bool4;
+        this.$isFromScrubbing = bool5;
+        this.$isFromPlayerSeek = bool6;
+        this.$failedRequestType = str7;
+        this.$lastHttpStatus = l6;
+        this.$lastLoadErrorAgeMs = l7;
+        this.$lastManifestLoadSuccessAgeMs = l8;
+        this.$lastMediaLoadSuccessAgeMs = l9;
+        this.$unchangedManifestRangeCount = l10;
+        this.$manifestLoadFailureCount = l11;
+        this.$videoChunkLoadFailureCount = l12;
+        this.$audioChunkLoadFailureCount = l13;
+        this.$videoInitLoadFailureCount = l14;
+        this.$audioInitLoadFailureCount = l15;
+        this.$isLoading = bool7;
+        this.$loadControlWantsLoading = bool8;
+        this.$isNetworkRequestInFlight = bool9;
+        this.$oldestNetworkRequestAgeMs = l16;
+        this.$audioBufferedDurationMs = l17;
+        this.$videoBufferedDurationMs = l18;
+        this.$manifestEndToLiveHeadDeltaMs = l19;
+        this.$lastLatencyActionType = str8;
+        this.$lastLatencyActionAgeMs = l20;
+        this.$latencyLevel = str9;
+        this.$liveEdgePositionMs = l21;
+        this.$liveManifestLastVideoFrameTimeMs = l22;
+    }
+}

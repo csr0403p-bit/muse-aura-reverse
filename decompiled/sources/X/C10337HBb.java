@@ -1,0 +1,11 @@
+package X;
+
+/* renamed from: X.HBb, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public final class C10337HBb extends C10349HBn {
+    public HBD A00;
+    public HBD A01;
+    public HBD A02;
+    public HBD A03;
+    public String A04;
+}

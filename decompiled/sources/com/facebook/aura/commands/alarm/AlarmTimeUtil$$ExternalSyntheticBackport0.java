@@ -1,0 +1,12 @@
+package com.facebook.aura.commands.alarm;
+
+/* loaded from: classes3.dex */
+public abstract /* synthetic */ class AlarmTimeUtil$$ExternalSyntheticBackport0 {
+    public static /* synthetic */ long m(long j, long j2) {
+        long j3 = j % j2;
+        if (j3 == 0) {
+            return 0L;
+        }
+        return (((j ^ j2) >> 63) | 1) <= 0 ? j3 + j2 : j3;
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.facebook.resources.ui.FbTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="marquee"
+    android:gravity="center_vertical"
+    android:id="@+id/fb_fork_text1"
+    android:paddingLeft="24dp"
+    android:paddingRight="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="48dp"
+    style="?attr/_name_removed__res_0x7f04003d"/>

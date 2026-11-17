@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">%1$d घंटे में समय-सीमा समाप्त हो जाएगी</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">%1$d मिनट में समय-सीमा समाप्त हो जाएगी</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">टास्क को रिव्यू करने की ज़रूरत है</item>
+        <item quantity="other">%1$d टास्क को रिव्यू करने की ज़रूरत है</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d शामिल हैं</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d यात्री</item>
+        <item quantity="other">%1$d सवारियाँ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d रात</item>
+        <item quantity="other">%1$d रातें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$d टास्क को रिव्यू करने की ज़रूरत है</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d दिन पहले</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d घंटे पहले</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d मिनट पहले</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">%1$d आइटम</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">%1$s और %2$d अन्य लोगों के साथ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d मेहमान</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d रात</item>
+        <item quantity="other">%1$d रातें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">%1$d रिव्यू</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">%1$d और अकाउंट उपलब्ध है</item>
+        <item quantity="other">%1$d और अकाउंट उपलब्ध हैं</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s और %2$d अन्य प्रोफ़ाइल</item>
+        <item quantity="other">%1$s और %2$d अन्य प्रोफ़ाइलें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d प्रोफ़ाइल के पास %2$s की एक्सेस होगी</item>
+        <item quantity="other">%1$d प्रोफ़ाइलों के पास %2$s की एक्सेस होगी</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d कार</item>
+        <item quantity="other">%1$d कारें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d बड़ा बैग</item>
+        <item quantity="other">%1$d बड़े बैग</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s किमी शामिल हैं</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">%1$s मील की सुविधा शामिल है</item>
+        <item quantity="other">%1$s मील शामिल हैं</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="other">%1$d सीट</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">%1$d कार देखें</item>
+        <item quantity="other">सभी %1$d कार देखें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d छोटा बैग</item>
+        <item quantity="other">%1$d छोटे बैग</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d और</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$d आइटम</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">%1$d आइटम</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">%1$d व्यक्ति के साथ शेयर किया गया</item>
+        <item quantity="other">%1$d लोगों के साथ शेयर किया गया</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d कोलेबरेटर</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d व्यक्ति</item>
+        <item quantity="other">%1$d लोग</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d स्पेस</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">आपके %1$s टोकन आपके पास ही रहेंगे</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d कोशिश बाकी है. अगर आपका पिन गलत है, तो आपका अकाउंट लॉक हो जाएगा.</item>
+        <item quantity="other">आपका अकाउंट लॉक होने से पहले आपके पास %1$d मौके बचे हैं.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">पिन गलत है. आप अब सिर्फ़ %1$d बार कोशिश कर सकते हैं.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">%1$d इनएक्टिव दिखाएँ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">आपके और %1$d अन्य व्यक्ति के साथ एक स्पेस शेयर किया है.</item>
+        <item quantity="other">आपके और %1$d अन्य लोगों के साथ स्पेस शेयर किया गया.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">विकल्प %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">%1$d फ़ोटो का उपयोग करें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d ब्राउज़र टास्क</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">आपने जो कोड डाला है, वह गलत है. %1$d कोशिश बाकी है.</item>
+        <item quantity="other">आपने जो कोड डाला है, वह गलत है. %1$d कोशिशें बाकी हैं.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d शामिल हैं</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">फ़्लाइट कन्फ़र्म करें</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d कैरी-ऑन बैग</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">चेक किया गया %1$d बैग</item>
+        <item quantity="other">चेक किए गए %1$d बैग</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d यात्री</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d बार रोका गया</item>
+        <item quantity="other">%1$d स्टॉप</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">%1$d और दिखाएँ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d कनेक्टर</item>
+        <item quantity="other">%1$d कनेक्टर्स</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="other">+%1$d और टास्क</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">%1$d और वीडियो</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">%1$d दिन के अंदर फ़्री वापसी की सुविधा</item>
+        <item quantity="other">%1$d दिनों के अंदर फ़्री वापसी की सुविधा</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d दिन के अंदर वापसी</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d कोलेबरेटर</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">%1$d आइटम</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">%2$d में से %1$d टास्क पूरे हो गए</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$d अकाउंट</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d कोलेबरेटर</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d शेड्यूल किया गया टास्क</item>
+        <item quantity="other">%1$d शेड्यूल किए गए टास्क</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">हर %1$d घंटे</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">हर %1$d मिनट में</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">हर %1$d सेकंड में</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">%1$d फ़ाइल को हमेशा के लिए डिलीट करें?</item>
+        <item quantity="other">%1$d फ़ाइलों को हमेशा के लिए डिलीट करें?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">%1$d फ़ाइल डिलीट करें</item>
+        <item quantity="other">%1$d फ़ाइलें डिलीट करें</item>
+    </plurals>
+</resources>

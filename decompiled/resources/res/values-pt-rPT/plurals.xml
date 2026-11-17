@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Expira dentro de %1$d hora</item>
+        <item quantity="other">Expira em %1$d horas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Expira dentro de %1$d minuto</item>
+        <item quantity="other">Expira dentro de %1$d minutos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">Uma tarefa precisa de revisão</item>
+        <item quantity="other">%1$d tarefas precisam de revisão</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d incluídos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d passageiro</item>
+        <item quantity="other">%1$d passageiros</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d noite</item>
+        <item quantity="other">%1$d noites</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d tarefa precisa de revisão</item>
+        <item quantity="other">%1$d tarefas precisam de revisão</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">Há %1$d d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">Há %1$d h</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">Há %1$d min</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d itens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">Com %1$s e %2$d outra pessoa</item>
+        <item quantity="other">Com %1$s e %2$d outras pessoas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d hóspede</item>
+        <item quantity="other">%1$d pessoas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d noite</item>
+        <item quantity="other">%1$d noites</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d crítica</item>
+        <item quantity="other">%1$d críticas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">Mais %1$d conta disponível</item>
+        <item quantity="other">Mais %1$d contas disponíveis</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s e %2$d outro perfil</item>
+        <item quantity="other">%1$s e %2$d outros perfis</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d perfil vai ter acesso ao %2$s</item>
+        <item quantity="other">%1$d perfis vão ter acesso ao %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d carro</item>
+        <item quantity="other">%1$d carros</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d mala grande</item>
+        <item quantity="other">%1$d malas grandes</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km incluído(s)</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s milhas incluídas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d lugar</item>
+        <item quantity="other">%1$d lugares</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Ver %1$d carro</item>
+        <item quantity="other">Ver todos os %1$d carros</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d mala pequena</item>
+        <item quantity="other">%1$d malas pequenas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">mais %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · %2$d artigo</item>
+        <item quantity="other">%1$s · %2$d artigos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d itens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Partilhado com %1$d pessoa</item>
+        <item quantity="other">Partilhado com %1$d pessoas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d colaborador/a</item>
+        <item quantity="other">%1$d colaboradores</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d pessoa</item>
+        <item quantity="other">%1$d pessoas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d espaço</item>
+        <item quantity="other">%1$d espaços</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Vais manter %1$s token</item>
+        <item quantity="other">Vais manter os teus %1$s tokens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">Tens mais %1$d tentativa. Se o teu PIN estiver incorreto, vais ficar sem acesso.</item>
+        <item quantity="other">Tens mais %1$d tentativas antes de perderes o acesso.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">PIN incorreto. Tens mais %1$d tentativa.</item>
+        <item quantity="other">PIN incorreto. Tens mais %1$d tentativas.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Mostrar %1$d inativos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Partilhou um espaço contigo e %1$d outras pessoas.</item>
+        <item quantity="other">Partilhou um espaço contigo e com %1$d outras pessoas.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Opção %1$s</item>
+        <item quantity="other">Opções %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Usar %1$d imagem</item>
+        <item quantity="other">Usar %1$d imagens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d tarefa do navegador</item>
+        <item quantity="other">%1$d tarefas do navegador</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">Esse código está incorreto. Resta %1$d tentativa.</item>
+        <item quantity="other">Esse código está incorreto. Restam %1$d tentativas.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d incluídos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Confirmar voo</item>
+        <item quantity="other">Confirmar voos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d saco de mão</item>
+        <item quantity="other">%1$d bagagens de mão</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d mala de viagem</item>
+        <item quantity="other">%1$d malas de viagem</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d viajante</item>
+        <item quantity="other">%1$d viajantes</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d paragem</item>
+        <item quantity="other">%1$d paragens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Mostrar mais %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d conetor</item>
+        <item quantity="other">%1$d conetores</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d outra tarefa</item>
+        <item quantity="other">+%1$d outras tarefas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">Mais %1$d vídeo</item>
+        <item quantity="other">Mais %1$d vídeos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Devoluções grátis durante %1$d dia</item>
+        <item quantity="other">Devoluções gratuitas durante %1$d dias</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Devoluções em %1$d dias</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d colaborador/a</item>
+        <item quantity="other">%1$d colaboradores</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d itens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d de %2$d tarefa concluída</item>
+        <item quantity="other">%1$d de %2$d tarefas concluídas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">%1$d conta</item>
+        <item quantity="other">%1$d contas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d colaboradores</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d tarefa agendada</item>
+        <item quantity="other">%1$d tarefas agendadas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">A cada %1$d hora</item>
+        <item quantity="other">A cada %1$d horas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">A cada %1$d minuto</item>
+        <item quantity="other">A cada %1$d minutos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">A cada %1$d segundos</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">Eliminar permanentemente %1$d ficheiro?</item>
+        <item quantity="other">Eliminar permanentemente %1$d ficheiros?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">Eliminar %1$d ficheiro</item>
+        <item quantity="other">Eliminar %1$d ficheiros</item>
+    </plurals>
+</resources>

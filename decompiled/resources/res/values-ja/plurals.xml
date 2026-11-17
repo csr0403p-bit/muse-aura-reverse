@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">有効期限: %1$d時間後</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">有効期限: %1$d分</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="other">確認が必要なタスク%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d件が含まれます</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">乗客%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d泊</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">確認が必要なタスク%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d日前</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d時間前</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d分前</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">アイテム%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">%1$sさん、他%2$d人と一緒です</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">ゲスト%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="other">%1$d泊</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">レビュー%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">他%1$d件のアカウントを利用可能</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="other">%1$s、他プロフィール%2$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="other">プロフィール%1$d件が%2$sにアクセスできるようになります</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">車%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">大きなバッグ%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$skmまで込み</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$sマイルまで込み</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="other">%1$d席</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="other">%1$d件の自動車をすべて見る</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="other">小さなバッグ%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">他%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$d件のアイテム</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">アイテム%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="other">%1$d人とシェアしました</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">共同投稿者%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="other">%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">スペース%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">%1$sトークンが残ります</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="other">あと%1$d回試行するとアクセスできなくなります。</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">暗証番号が間違っています。あと%1$d回試行できます。</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">アクティブでない%1$d件を表示</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">あなた、他%1$d人とスペースをシェアしました。</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">オプション%1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">画像%1$d件を使用</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">ブラウザータスク%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">コードが正しくありません。あと%1$d回試行できます。</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d件が含まれます</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">フライトを確認</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">機内持ち込み用バッグ%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">預け入れ荷物%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">旅行者%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">停止%1$d回</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">他%1$d件を表示</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">コネクター%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="other">他%1$d件のタスク</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">他%1$d件の動画</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">%1$d日間返品無料</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d日間返品可能</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">共同投稿者%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">%1$d件のアイテム</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">タスク%2$d件中%1$d件が完了しました</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">アカウント%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">共同投稿者%1$d人</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="other">日時指定済みタスク%1$d件</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">%1$d時間ごと</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">%1$d分ごと</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">%1$d秒ごと</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">ファイル%1$d件を完全に削除しますか？</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">ファイル%1$d件を削除</item>
+    </plurals>
+</resources>

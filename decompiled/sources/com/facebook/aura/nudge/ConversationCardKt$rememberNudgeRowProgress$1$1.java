@@ -1,0 +1,75 @@
+package com.facebook.aura.nudge;
+
+import X.AOW;
+import X.ASj;
+import X.AT5;
+import X.AbstractC07127nr;
+import X.AnonymousClass001;
+import X.AnonymousClass002;
+import X.AnonymousClass006;
+import X.C2HU;
+import X.C3UX;
+import X.EnumC10460Hji;
+import X.G0V;
+import X.HtJ;
+import X.Hwg;
+import androidx.compose.runtime.MutableState;
+import kotlin.Unit;
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+
+@DebugMetadata(c = "com.facebook.aura.nudge.ConversationCardKt$rememberNudgeRowProgress$1$1", f = "ConversationCard.kt", l = {250}, m = "invokeSuspend", v = 2)
+/* loaded from: classes.dex */
+public final class ConversationCardKt$rememberNudgeRowProgress$1$1 extends AbstractC07127nr implements G0V<C3UX, HtJ<? super Unit>, Object> {
+    public final /* synthetic */ MutableState<Boolean> $hasEntered$delegate;
+    public final /* synthetic */ boolean $isVisible;
+    public final /* synthetic */ AT5<Float, AOW> $progress;
+    public float F$0;
+    public int label;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public ConversationCardKt$rememberNudgeRowProgress$1$1(boolean z, AT5<Float, AOW> at5, MutableState<Boolean> mutableState, HtJ<? super ConversationCardKt$rememberNudgeRowProgress$1$1> htJ) {
+        super(2, htJ);
+        this.$isVisible = z;
+        this.$progress = at5;
+        this.$hasEntered$delegate = mutableState;
+    }
+
+    @Override // X.AbstractC8884Fsp
+    public final HtJ<Unit> create(Object obj, HtJ<?> htJ) {
+        return new ConversationCardKt$rememberNudgeRowProgress$1$1(this.$isVisible, this.$progress, this.$hasEntered$delegate, htJ);
+    }
+
+    @Override // X.AbstractC8884Fsp
+    public final Object invokeSuspend(Object obj) {
+        EnumC10460Hji enumC10460Hji = EnumC10460Hji.A02;
+        int i = this.label;
+        if (i == 0) {
+            Hwg.A00(obj);
+            float fA00 = AnonymousClass006.A00(this.$isVisible ? 1 : 0);
+            if (MutableState.A00(this.$progress) != fA00) {
+                AT5<Float, AOW> at5 = this.$progress;
+                Float f = new Float(fA00);
+                ASj aSjA0J = AnonymousClass002.A0J(C2HU.A01, 280);
+                this.F$0 = fA00;
+                this.label = 1;
+                if (AnonymousClass002.A0i(at5, aSjA0J, f, this, null) == enumC10460Hji) {
+                    return enumC10460Hji;
+                }
+            }
+        } else {
+            if (i != 1) {
+                throw AnonymousClass001.A0n();
+            }
+            Hwg.A00(obj);
+        }
+        if (this.$isVisible) {
+            MutableState.A09(true, this.$hasEntered$delegate);
+        }
+        return Unit.INSTANCE;
+    }
+
+    @Override // X.G0V
+    public final Object invoke(C3UX c3ux, HtJ<? super Unit> htJ) {
+        return ((ConversationCardKt$rememberNudgeRowProgress$1$1) create(c3ux, htJ)).invokeSuspend(Unit.INSTANCE);
+    }
+}

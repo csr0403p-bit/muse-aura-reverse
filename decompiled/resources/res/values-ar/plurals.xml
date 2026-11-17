@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">تنتهي الصلاحية خلال ساعة واحدة</item>
+        <item quantity="two">تنتهي الصلاحية خلال ساعتين</item>
+        <item quantity="few">تنتهي الصلاحية خلال %1$d ساعات</item>
+        <item quantity="other">تنتهي الصلاحية خلال %1$d ساعة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">تنتهي الصلاحية خلال %1$d دقيقة</item>
+        <item quantity="other">تنتهي الصلاحية خلال %1$d من الدقائق</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">مهمة واحدة بحاجة إلى تقييم</item>
+        <item quantity="two">مهمتان بحاجة إلى تقييم</item>
+        <item quantity="few">%1$d مهام بحاجة إلى تقييم</item>
+        <item quantity="other">%1$d مهمة بحاجة إلى تقييم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">تم تضمين %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">مسافر واحد</item>
+        <item quantity="two">مسافران</item>
+        <item quantity="few">%1$d مسافرين</item>
+        <item quantity="many">%1$d مسافرًا</item>
+        <item quantity="other">%1$d مسافر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">ليلة واحدة</item>
+        <item quantity="two">ليلتان</item>
+        <item quantity="few">%1$d ليالٍ</item>
+        <item quantity="other">%1$d ليلة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">مهمة واحدة بحاجة إلى تقييم</item>
+        <item quantity="two">مهمتان بحاجة إلى تقييم</item>
+        <item quantity="few">%1$d مهام بحاجة إلى تقييم</item>
+        <item quantity="other">%1$d مهمة بحاجة إلى تقييم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">منذ %1$d ي</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">منذ %1$d س</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">منذ %1$d د</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$d منتجات</item>
+        <item quantity="many">%1$d منتجًا</item>
+        <item quantity="other">%1$d منتج</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">مع %1$s وشخص واحد</item>
+        <item quantity="two">مع %1$s وشخصين آخرين</item>
+        <item quantity="few">مع %1$s و%2$d أشخاص آخرين</item>
+        <item quantity="many">مع %1$s و%2$d شخصًا آخر</item>
+        <item quantity="other">مع %1$s و%2$d شخص آخر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">ضيف واحد</item>
+        <item quantity="two">ضيفان</item>
+        <item quantity="few">%1$d ضيوف</item>
+        <item quantity="many">%1$d ضيفًا</item>
+        <item quantity="other">%1$d ضيف</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">ليلة واحدة</item>
+        <item quantity="two">ليلتان</item>
+        <item quantity="few">%1$d ليالٍ</item>
+        <item quantity="other">%1$d ليلة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">مراجعة واحدة</item>
+        <item quantity="two">مراجعتان</item>
+        <item quantity="few">%1$d مراجعات</item>
+        <item quantity="other">%1$d مراجعة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">يتوفر حساب إضافي واحد</item>
+        <item quantity="two">يتوفر حسابان إضافيان</item>
+        <item quantity="few">تتوفر %1$d حسابات إضافية</item>
+        <item quantity="many">يتوفر %1$d حسابًا إضافيًا</item>
+        <item quantity="other">يتوفر %1$d حساب إضافي</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s وملف شخصي واحد آخر</item>
+        <item quantity="two">%1$s وملفان شخصيان آخران</item>
+        <item quantity="few">%1$s و%2$d ملفات شخصية أخرى</item>
+        <item quantity="many">%1$s و%2$d ملفًا شخصيًا آخر</item>
+        <item quantity="other">%1$s و%2$d ملف شخصي آخر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">ستتوفر لدى ملف شخصي واحد صلاحية وصول إلى %2$s</item>
+        <item quantity="two">ستتوفر لدى ملفين شخصيين صلاحية وصول إلى %2$s</item>
+        <item quantity="few">ستتوفر لدى %1$d ملفات شخصية صلاحية وصول إلى %2$s</item>
+        <item quantity="many">ستتوفر لدى %1$d ملفًا شخصيًا صلاحية وصول إلى %2$s</item>
+        <item quantity="other">ستتوفر لدى %1$d ملف شخصي صلاحية وصول إلى %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">سيارة واحدة</item>
+        <item quantity="two">سيارتان</item>
+        <item quantity="few">%1$d سيارات</item>
+        <item quantity="other">%1$d سيارة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">حقيبة كبيرة واحدة</item>
+        <item quantity="two">حقيبتان كبيرتان</item>
+        <item quantity="few">%1$d حقائب كبيرة</item>
+        <item quantity="other">%1$d حقيبة كبيرة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">تم تضمين %1$s كم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">تم تضمين ميل واحد</item>
+        <item quantity="two">تم تضمين ميلين</item>
+        <item quantity="few">تم تضمين %1$s أميال</item>
+        <item quantity="many">تم تضمين %1$s ميلاً</item>
+        <item quantity="other">تم تضمين %1$s ميل</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">مقعد واحد</item>
+        <item quantity="two">مقعدان</item>
+        <item quantity="few">%1$d مقاعد</item>
+        <item quantity="many">%1$d مقعدًا</item>
+        <item quantity="other">%1$d مقعد</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">عرض %1$d سيارة</item>
+        <item quantity="other">عرض كل السيارات (%1$d)</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">حقيبة صغيرة واحدة</item>
+        <item quantity="two">حقيبتان صغيرتان</item>
+        <item quantity="few">%1$d حقائب صغيرة</item>
+        <item quantity="other">%1$d حقيبة صغيرة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">أكثر من %1$d من العناصر الإضافية</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d منتج</item>
+        <item quantity="other">%1$d من العناصر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">تمت المشاركة مع شخص واحد</item>
+        <item quantity="two">تمت المشاركة مع شخصين</item>
+        <item quantity="few">تمت المشاركة مع %1$d أشخاص</item>
+        <item quantity="many">تمت المشاركة مع %1$d شخصًا</item>
+        <item quantity="other">تمت المشاركة مع %1$d شخص</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">مساهم واحد</item>
+        <item quantity="two">مساهمان</item>
+        <item quantity="few">%1$d مساهمين</item>
+        <item quantity="many">%1$d مساهمًا</item>
+        <item quantity="other">%1$d مساهم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d شخص</item>
+        <item quantity="other">%1$d أشخاص</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">مساحة واحدة</item>
+        <item quantity="two">مساحتان</item>
+        <item quantity="few">%1$d مساحات</item>
+        <item quantity="other">%1$d مساحة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">ستحتفظ بعدد %1$s رمز</item>
+        <item quantity="other">ستحتفظ بعدد %1$s من الرموز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">لم تتبق أمامك سوى %1$d محاولة. إذا كان رمز PIN الخاص بك غير صحيح، فسيُقفَل حسابك.</item>
+        <item quantity="other">لم تتبق سوى %1$d من المحاولات قبل قفل حسابك.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">رمز PIN غير صحيح. لم تتبق أمامك سوى %1$d محاولة.</item>
+        <item quantity="other">رمز PIN غير صحيح. لم تتبق أمامك سوى %1$d من المحاولات.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="one">عرض حساب واحد غير نشط</item>
+        <item quantity="two">عرض حسابين غير نشطين</item>
+        <item quantity="few">عرض %1$d حسابات غير نشطة</item>
+        <item quantity="many">عرض %1$d حسابًا غير نشط</item>
+        <item quantity="other">عرض %1$d حساب غير نشط</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">الخيار %1$s</item>
+        <item quantity="other">الخيارات %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">استخدام صورة واحدة</item>
+        <item quantity="two">استخدام صورتين</item>
+        <item quantity="few">استخدام %1$d صور</item>
+        <item quantity="other">استخدام %1$d صورة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d من مهام المتصفح</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="zero">هذا الرمز غير صحيح. لم تتبق أي محاولة.</item>
+        <item quantity="one">هذا الرمز غير صحيح. تبقت محاولة واحدة.</item>
+        <item quantity="two">هذا الرمز غير صحيح. تبقت محاولتان.</item>
+        <item quantity="few">هذا الرمز غير صحيح. تبقت %1$d محاولات.</item>
+        <item quantity="other">هذا الرمز غير صحيح. تبقت %1$d محاولة.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">تم تضمين %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">تأكيد الرحلة الجوية</item>
+        <item quantity="other">تأكيد الرحلات الجوية</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d حقيبة سفر</item>
+        <item quantity="other">%1$d من حقائب السفر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d حقيبة تم فحصها</item>
+        <item quantity="other">%1$d من الأمتعة التي تم تسجيلها</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">مسافر واحد</item>
+        <item quantity="two">مسافران</item>
+        <item quantity="few">%1$d مسافرين</item>
+        <item quantity="many">%1$d مسافرًا</item>
+        <item quantity="other">%1$d مسافر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">إيقاف واحد</item>
+        <item quantity="two">إيقافان</item>
+        <item quantity="few">%1$d إيقافات</item>
+        <item quantity="many">%1$d إيقافًا</item>
+        <item quantity="other">%1$d إيقاف</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">عرض %1$d من الوحدات الإضافية</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">موصّل واحد</item>
+        <item quantity="two">موصّلان</item>
+        <item quantity="few">%1$d موصّلات</item>
+        <item quantity="many">%1$d موصّلاً</item>
+        <item quantity="other">%1$d موصّل</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+ مهمة إضافية</item>
+        <item quantity="two">+ مهمتان إضافيتان</item>
+        <item quantity="few">+%1$d مهام إضافية</item>
+        <item quantity="other">+%1$d مهمة إضافية</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">مقطع فيديو إضافي واحد</item>
+        <item quantity="two">مقطعا فيديو إضافيان</item>
+        <item quantity="few">%1$d مقاطع فيديو إضافية</item>
+        <item quantity="many">%1$d مقطع فيديو إضافيًا</item>
+        <item quantity="other">%1$d مقطع فيديو إضافي</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">مرتجعات مجانية لمدة يوم واحد</item>
+        <item quantity="two">مرتجعات مجانية لمدة يومين</item>
+        <item quantity="few">مرتجعات مجانية لمدة %1$d أيام</item>
+        <item quantity="many">مرتجعات مجانية لمدة %1$d يومًا</item>
+        <item quantity="other">مرتجعات مجانية لمدة %1$d يوم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="one">الإرجاع خلال يوم واحد</item>
+        <item quantity="two">الإرجاع خلال يومين</item>
+        <item quantity="few">الإرجاع خلال %1$d أيام</item>
+        <item quantity="many">الإرجاع خلال %1$d يومًا</item>
+        <item quantity="other">الإرجاع خلال %1$d يوم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">مساهم واحد</item>
+        <item quantity="two">مساهمان</item>
+        <item quantity="few">%1$d مساهمين</item>
+        <item quantity="many">%1$d مساهمًا</item>
+        <item quantity="other">%1$d مساهم</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">منتج واحد</item>
+        <item quantity="two">منتجان</item>
+        <item quantity="few">%1$d منتجات</item>
+        <item quantity="many">%1$d منتجًا</item>
+        <item quantity="other">%1$d منتج</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">تم إنجاز %1$d من %2$d مهمة</item>
+        <item quantity="other">تم إنجاز %1$d من %2$d من المهام</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">حساب واحد</item>
+        <item quantity="two">حسابان</item>
+        <item quantity="few">%1$d حسابات</item>
+        <item quantity="many">%1$d حسابًا</item>
+        <item quantity="other">%1$d حساب</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d مساهم</item>
+        <item quantity="other">%1$d مساهمين</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">مهمة مجدولة واحدة</item>
+        <item quantity="two">مهمتان مجدولتان</item>
+        <item quantity="few">%1$d مهام مجدولة</item>
+        <item quantity="other">%1$d مهمة مجدولة</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">كل %1$d من الساعات</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">كل %1$d من الدقائق</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">كل %1$d ثانية</item>
+        <item quantity="other">كل %1$d من الثواني</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">هل تريد حذف ملف واحد نهائيًا؟</item>
+        <item quantity="two">هل تريد حذف ملفين نهائيًا؟</item>
+        <item quantity="few">هل تريد حذف %1$d ملفات نهائيًا؟</item>
+        <item quantity="many">هل تريد حذف %1$d ملفًا نهائيًا؟</item>
+        <item quantity="other">هل تريد حذف %1$d ملف نهائيًا؟</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">حذف ملف واحد</item>
+        <item quantity="two">حذف ملفين</item>
+        <item quantity="few">حذف %1$d ملفات</item>
+        <item quantity="many">حذف %1$d ملفًا</item>
+        <item quantity="other">حذف %1$d ملف</item>
+    </plurals>
+</resources>

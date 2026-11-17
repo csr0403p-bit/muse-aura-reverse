@@ -1,0 +1,34 @@
+package X;
+
+import com.google.firebase.encoders.EncodingException;
+
+/* renamed from: X.Cxp, reason: case insensitive filesystem */
+/* loaded from: classes5.dex */
+public final class C4515Cxp implements CHI {
+    public C2580BeF A00;
+    public boolean A01 = false;
+    public boolean A02 = false;
+    public final C4513Cxn A03;
+
+    @Override // X.CHI
+    public final void A3G(String str) {
+        if (this.A01) {
+            throw new EncodingException("Cannot encode a second value in the ValueEncoderContext");
+        }
+        this.A01 = true;
+        this.A03.A06(this.A00, str, this.A02);
+    }
+
+    @Override // X.CHI
+    public final void A3H(boolean z) {
+        if (this.A01) {
+            throw new EncodingException("Cannot encode a second value in the ValueEncoderContext");
+        }
+        this.A01 = true;
+        this.A03.A05(this.A00, z ? 1 : 0, this.A02);
+    }
+
+    public C4515Cxp(C4513Cxn c4513Cxn) {
+        this.A03 = c4513Cxn;
+    }
+}

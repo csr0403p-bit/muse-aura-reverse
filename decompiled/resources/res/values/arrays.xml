@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="android_wear_capabilities">
+        <item>aura_phone_app</item>
+        <item>aura_phone_session_v1</item>
+    </array>
+    <array name="_name_removed__res_0x7f030001">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </array>
+    <array name="_name_removed__res_0x7f030002">
+        <item>Pixel 4</item>
+        <item>Pixel 4 XL</item>
+    </array>
+    <array name="jobscheduler_pushlite_job_ids">
+        <item>@id/jobscheduler_pushlist_refresh_token_job</item>
+    </array>
+</resources>

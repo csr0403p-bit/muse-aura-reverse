@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/_name_removed__res_0x7f130089"
+    android:layout_gravity="start|bottom"
+    android:id="@+id/glanceView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:listSelector="@android:color/transparent"
+    android:numColumns="2"
+    android:divider="@null"
+    android:layoutDirection="locale"
+    app:NOT_FOUND_0x9="true"
+    style="@style/_name_removed__res_0x7f130089"/>

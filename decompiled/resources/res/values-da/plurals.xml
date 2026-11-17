@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Udløber om %1$d time</item>
+        <item quantity="other">Udløber om %1$d timer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Udløber om %1$d minut</item>
+        <item quantity="other">Udløber om %1$d minutter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">En opgave kræver gennemgang</item>
+        <item quantity="other">%1$d opgaver skal gennemgås</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d inkluderet</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d passager</item>
+        <item quantity="other">%1$d passagerer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d nat</item>
+        <item quantity="other">%1$d nætter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d opgave kræver gennemgang</item>
+        <item quantity="other">%1$d opgaver skal gennemgås</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">For %1$d d. siden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d t. siden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d min. siden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d element</item>
+        <item quantity="other">%1$d elementer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">Sammen med %1$s og %2$d anden</item>
+        <item quantity="other">Sammen med %1$s og %2$d andre</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d gæst</item>
+        <item quantity="other">%1$d gæster</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d nat</item>
+        <item quantity="other">%1$d nætter</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d anmeldelse</item>
+        <item quantity="other">%1$d anmeldelser</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">%1$d konto mere tilgængelig</item>
+        <item quantity="other">%1$d konti mere tilgængelige</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s og %2$d anden profil</item>
+        <item quantity="other">%1$s og %2$d andre profiler</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profil vil have adgang til %2$s</item>
+        <item quantity="other">%1$d profiler vil have adgang til %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d bil</item>
+        <item quantity="other">%1$d biler</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d stor taske</item>
+        <item quantity="other">%1$d store tasker</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km inkluderet</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s mil inkluderet</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d sæde</item>
+        <item quantity="other">%1$d sæder</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Se %1$d bil</item>
+        <item quantity="other">Se alle %1$d biler</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d lille taske</item>
+        <item quantity="other">%1$d små tasker</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d mere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · %2$d vare</item>
+        <item quantity="other">%1$s · %2$d varer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d vare</item>
+        <item quantity="other">%1$d varer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Delt med %1$d person</item>
+        <item quantity="other">Delt med %1$d personer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d samarbejdspartner</item>
+        <item quantity="other">%1$d samarbejdspartnere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d personer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d plads</item>
+        <item quantity="other">%1$d områder</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Du beholder %1$s token</item>
+        <item quantity="other">Du beholder dine %1$s tokens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d forsøg tilbage. Hvis din pinkode er forkert, bliver du låst ude.</item>
+        <item quantity="other">%1$d forsøg tilbage, før du låses ude.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">Forkert pinkode. Du har %1$d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Vis %1$d inaktive</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">Har delt et område med dig og %1$d andre.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Valgmulighed %1$s</item>
+        <item quantity="other">Muligheder %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Brug %1$d billede</item>
+        <item quantity="other">Brug %1$d billeder</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d browseropgave</item>
+        <item quantity="other">%1$d browseropgaver</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">Den kode er forkert. %1$d forsøg tilbage.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d inkluderet</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Bekræft flyrejse</item>
+        <item quantity="other">Bekræft flyrejser</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d håndbagage</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d indchecket taske</item>
+        <item quantity="other">%1$d indcheckede tasker</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d rejsende</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$d stop</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Vis %1$d flere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d integration</item>
+        <item quantity="other">%1$d integrationer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d opgave mere</item>
+        <item quantity="other">+%1$d flere opgaver</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">%1$d video mere</item>
+        <item quantity="other">%1$d videoer mere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">Gratis returnering i %1$d dage</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d dages returret</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d samarbejdspartner</item>
+        <item quantity="other">%1$d samarbejdspartnere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d vare</item>
+        <item quantity="other">%1$d elementer</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d af %2$d opgaver er færdig</item>
+        <item quantity="other">%1$d ud af %2$d opgaver er færdige</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">%1$d konto</item>
+        <item quantity="other">%1$d konti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d samarbejdspartner</item>
+        <item quantity="other">%1$d samarbejdspartnere</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d planlagt opgave</item>
+        <item quantity="other">%1$d planlagte opgaver</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">Hver %1$d. time</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">Hvert %1$d. minut</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">Hvert %1$d. sekund</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Vil du slette %1$d filer permanent?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">Slet %1$d filer</item>
+    </plurals>
+</resources>

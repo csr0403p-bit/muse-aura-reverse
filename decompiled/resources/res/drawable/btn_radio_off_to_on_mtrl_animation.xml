@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/btn_radio_off_mtrl">
+    <target
+        android:name="ring_outer"
+        android:animation="@anim/_name_removed__res_0x7f01000e"/>
+    <target
+        android:name="ring_outer_path"
+        android:animation="@anim/_name_removed__res_0x7f01000f"/>
+    <target
+        android:name="dot_group"
+        android:animation="@anim/_name_removed__res_0x7f01000d"/>
+</animated-vector>

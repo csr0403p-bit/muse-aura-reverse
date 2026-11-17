@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">[Expires in %1$d hour#179530a01bfb3f18815d42d5c818412d:1]</item>
+        <item quantity="other">[Expires in %1$d hours#3bb644417fa33f73c93e20af6d713011:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">[Expires in %1$d minute#d184f297578a682f5796e8836bd89055:1]</item>
+        <item quantity="other">[Expires in %1$d minutes#2db809c12ad8088e016d61b06bbbd03f:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">[A task needs review#98f7e64c97811f584369a11f906fa1f8:1]</item>
+        <item quantity="other">[%1$d tasks need review#9ecb5d0a04c04faac0f98e38a98590ea:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">[%1$d included#bf0b15b4486f15bc46e63231db7b2407:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">[%1$d passenger#d8c8c9d6665438d455a3c5758d63ca09:1]</item>
+        <item quantity="other">[%1$d passengers#48a02ee22b0e5e74cf56d02daa0d67b8:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">[%1$d night#8bd1a0a9bcb2b3a895ebfd7aba0b33c1:1]</item>
+        <item quantity="other">[%1$d nights#3e949e6310a338b297277637d474b4f8:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">[%1$d task needs review#97a6d2ecba59ce9f951dcbd65f623b56:1]</item>
+        <item quantity="other">[%1$d tasks need review#9ecb5d0a04c04faac0f98e38a98590ea:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">[%1$dd ago#4f121d642406ae7b515d9abd0fcaa2c1:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">[%1$dh ago#cebf13b5185312861bd1b27e1f0888e1:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">[%1$dm ago#7a5a8f4e09b8aff2626b17165981120b:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">[%1$d item#672d33a68b3a7c19de685988686114d2:1]</item>
+        <item quantity="other">[%1$d items#44c1865dcdd3e6e87ba7b97d9f22a99c:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">[With %1$s and %2$d other#7da613490d282a5d41cd2e3c58f5db86:1]</item>
+        <item quantity="other">[With %1$s and %2$d others#1f4f5f804ae44a157eb2046f083363b3:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">[%1$d guest#7eb31a9cffa656653d61bf2171b49afd:1]</item>
+        <item quantity="other">[%1$d guests#a0c07faccf8bef6af2e25e7f0032e6a4:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">[%1$d night#76545ed3e5e9f84b6188a9aa2ddfd6d3:1]</item>
+        <item quantity="other">[%1$d nights#cc7b65654a4a2d319d0d508c3843d78a:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">[%1$d review#06fa16d0fbec4a25e36111068cdd0bdd:1]</item>
+        <item quantity="other">[%1$d reviews#3dbac51472fa21d87b840157c5726e2a:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">[%1$d more account available#d602f3bcf46c46be27ce011f1a70d25c:1]</item>
+        <item quantity="other">[%1$d more accounts available#68215c54ee0bcef8dfec991537053e9c:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">[%1$s and %2$d other profile#d48664ab41fd6856c068c8b808d36f4c:1]</item>
+        <item quantity="other">[%1$s and %2$d other profiles#60fce54501335ecab38e3c484af0e7d9:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">[%1$d profile will have access to %2$s#79c547e0fa7ebd7b951136caa765a315:1]</item>
+        <item quantity="other">[%1$d profiles will have access to %2$s#df49adcb3e24df1b1032d4f3f1913033:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">[%1$d car#587dec9562bf0f99c2c77e0fa485f460:1]</item>
+        <item quantity="other">[%1$d cars#d7db6322aee457785cbd9072f412942a:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">[%1$d large bag#98ebd993d0eb555cf8f2454d200b9761:1]</item>
+        <item quantity="other">[%1$d large bags#69dead45370f82c2068bcc44f15a52e0:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="one">[%1$s km included#c9c57464684f885113e01a3c00a47479:1]</item>
+        <item quantity="other">[%1$s km included#c6a072522f91bb6ddd569913628bb923:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">[%1$s mi included#6c674065c2499b5ae45ac658489f5f6e:1]</item>
+        <item quantity="other">[%1$s mi included#49ca1863819553b091fe19d502c23f43:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">[%1$d seat#c11e9f30780e83a35efd5af7808f0d24:1]</item>
+        <item quantity="other">[%1$d seats#132a253816f62d52a8a71e6f1657c62e:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">[See %1$d car#dfc0f9ef33a9c8dca6144b1db511115f:1]</item>
+        <item quantity="other">[See all %1$d cars#a95c6d90dbdeb05e671d24de35b4bf25:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">[%1$d small bag#f690bc40d5ab48c44fbba3aa7e88e524:1]</item>
+        <item quantity="other">[%1$d small bags#94be1522fc87e15735e2ae261432cfbe:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">[+%1$d more#40e1d37d0308556169685a8f7823e083:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">[%1$s · %2$d item#139793d620fd53911abdeff6b6cb76ba:1]</item>
+        <item quantity="other">[%1$s · %2$d items#c8ca6a3846fc187f72f11bd635878907:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">[%1$d item#53d27f8e27c3c16bc1259301b0ea533a:1]</item>
+        <item quantity="other">[%1$d items#ead488618f5634343608c3468260d2de:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">[Shared with %1$d person#c1fabfe5015afdb694654935c1dda5e0:1]</item>
+        <item quantity="other">[Shared with %1$d people#47cb96584f7b51f25a05ace3deaa6018:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">[%1$d collaborator#48e0a7b079ec66839c22fbadd97718e0:1]</item>
+        <item quantity="other">[%1$d collaborators#8b83e524b2a93a4d68ec1908f3b10167:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">[%1$d person#83b9f7ba96e856ea27477de129441907:1]</item>
+        <item quantity="other">[%1$d people#8249e53c92ed789563abefdb7fb90eb9:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">[%1$d Space#f7ca40000a6b3aa696c5a1699148c6ec:1]</item>
+        <item quantity="other">[%1$d Spaces#d33963491aac7a70bc4bbe659d25ac8a:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">[You&apos;ll keep your %1$s token#04811aa6e514853f3ff2491ebdb3f9b1:1]</item>
+        <item quantity="other">[You&apos;ll keep your %1$s tokens#9b052db74e51c85703a91f481eb06868:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">[%1$d attempt left. If your PIN is incorrect, you&apos;ll be locked out.#5dacde4812e79288c31db372471908c2:1]</item>
+        <item quantity="other">[%1$d attempts left before you&apos;re locked out.#5fd151efc78e0386593868415dc2f378:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">[Incorrect PIN. You have %1$d attempt left.#4d7e23441a54c4d946c5805f44e21c65:1]</item>
+        <item quantity="other">[Incorrect PIN. You have %1$d attempts left.#845a7c2d52e55a4468f7e77b6c5eda82:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">[Show %1$d inactive#db22005b926900e8af17a4bde3a43c01:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">[Shared a space with you and %1$d other.#7f41ead7ae6500f02428c11432af2f5c:1]</item>
+        <item quantity="other">[Shared a space with you and %1$d others.#45528c8fd6dffbf5e957a0b4814c40c0:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">[Option %1$s#f55955c63b8245c43fc7e423d1635302:1]</item>
+        <item quantity="other">[Options %1$s#97e7ab4bcd0681db30faf6d1856d9b1f:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">[Use %1$d image#7d18f1213a1d404499f0130ad8904633:1]</item>
+        <item quantity="other">[Use %1$d images#6da320a6d08f86358e2f899cd8117cf8:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">[%1$d browser task#c67e88ceb698e936d6262d243fdff1f3:1]</item>
+        <item quantity="other">[%1$d browser tasks#192cc8869e24394663ff48bc7ed566fb:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">[That code is incorrect. %1$d attempt remaining.#fd710b76e45f5118fbad3fe0f3f3bc79:1]</item>
+        <item quantity="other">[That code is incorrect. %1$d attempts remaining.#bb9ffce6fe9dc0cc56257604e1f648ba:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">[%1$d included#bf0b15b4486f15bc46e63231db7b2407:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">[Confirm flight#947d80e7f9e78a16caedd0cf3d2e0c17:1]</item>
+        <item quantity="other">[Confirm flights#49be80de83188afc17c956e93b415704:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">[%1$d carry-on bag#24dd753b3b68c8d28631c240229aa691:1]</item>
+        <item quantity="other">[%1$d carry-on bags#c70da9fb1cf49dce928ba508b2af7f3d:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">[%1$d checked bag#a60ed7373ccaedd5ad42fe852c4c2f72:1]</item>
+        <item quantity="other">[%1$d checked bags#e9530f65e4d83241ea8a9a3cdbd5d53b:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">[%1$d traveler#325933748f7772c95f0715de812598cf:1]</item>
+        <item quantity="other">[%1$d travelers#9c0b0ec3cc51ea5456477ef957c9b40e:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">[%1$d stop#4423ccf60b4977c6073cbd04cad066a3:1]</item>
+        <item quantity="other">[%1$d stops#edd2257318d5ba433cf1be04724d3372:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">[Show %1$d more#9df77f73e0ca5940a3d6a90d8e408de5:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">[%1$d connector#2ad9a38670d965d24f3ad1a6c1b8cd32:1]</item>
+        <item quantity="other">[%1$d connectors#724fcd3f33cdfaf3b15d504513a777f6:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">[+%1$d more task#aac7d840909f73b54f4481afd47b4824:1]</item>
+        <item quantity="other">[+%1$d more tasks#fc38acbcb140eb1da6c634d659d6f4ce:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">[%1$d more video#131be544073b6c906b6a4afc83a5d9b4:1]</item>
+        <item quantity="other">[%1$d more videos#7af63ca3d6adb550f3deae37a8012b30:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">[Free returns for %1$d day#347010c81e761964366b6ba93578aa9b:1]</item>
+        <item quantity="other">[Free returns for %1$d days#3a292e19657bdadb29cc0c078d156de3:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">[%1$d-day returns#d13b00b0ce6c9c6099945bda9f752c4e:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">[%1$d Collaborator#5edf3d238c162fd4a313ffc44cc498d1:1]</item>
+        <item quantity="other">[%1$d Collaborators#2d7c9838247f7fce463830c0fda27d77:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">[%1$d item#e9ccf824372ce40ce0caa0ac74b5881c:1]</item>
+        <item quantity="other">[%1$d items#14086f0fc68f180befc535bd2adfa291:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">[%1$d of %2$d task done#3d3570677154a6da4d3e06b6051f7191:1]</item>
+        <item quantity="other">[%1$d of %2$d tasks done#9345f5605dfa17a85d29940db1cecc08:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">[%1$d account#1dc29bf1b7552262596057f94075b516:1]</item>
+        <item quantity="other">[%1$d accounts#3f605a6afdb9a98ce71c9dd92cbddd06:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">[%1$d Collaborator#d77ab0d34428127027f3476b0d47f46c:1]</item>
+        <item quantity="other">[%1$d Collaborators#1d0d9ad856e52dba11a6e7623a8ad2c6:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">[%1$d scheduled task#aa3f0f4165efb7e0d3c9e40fca54c77a:1]</item>
+        <item quantity="other">[%1$d scheduled tasks#455c8619143c2cdb78db94e365d44b12:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">[Every %1$d hour#0c281d74a2b1bfc524101ac211301bc8:1]</item>
+        <item quantity="other">[Every %1$d hours#1d8e97a32649b72b52f2b273a12c7868:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">[Every %1$d minute#391a6fcdfd5ec45c75e4237aee493a45:1]</item>
+        <item quantity="other">[Every %1$d minutes#4f44351b98eca505bfd73af2c210b9e7:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">[Every %1$d second#6bce24f9ef650cfaa4a335dec836da86:1]</item>
+        <item quantity="other">[Every %1$d seconds#45a0b09f7e7ca2046dbc6639e92265f4:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">[Permanently delete %1$d file?#01689fc2208968e5aa4213a605177ca4:1]</item>
+        <item quantity="other">[Permanently delete %1$d files?#635438a857cbe7e0e5a01f69e9948e7b:1]</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">[Delete %1$d file#76d831103d6f76c08072330f85708543:1]</item>
+        <item quantity="other">[Delete %1$d files#4c860fbcbbb4daa80d1035432d4627d7:1]</item>
+    </plurals>
+</resources>

@@ -1,0 +1,28 @@
+package com.facebook.aura.spaces.view.cards;
+
+import X.AbstractC7559F3s;
+import X.C6t6;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes3.dex */
+public final class HtmlSpacesWebViewKt$HtmlSpacesWebView$15$1$1 extends AbstractC7559F3s implements Function0<Unit> {
+    public final /* synthetic */ C6t6 $webView;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public HtmlSpacesWebViewKt$HtmlSpacesWebView$15$1$1(C6t6 c6t6) {
+        super(0);
+        this.$webView = c6t6;
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        this.$webView.goBack();
+    }
+}

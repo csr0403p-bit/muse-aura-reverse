@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1062101792"
+    android:versionName="16.0.0.11.159"
+    android:compileSdkVersion="37"
+    android:compileSdkVersionCodename="17"
+    android:requiredSplitTypes=""
+    android:splitTypes=""
+    package="com.facebook.aura"
+    platformBuildVersionCode="37"
+    platformBuildVersionName="17">
+    <uses-sdk
+        android:minSdkVersion="29"
+        android:targetSdkVersion="36"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED"/>
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION"/>
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CREDENTIAL_MANAGER_QUERY_CANDIDATE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <uses-permission android:name="android.permission.DETECT_SCREEN_CAPTURE"/>
+    <uses-permission
+        android:name="android.permission.BLUETOOTH"
+        android:maxSdkVersion="30"/>
+    <uses-permission
+        android:name="android.permission.BLUETOOTH_ADMIN"
+        android:maxSdkVersion="30"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false"/>
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false"/>
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="false"/>
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false"/>
+    <uses-permission android:name="android.permission.health.READ_STEPS"/>
+    <uses-permission android:name="android.permission.health.READ_HEART_RATE"/>
+    <uses-permission android:name="android.permission.health.READ_ACTIVE_CALORIES_BURNED"/>
+    <uses-permission android:name="android.permission.health.READ_TOTAL_CALORIES_BURNED"/>
+    <uses-permission android:name="android.permission.health.READ_DISTANCE"/>
+    <uses-permission android:name="android.permission.health.READ_EXERCISE"/>
+    <uses-permission android:name="android.permission.health.READ_SLEEP"/>
+    <uses-permission android:name="android.permission.health.READ_ELEVATION_GAINED"/>
+    <uses-permission android:name="android.permission.health.READ_FLOORS_CLIMBED"/>
+    <uses-permission android:name="android.permission.health.READ_WEIGHT"/>
+    <uses-permission android:name="android.permission.health.READ_BODY_FAT"/>
+    <uses-permission android:name="android.permission.health.READ_BODY_WATER_MASS"/>
+    <uses-permission android:name="android.permission.health.READ_BONE_MASS"/>
+    <uses-permission android:name="android.permission.health.READ_LEAN_BODY_MASS"/>
+    <uses-permission android:name="android.permission.health.READ_VO2_MAX"/>
+    <uses-permission android:name="android.permission.health.READ_RESTING_HEART_RATE"/>
+    <uses-permission android:name="android.permission.health.READ_HEIGHT"/>
+    <uses-permission android:name="android.permission.health.READ_BASAL_METABOLIC_RATE"/>
+    <uses-permission android:name="android.permission.health.READ_HEART_RATE_VARIABILITY"/>
+    <uses-permission android:name="android.permission.health.READ_HEALTH_DATA_HISTORY"/>
+    <uses-permission android:name="android.permission.health.READ_HEALTH_DATA_IN_BACKGROUND"/>
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false"/>
+    <permission
+        android:name="com.facebook.aura.permission.CROSS_PROCESS_BROADCAST_MANAGER"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.facebook.aura.permission.CROSS_PROCESS_BROADCAST_MANAGER"/>
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.facebook.appmanager.KNOWN_SIGNED_API_ACCESS"/>
+    <permission
+        android:name="com.facebook.aura.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.facebook.aura.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"/>
+    <application
+        android:theme="@style/_name_removed__res_0x7f1300c9"
+        android:label="Muse"
+        android:icon="@mipmap/aura_launcher"
+        android:name="com.facebook.aura.app.AuraApplication"
+        android:debuggable="false"
+        android:exported="true"
+        android:allowBackup="false"
+        android:supportsRtl="true"
+        android:extractNativeLibs="true"
+        android:networkSecurityConfig="@xml/_name_removed__res_0x7f150005"
+        android:appComponentFactory="com.facebook.aura.app.AuraAppComponentFactory">
+        <meta-data
+            android:name="com.facebook.mobileconfig.params_map"
+            android:value="true"/>
+        <meta-data
+            android:name="com.google.android.ALLOW_PHISHING_DETECTION"
+            android:value="false"/>
+        <meta-data
+            android:name="com.facebook.build_rule"
+            android:value="aura_android_arm64_release_fbsign"/>
+        <meta-data
+            android:name="com.facebook.package_type"
+            android:value="release"/>
+        <meta-data
+            android:name="com.facebook.build_time"
+            android:value="1794552666000L"/>
+        <meta-data
+            android:name="com.facebook.versioncontrol.branch"
+            android:value="master"/>
+        <meta-data
+            android:name="com.facebook.versioncontrol.revision"
+            android:value="MASTER"/>
+        <meta-data
+            android:name="com.facebook.build_id"
+            android:value="1114131228"/>
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false"/>
+        <meta-data
+            android:name="com.facebook.katana.fbpermission.SSO_ACCESS"
+            android:value=""/>
+        <meta-data
+            android:name="com.facebook.stella.fbpermission.SSO_ACCESS"
+            android:value=""/>
+        <meta-data
+            android:name="com.whatsapp.fbpermission.ACCESS_LIBRARY_PROVIDER_ACCESS"
+            android:value=""/>
+        <meta-data
+            android:name="com.facebook.katana.fbpermission.LITE_PROVIDER_ACCESS"
+            android:value=""/>
+        <meta-data
+            android:name="android.content.APP_RESTRICTIONS"
+            android:resource="@xml/_name_removed__res_0x7f150002"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300c9"
+            android:name="com.facebook.aura.main.AuraMainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden"
+            android:windowSoftInputMode="adjustNothing"
+            android:resizeableActivity="true"
+            android:supportsPictureInPicture="true">
+            <meta-data
+                android:name="android.supports_size_changes"
+                android:value="true"/>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.ASSIST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity-alias
+            android:name="com.facebook.aura.main.AuraWidgetLaunchActivity"
+            android:exported="false"
+            android:targetActivity="com.facebook.aura.main.AuraMainActivity"/>
+        <service
+            android:name="com.facebook.aura.assist.HatchVoiceInteractionService"
+            android:permission="android.permission.BIND_VOICE_INTERACTION"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.voice.VoiceInteractionService"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.voice_interaction"
+                android:resource="@xml/_name_removed__res_0x7f15000b"/>
+        </service>
+        <service
+            android:name="com.facebook.aura.assist.HatchVoiceInteractionSessionService"
+            android:permission="android.permission.BIND_VOICE_INTERACTION"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.service.voice.VoiceInteractionSessionService"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.facebook.aura.assist.HatchRecognitionService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.speech.RecognitionService"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.speech"
+                android:resource="@xml/_name_removed__res_0x7f150009"/>
+        </service>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300ca"
+            android:name="com.facebook.aura.assist.HatchAssistOverlayActivity"
+            android:exported="false"
+            android:taskAffinity=""
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden"
+            android:windowSoftInputMode="adjustNothing"/>
+        <activity
+            android:theme="@android:style/Theme.NoDisplay"
+            android:name="com.facebook.aura.main.AuraDeeplinkHandlerActivity"
+            android:exported="true"
+            android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="hatch"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="https"
+                    android:host="agent.meta.ai"/>
+                <data
+                    android:scheme="https"
+                    android:host="applink.muse.ai"/>
+                <data
+                    android:scheme="https"
+                    android:host="muse.ai"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.muse.ai"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="http"
+                    android:host="muse.ai"/>
+                <data
+                    android:scheme="http"
+                    android:host="www.muse.ai"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300c7"
+            android:name="com.facebook.aura.accountcenter.AuraAccountsCenterActivity"
+            android:exported="false"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300c6"
+            android:name="com.meta.wearable.web.WowWebViewActivity"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.aura.audio.HatchAudioForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback"/>
+        <service
+            android:name="com.facebook.aura.gateway.service.NodeCommandService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Execute server-initiated device commands such as location queries and contact sync"/>
+        </service>
+        <service
+            android:name="com.facebook.aura.gateway.service.HatchForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Keep the app running in the background at the user&apos;s request to continue long-running assistant tasks"/>
+        </service>
+        <receiver
+            android:name="com.facebook.aura.gateway.service.HatchForegroundServiceDismissReceiver"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.aura.gateway.service.HatchForegroundServiceStopReceiver"
+            android:exported="false"/>
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:exported="false"
+            android:authorities="com.facebook.aura.aura.fileprovider"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/_name_removed__res_0x7f150003"/>
+        </provider>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300bf"
+            android:name="libraries.fxmetalogin.webauth.MetaWebAuthenticationActivity"
+            android:exported="true"
+            android:launchMode="singleTask">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data
+                    android:scheme="https"
+                    android:host="agent.meta.ai"
+                    android:pathPrefix="/account_link_auth"/>
+                <data
+                    android:scheme="https"
+                    android:host="muse.ai"
+                    android:pathPrefix="/account_link_auth"/>
+                <data
+                    android:scheme="https"
+                    android:host="www.muse.ai"
+                    android:pathPrefix="/account_link_auth"/>
+            </intent-filter>
+        </activity>
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:exported="false"
+            android:authorities="com.facebook.aura.androidx-startup">
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup"/>
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup"/>
+            <meta-data
+                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+                android:value="androidx.startup"/>
+        </provider>
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:exported="false"
+            android:authorities="com.facebook.aura.firebaseinitprovider"
+            android:initOrder="100"/>
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
+            android:value="ica"/>
+        <receiver
+            android:name="com.facebook.aura.notifications.push.HatchNotificationDismissReceiver"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.aura.notifications.push.NotificationReplyReceiver"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.aura.analytics.hatch.HatchXInstallReferrerReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.facebook.oxygen.installapi.XINSTALL_REFERRER_HANDOFF"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.facebook.aura.notifications.push.NotificationReplyService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Reconnect WebSocket and send user reply from notification"/>
+        </service>
+        <service
+            android:name="libraries.accessv2.src.authenticator.AccessLibraryAuthenticatorService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/_name_removed__res_0x7f150000"/>
+        </service>
+        <provider
+            android:name="libraries.accessv2.src.provider.AccessLibraryContentProvider"
+            android:exported="true"
+            android:authorities="com.facebook.aura.provider.AccessLibraryContentProvider"
+            android:grantUriPermissions="true"/>
+        <service
+            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+            android:exported="false"
+            android:directBootAware="true">
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.label.defaults.thin.ThinLabelRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300bf"
+            android:name="com.facebook.aura.commands.health.permissions.HealthConnectPrivacyPolicyActivity"
+            android:exported="true"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden">
+            <intent-filter>
+                <action android:name="androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE"/>
+            </intent-filter>
+        </activity>
+        <activity-alias
+            android:name="com.facebook.aura.commands.health.permissions.ViewPermissionUsageActivity"
+            android:permission="android.permission.START_VIEW_PERMISSION_USAGE"
+            android:exported="true"
+            android:targetActivity="com.facebook.aura.commands.health.permissions.HealthConnectPrivacyPolicyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW_PERMISSION_USAGE"/>
+                <category android:name="android.intent.category.HEALTH_PERMISSIONS"/>
+            </intent-filter>
+        </activity-alias>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/_name_removed__res_0x7f120006"
+            android:name="com.facebook.aura.share.AuraShareIntentHandlerActivity"
+            android:exported="true"
+            android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="*/*"/>
+            </intent-filter>
+        </activity>
+        <activity-alias
+            android:label="@string/_name_removed__res_0x7f120006"
+            android:name="com.facebook.aura.share.AuraProcessTextActivity"
+            android:enabled="false"
+            android:exported="true"
+            android:targetActivity="com.facebook.aura.share.AuraShareIntentHandlerActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.PROCESS_TEXT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain"/>
+            </intent-filter>
+        </activity-alias>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.facebook.aura.partners.voice.shortcut.VoiceCallShortcutActivity"
+            android:exported="false"
+            android:taskAffinity=""
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:configChanges="smallestScreenSize|screenSize|screenLayout|orientation|keyboardHidden"/>
+        <receiver
+            android:name="com.facebook.aura.startup.boot.HatchBootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.facebook.aura.commands.geofence.HatchGeofenceBroadcastReceiver"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.aura.watchhandoff.WatchSessionDataService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.wearable.REQUEST_RECEIVED"/>
+                <data
+                    android:scheme="wear"
+                    android:host="*"
+                    android:pathPrefix="/aura/watch/v1/"/>
+            </intent-filter>
+        </service>
+        <receiver
+            android:name="com.facebook.aura.watchhandoff.WatchChatOpenReceiver"
+            android:exported="false"/>
+        <service
+            android:name="androidx.camera.core.impl.MetadataHolderService"
+            android:enabled="false"
+            android:exported="false">
+            <meta-data
+                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider"/>
+        </service>
+        <service
+            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+            android:enabled="true"
+            android:exported="false">
+            <meta-data
+                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl"/>
+        </service>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300cc"
+            android:name="androidx.credentials.playservices.controllers.identityauth.HiddenActivity"
+            android:enabled="true"
+            android:exported="false"
+            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden"
+            android:fitsSystemWindows="true"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300cc"
+            android:name="androidx.credentials.playservices.controllers.identitycredentials.IdentityCredentialApiHiddenActivity"
+            android:enabled="true"
+            android:exported="false"
+            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden"
+            android:fitsSystemWindows="true"/>
+        <service
+            android:name="com.facebook.aura.commands.notifications.NodeNotificationListenerService"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"/>
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+            android:exported="true"
+            android:visibleToInstantApps="true"/>
+        <service
+            android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppCacheService"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppCacheJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppFlag"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppFlag"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IsManagedAppReceiver"
+            android:permission="com.facebook.appmanager.ACCESS"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.facebook.oxygen.preloads.sdk.firstparty.managedappcache.IS_MANAGED_APP_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300cd"
+            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+            android:exported="false"
+            android:stateNotNeeded="true"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300c8"
+            android:name="com.facebook.aura.bloks.activity.AuraCDSBloksActivity"
+            android:exported="false"
+            android:configChanges="screenSize|orientation"/>
+        <uses-library
+            android:name="wear-sdk"
+            android:required="false"/>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f121006"
+            android:name="com.facebook.aura.widgets.SpaceWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f15000a"/>
+        </receiver>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f120c24"
+            android:name="com.facebook.aura.widgets.IdeasWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f150008"/>
+        </receiver>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f1209cc"
+            android:name="com.facebook.aura.widgets.FeedWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f150006"/>
+        </receiver>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f120aa6"
+            android:name="com.facebook.aura.widgets.GoalsWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f150007"/>
+        </receiver>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f12016b"
+            android:name="com.facebook.aura.widgets.AskBarWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f150001"/>
+        </receiver>
+        <receiver
+            android:label="@string/_name_removed__res_0x7f1206b6"
+            android:name="com.facebook.aura.widgets.AvatarWidgetReceiver"
+            android:enabled="false"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/_name_removed__res_0x7f150004"/>
+        </receiver>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300c6"
+            android:name="com.facebook.aura.widgets.SpaceWidgetConfigureActivity"
+            android:enabled="false"
+            android:exported="true"
+            android:taskAffinity=""
+            android:excludeFromRecents="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:theme="@android:style/Theme.NoDisplay"
+            android:name="androidx.glance.appwidget.action.ActionTrampolineActivity"
+            android:enabled="true"
+            android:exported="false"
+            android:excludeFromRecents="true"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f13010f"
+            android:name="androidx.glance.appwidget.action.InvisibleActionTrampolineActivity"
+            android:enabled="true"
+            android:exported="false"
+            android:taskAffinity="androidx.glance.appwidget.ListAdapterCallbackTrampoline"
+            android:launchMode="singleInstance"
+            android:noHistory="true"/>
+        <receiver
+            android:name="androidx.glance.appwidget.action.ActionCallbackBroadcastReceiver"
+            android:enabled="true"
+            android:exported="false"/>
+        <receiver
+            android:name="androidx.glance.appwidget.UnmanagedSessionReceiver"
+            android:enabled="true"
+            android:exported="false"/>
+        <receiver
+            android:name="androidx.glance.appwidget.MyPackageReplacedReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="androidx.glance.appwidget.GlanceRemoteViewsService"
+            android:permission="android.permission.BIND_REMOTEVIEWS"
+            android:exported="true"/>
+        <service
+            android:name="androidx.core.widget.RemoteViewsCompatService"
+            android:permission="android.permission.BIND_REMOTEVIEWS"/>
+        <meta-data
+            android:name="com.google.android.play.billingclient.version"
+            android:value="9.1.0-billing-eap01"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.android.billingclient.api.ProxyBillingActivity"
+            android:exported="false"
+            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.android.billingclient.api.ProxyBillingActivityV2"
+            android:exported="false"
+            android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard"/>
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false">
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct"/>
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.aura.partners.voice.background.VoiceCallForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="microphone"/>
+        <receiver
+            android:name="com.facebook.pushlite.tokenprovider.fbns.PushLiteFbnsListenerService"
+            android:exported="true">
+            <intent-filter>
+                <category android:name="com.facebook.aura"/>
+                <action android:name="com.facebook.rti.fbns.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.facebook.pushlite.tokenprovider.fcm.PushLiteFcmListenerService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.facebook.pushlite.tokenprovider.fcm.PushLiteFirebaseMessagingService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.facebook.pushlite.PushLiteFallbackJobService"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.pushlite.PushLiteLollipopJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false">
+            <meta-data
+                android:name="com.facebook.common.jobscheduler.compat.jobIds"
+                android:resource="@array/jobscheduler_pushlite_job_ids"/>
+        </service>
+        <service
+            android:name="com.facebook.pushlite.PushLiteGCMJobService"
+            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"
+            android:exported="true">
+            <meta-data
+                android:name="com.facebook.common.jobscheduler.compat.jobIds"
+                android:resource="@array/jobscheduler_pushlite_job_ids"/>
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="false">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:exported="false"
+            android:directBootAware="true">
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="com.facebook.video.heroplayer.service.HeroKeepAliveService"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.aura.commands.alarm.ReminderAlarmReceiver"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.aura.commands.alarm.AlarmFireReceiver"
+            android:exported="false"/>
+        <activity
+            android:theme="@style/_name_removed__res_0x7f1300ca"
+            android:name="com.facebook.aura.commands.core.NodePermissionActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:configChanges="screenSize|orientation"/>
+        <service
+            android:name="androidx.health.platform.client.impl.sdkservice.HealthDataSdkService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="androidx.health.platform.client.ACTION_BIND_SDK_SERVICE"/>
+            </intent-filter>
+        </service>
+        <receiver
+            android:name="com.facebook.oxygen.preloads.sdk.firstparty.settings.TosAcceptedFlag"
+            android:enabled="false"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.analytics2.logger.GooglePlayUploadService"
+            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE"
+            android:enabled="false"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.facebook.analytics2.logger.service.LollipopUploadSafeService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.analytics2.logger.legacy.uploader.LollipopUploadService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.analytics2.logger.legacy.uploader.Analytics2UploadService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"/>
+        <service
+            android:name="com.facebook.analytics2.logger.legacy.uploader.AlarmBasedUploadService"
+            android:exported="false"/>
+        <receiver
+            android:name="com.facebook.analytics2.logger.legacy.uploader.HighPriUploadRetryReceiver"
+            android:exported="false"/>
+        <service
+            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:enabled="@bool/_name_removed__res_0x7f050001"
+            android:exported="true"
+            android:directBootAware="false"/>
+        <service
+            android:name="androidx.work.impl.foreground.SystemForegroundService"
+            android:enabled="@bool/_name_removed__res_0x7f050001"
+            android:exported="false"
+            android:directBootAware="false"/>
+        <receiver
+            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:directBootAware="false"/>
+        <receiver
+            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+            android:enabled="false"
+            android:exported="false"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+            android:permission="android.permission.DUMP"
+            android:enabled="true"
+            android:exported="true"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS"/>
+            </intent-filter>
+        </receiver>
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:exported="false"
+            android:directBootAware="true"/>
+        <provider
+            android:name="com.meta.foa.infra.fdid.FoaPhoneIdProvider"
+            android:exported="true"
+            android:authorities="com.facebook.aura.provider.phoneid"/>
+        <receiver
+            android:name="com.meta.foa.infra.fdid.FoaPhoneIdRequestReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.facebook.GET_PHONE_ID"/>
+            </intent-filter>
+        </receiver>
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false"/>
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"/>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/_name_removed__res_0x7f0b0006"/>
+        <receiver
+            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+            android:permission="android.permission.DUMP"
+            android:enabled="true"
+            android:exported="true"
+            android:directBootAware="false">
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SKIP_FILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION"/>
+            </intent-filter>
+        </receiver>
+        <activity-alias
+            android:name="com.facebook.secure.packagefinder.PackageFinderActivity"
+            android:enabled="false"
+            android:exported="true"
+            android:targetActivity="com.facebook.aura.main.AuraMainActivity">
+            <intent-filter>
+                <action android:name="com.facebook.secure.packagefinder.intent.ACTION_QUERY_PACKAGES"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity-alias>
+        <meta-data
+            android:name="com.android.stamp.source"
+            android:value="https://play.google.com/store"/>
+        <meta-data
+            android:name="com.android.stamp.type"
+            android:value="STAMP_TYPE_DISTRIBUTION_APK"/>
+        <meta-data
+            android:name="com.android.vending.splits"
+            android:resource="@xml/splits0"/>
+        <meta-data
+            android:name="com.android.vending.derived.apk.id"
+            android:value="1"/>
+    </application>
+    <queries>
+        <package android:name="com.facebook.katana"/>
+        <package android:name="com.facebook.wakizashi"/>
+        <package android:name="com.facebook.lite"/>
+        <package android:name="com.facebook.orca"/>
+        <package android:name="com.facebook.orca.debug"/>
+        <package android:name="com.instagram.android"/>
+        <package android:name="com.instagram.lite"/>
+        <package android:name="com.instagram.barcelona"/>
+        <package android:name="com.twitter.android"/>
+        <package android:name="com.facebook.stella"/>
+        <package android:name="com.facebook.stella_debug"/>
+        <package android:name="com.whatsapp"/>
+        <package android:name="com.whatsapp.w4b"/>
+        <package android:name="com.google.android.apps.docs"/>
+        <package android:name="com.google.android.apps.healthdata"/>
+        <intent>
+            <action android:name="com.google.android.finsky.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.MAIN"/>
+            <category android:name="android.intent.category.LAUNCHER"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.DIAL"/>
+            <data android:scheme="tel"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.SENDTO"/>
+            <data android:scheme="smsto"/>
+        </intent>
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE"/>
+        </intent>
+        <intent>
+            <action android:name="android.service.credentials.CredentialProviderService"/>
+        </intent>
+        <intent>
+            <action android:name="android.speech.RecognitionService"/>
+        </intent>
+        <package android:name="com.onepassword.android"/>
+        <package android:name="com.facebook.appmanager"/>
+        <package android:name="com.facebook.system"/>
+        <package android:name="com.facebook.services"/>
+        <package android:name="com.LogiaGroup.LogiaDeck"/>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <category android:name="android.intent.category.BROWSABLE"/>
+            <data android:scheme="https"/>
+        </intent>
+        <intent>
+            <action android:name="android.support.customtabs.action.CustomTabsService"/>
+        </intent>
+        <intent>
+            <action android:name="com.android.vending.billing.InAppBillingService.BIND"/>
+        </intent>
+        <intent>
+            <action android:name="com.google.android.apps.play.billingtestcompanion.BillingOverrideService.BIND"/>
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.VIEW"/>
+            <data
+                android:mimeType="vnd.android.cursor.item/event"
+                android:scheme="content"
+                android:host="com.android.calendar"/>
+        </intent>
+        <intent>
+            <action android:name="com.facebook.secure.packagefinder.intent.ACTION_QUERY_PACKAGES"/>
+        </intent>
+        <intent>
+            <action android:name="com.facebook.GET_PHONE_ID"/>
+        </intent>
+        <intent>
+            <action android:name="com.facebook.GET_UNIQUE_ID"/>
+        </intent>
+    </queries>
+</manifest>

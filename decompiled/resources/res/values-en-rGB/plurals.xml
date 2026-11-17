@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km included</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d more</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d space</item>
+        <item quantity="other">%1$d spaces</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d item of checked luggage</item>
+        <item quantity="other">%1$d checked bags</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d traveller</item>
+        <item quantity="other">%1$d travellers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Free returns for %1$d d</item>
+        <item quantity="other">Free returns for %1$d days</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d collaborator</item>
+        <item quantity="other">%1$d collaborators</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d collaborator</item>
+    </plurals>
+</resources>

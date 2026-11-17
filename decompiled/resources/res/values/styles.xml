@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_name_removed__res_0x7f130000" parent="">
+        <item name="android:activityOpenEnterAnimation">@anim/_name_removed__res_0x7f010012</item>
+        <item name="android:activityOpenExitAnimation">@anim/_name_removed__res_0x7f010028</item>
+        <item name="android:activityCloseEnterAnimation">@anim/_name_removed__res_0x7f010028</item>
+        <item name="android:activityCloseExitAnimation">@anim/_name_removed__res_0x7f010013</item>
+    </style>
+    <style name="_name_removed__res_0x7f130001" parent="@style/_name_removed__res_0x7f130006">
+    </style>
+    <style name="_name_removed__res_0x7f130002" parent="@style/_name_removed__res_0x7f130001">
+    </style>
+    <style name="_name_removed__res_0x7f130003" parent="@style/_name_removed__res_0x7f130007">
+    </style>
+    <style name="_name_removed__res_0x7f130004" parent="@style/_name_removed__res_0x7f130008">
+    </style>
+    <style name="_name_removed__res_0x7f130005" parent="@style/_name_removed__res_0x7f130003">
+        <item name="android:windowEnterAnimation">@anim/_name_removed__res_0x7f010010</item>
+        <item name="android:windowExitAnimation">@anim/_name_removed__res_0x7f010011</item>
+    </style>
+    <style name="_name_removed__res_0x7f130006" parent="@android:style/Widget">
+        <item name="android:layout">@layout/_name_removed__res_0x7f0d0006</item>
+        <item name="_name_removed__res_0x7f0400b7">@dimen/_name_removed__res_0x7f070007</item>
+        <item name="_name_removed__res_0x7f040348">@layout/_name_removed__res_0x7f0d0346</item>
+        <item name="_name_removed__res_0x7f040349">@layout/_name_removed__res_0x7f0d0017</item>
+        <item name="_name_removed__res_0x7f040408">@layout/_name_removed__res_0x7f0d0347</item>
+        <item name="_name_removed__res_0x7f0404d7">@layout/_name_removed__res_0x7f0d0348</item>
+    </style>
+    <style name="_name_removed__res_0x7f130007" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/_name_removed__res_0x7f010001</item>
+        <item name="android:windowExitAnimation">@anim/_name_removed__res_0x7f010002</item>
+    </style>
+    <style name="_name_removed__res_0x7f130008" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/_name_removed__res_0x7f010000</item>
+        <item name="android:windowExitAnimation">@anim/_name_removed__res_0x7f010003</item>
+    </style>
+    <style name="_name_removed__res_0x7f13000a" parent="@android:style/Widget">
+        <item name="android:textAppearance">@style/_name_removed__res_0x7f1300ab</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13000b" parent="@android:style/Widget">
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">?attr/_name_removed__res_0x7f04019b</item>
+        <item name="android:paddingTop">@dimen/_name_removed__res_0x7f070012</item>
+        <item name="android:paddingRight">?attr/_name_removed__res_0x7f04019b</item>
+    </style>
+    <style name="_name_removed__res_0x7f13000c" parent="">
+        <item name="android:id">@android:id/background</item>
+    </style>
+    <style name="_name_removed__res_0x7f13000d" parent="@android:style/TextAppearance.Material">
+    </style>
+    <style name="_name_removed__res_0x7f13000e" parent="@android:style/TextAppearance.Material.Body1">
+    </style>
+    <style name="_name_removed__res_0x7f130011" parent="@android:style/TextAppearance.Material.SearchResult.Subtitle">
+    </style>
+    <style name="_name_removed__res_0x7f130012" parent="@android:style/TextAppearance.Material.SearchResult.Title">
+    </style>
+    <style name="_name_removed__res_0x7f130013" parent="@android:style/TextAppearance.Material.Subhead">
+    </style>
+    <style name="_name_removed__res_0x7f130014" parent="@android:style/TextAppearance.Material.Title">
+    </style>
+    <style name="_name_removed__res_0x7f130015" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="_name_removed__res_0x7f130016" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+    </style>
+    <style name="_name_removed__res_0x7f130017" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+    </style>
+    <style name="_name_removed__res_0x7f130018" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle">
+    </style>
+    <style name="_name_removed__res_0x7f130019" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title">
+    </style>
+    <style name="_name_removed__res_0x7f13001a" parent="@android:style/TextAppearance.Material.Widget.Button">
+    </style>
+    <style name="_name_removed__res_0x7f13001b" parent="@style/_name_removed__res_0x7f1300a2">
+        <item name="android:textSize">@dimen/_name_removed__res_0x7f07001e</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="_name_removed__res_0x7f13001c" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Large">
+    </style>
+    <style name="_name_removed__res_0x7f13001d" parent="@android:style/TextAppearance.Material.Widget.PopupMenu.Small">
+    </style>
+    <style name="_name_removed__res_0x7f13001e" parent="@android:style/TextAppearance.Material.Button">
+    </style>
+    <style name="_name_removed__res_0x7f13001f" parent="@style/_name_removed__res_0x7f130038">
+    </style>
+    <style name="_name_removed__res_0x7f130020" parent="">
+        <item name="android:listViewStyle">@style/_name_removed__res_0x7f1300f9</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130004</item>
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="_name_removed__res_0x7f130021" parent="@style/_name_removed__res_0x7f13002d">
+    </style>
+    <style name="_name_removed__res_0x7f130022" parent="@style/_name_removed__res_0x7f130039">
+    </style>
+    <style name="_name_removed__res_0x7f130023" parent="@style/_name_removed__res_0x7f13002f">
+    </style>
+    <style name="_name_removed__res_0x7f130024" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowLayoutInDisplayCutoutMode">1</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="_name_removed__res_0x7f0402b9">?android:attr/isLightTheme</item>
+    </style>
+    <style name="_name_removed__res_0x7f130025" parent="@style/_name_removed__res_0x7f130026">
+    </style>
+    <style name="_name_removed__res_0x7f130026" parent="@style/_name_removed__res_0x7f130024">
+    </style>
+    <style name="_name_removed__res_0x7f130027" parent="@style/_name_removed__res_0x7f13008f">
+    </style>
+    <style name="_name_removed__res_0x7f130028" parent="@style/_name_removed__res_0x7f130027">
+        <item name="_name_removed__res_0x7f04012d">?android:attr/textColorPrimary</item>
+        <item name="_name_removed__res_0x7f0404b2">@style/_name_removed__res_0x7f130100</item>
+    </style>
+    <style name="_name_removed__res_0x7f130029" parent="@style/_name_removed__res_0x7f130027">
+        <item name="android:colorForeground">@color/_name_removed__res_0x7f060015</item>
+        <item name="android:colorBackground">@color/_name_removed__res_0x7f060016</item>
+        <item name="android:textColorPrimary">@color/_name_removed__res_0x7f060005</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/_name_removed__res_0x7f060004</item>
+        <item name="android:textColorSecondary">@color/_name_removed__res_0x7f06000a</item>
+        <item name="android:textColorPrimaryInverse">@color/_name_removed__res_0x7f060006</item>
+        <item name="android:textColorSecondaryInverse">@color/_name_removed__res_0x7f06000b</item>
+        <item name="android:textColorHintInverse">@color/_name_removed__res_0x7f060003</item>
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060016</item>
+        <item name="android:textColorHighlight">@color/_name_removed__res_0x7f0600a1</item>
+        <item name="android:textColorHint">@color/_name_removed__res_0x7f060002</item>
+        <item name="android:colorForegroundInverse">@color/_name_removed__res_0x7f060009</item>
+        <item name="android:textColorTertiary">@color/_name_removed__res_0x7f06000a</item>
+        <item name="android:textColorTertiaryInverse">@color/_name_removed__res_0x7f06000b</item>
+        <item name="android:colorBackgroundCacheHint">@color/_name_removed__res_0x7f060000</item>
+        <item name="_name_removed__res_0x7f040129">@color/_name_removed__res_0x7f060014</item>
+        <item name="_name_removed__res_0x7f04012a">@color/_name_removed__res_0x7f060018</item>
+        <item name="_name_removed__res_0x7f04012c">@color/_name_removed__res_0x7f0600ca</item>
+        <item name="_name_removed__res_0x7f04012d">?android:attr/textColorSecondary</item>
+        <item name="_name_removed__res_0x7f04013a">@color/_name_removed__res_0x7f0600d0</item>
+        <item name="_name_removed__res_0x7f0402b9">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f13002a" parent="@style/_name_removed__res_0x7f130030">
+    </style>
+    <style name="_name_removed__res_0x7f13002b" parent="@style/_name_removed__res_0x7f13002a">
+        <item name="android:windowMinWidthMajor">@dimen/_name_removed__res_0x7f07000f</item>
+        <item name="android:windowMinWidthMinor">@dimen/_name_removed__res_0x7f070010</item>
+    </style>
+    <style name="_name_removed__res_0x7f13002c" parent="@style/_name_removed__res_0x7f13003a">
+        <item name="android:colorControlNormal">?attr/_name_removed__res_0x7f04012d</item>
+        <item name="android:colorControlActivated">?attr/_name_removed__res_0x7f04012b</item>
+        <item name="android:colorButtonNormal">?attr/_name_removed__res_0x7f04012a</item>
+        <item name="android:colorControlHighlight">?attr/_name_removed__res_0x7f04012c</item>
+        <item name="android:colorPrimary">?attr/colorPrimary</item>
+        <item name="android:colorPrimaryDark">?attr/colorPrimaryDark</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+        <item name="_name_removed__res_0x7f040002">?android:attr/actionBarDivider</item>
+        <item name="_name_removed__res_0x7f040003">@drawable/abc_action_bar_item_background_material</item>
+        <item name="_name_removed__res_0x7f040005">?android:attr/actionBarSize</item>
+        <item name="_name_removed__res_0x7f040011">?android:attr/actionButtonStyle</item>
+        <item name="_name_removed__res_0x7f04001a">?android:attr/actionModeBackground</item>
+        <item name="_name_removed__res_0x7f04001d">?android:attr/actionModeCloseDrawable</item>
+        <item name="_name_removed__res_0x7f04009d">?android:attr/borderlessButtonStyle</item>
+        <item name="buttonStyle">?android:attr/buttonStyle</item>
+        <item name="_name_removed__res_0x7f0400ba">?android:attr/buttonStyleSmall</item>
+        <item name="_name_removed__res_0x7f0400e9">?android:attr/checkboxStyle</item>
+        <item name="_name_removed__res_0x7f0400f5">?android:attr/checkedTextViewStyle</item>
+        <item name="_name_removed__res_0x7f04019f">?android:attr/dividerHorizontal</item>
+        <item name="_name_removed__res_0x7f0401a4">?android:attr/dividerVertical</item>
+        <item name="_name_removed__res_0x7f0401ba">@drawable/abc_edit_text_material</item>
+        <item name="_name_removed__res_0x7f0401bb">?android:attr/editTextColor</item>
+        <item name="_name_removed__res_0x7f040282">?android:attr/homeAsUpIndicator</item>
+        <item name="_name_removed__res_0x7f040344">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="_name_removed__res_0x7f04034e">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="_name_removed__res_0x7f040486">?android:attr/radioButtonStyle</item>
+        <item name="_name_removed__res_0x7f040489">?android:attr/ratingBarStyle</item>
+        <item name="_name_removed__res_0x7f0404b4">?android:attr/selectableItemBackground</item>
+        <item name="_name_removed__res_0x7f0404b5">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="_name_removed__res_0x7f0404e7">?android:attr/spinnerStyle</item>
+        <item name="_name_removed__res_0x7f040550">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="_name_removed__res_0x7f040558">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="_name_removed__res_0x7f13002d" parent="@style/_name_removed__res_0x7f13003b">
+        <item name="android:windowElevation">@dimen/_name_removed__res_0x7f070016</item>
+    </style>
+    <style name="_name_removed__res_0x7f13002e" parent="@style/_name_removed__res_0x7f13003c">
+        <item name="android:colorControlNormal">?attr/_name_removed__res_0x7f04012d</item>
+        <item name="android:colorControlActivated">?attr/_name_removed__res_0x7f04012b</item>
+        <item name="android:colorButtonNormal">?attr/_name_removed__res_0x7f04012a</item>
+        <item name="android:colorControlHighlight">?attr/_name_removed__res_0x7f04012c</item>
+        <item name="android:colorPrimary">?attr/colorPrimary</item>
+        <item name="android:colorPrimaryDark">?attr/colorPrimaryDark</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+        <item name="_name_removed__res_0x7f040002">?android:attr/actionBarDivider</item>
+        <item name="_name_removed__res_0x7f040003">@drawable/abc_action_bar_item_background_material</item>
+        <item name="_name_removed__res_0x7f040005">?android:attr/actionBarSize</item>
+        <item name="_name_removed__res_0x7f040011">?android:attr/actionButtonStyle</item>
+        <item name="_name_removed__res_0x7f04001a">?android:attr/actionModeBackground</item>
+        <item name="_name_removed__res_0x7f04001d">?android:attr/actionModeCloseDrawable</item>
+        <item name="_name_removed__res_0x7f04009d">?android:attr/borderlessButtonStyle</item>
+        <item name="buttonStyle">?android:attr/buttonStyle</item>
+        <item name="_name_removed__res_0x7f0400ba">?android:attr/buttonStyleSmall</item>
+        <item name="_name_removed__res_0x7f0400e9">?android:attr/checkboxStyle</item>
+        <item name="_name_removed__res_0x7f0400f5">?android:attr/checkedTextViewStyle</item>
+        <item name="_name_removed__res_0x7f04019f">?android:attr/dividerHorizontal</item>
+        <item name="_name_removed__res_0x7f0401a4">?android:attr/dividerVertical</item>
+        <item name="_name_removed__res_0x7f0401ba">@drawable/abc_edit_text_material</item>
+        <item name="_name_removed__res_0x7f0401bb">?android:attr/editTextColor</item>
+        <item name="_name_removed__res_0x7f040282">?android:attr/homeAsUpIndicator</item>
+        <item name="_name_removed__res_0x7f040344">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="_name_removed__res_0x7f04034e">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="_name_removed__res_0x7f040486">?android:attr/radioButtonStyle</item>
+        <item name="_name_removed__res_0x7f040489">?android:attr/ratingBarStyle</item>
+        <item name="_name_removed__res_0x7f0404b4">?android:attr/selectableItemBackground</item>
+        <item name="_name_removed__res_0x7f0404b5">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="_name_removed__res_0x7f0404e7">?android:attr/spinnerStyle</item>
+        <item name="_name_removed__res_0x7f040550">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="_name_removed__res_0x7f040558">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="_name_removed__res_0x7f13002f" parent="@style/_name_removed__res_0x7f13003d">
+        <item name="android:windowElevation">@dimen/_name_removed__res_0x7f070016</item>
+    </style>
+    <style name="_name_removed__res_0x7f130030" parent="@style/_name_removed__res_0x7f13003e">
+        <item name="android:windowElevation">@dimen/_name_removed__res_0x7f070016</item>
+    </style>
+    <style name="_name_removed__res_0x7f130031" parent="@style/_name_removed__res_0x7f13002c">
+        <item name="_name_removed__res_0x7f040024">?android:attr/actionModeShareDrawable</item>
+        <item name="_name_removed__res_0x7f0401ba">?android:attr/editTextBackground</item>
+    </style>
+    <style name="_name_removed__res_0x7f130032" parent="@style/_name_removed__res_0x7f13002e">
+        <item name="_name_removed__res_0x7f040024">?android:attr/actionModeShareDrawable</item>
+        <item name="_name_removed__res_0x7f0401ba">?android:attr/editTextBackground</item>
+    </style>
+    <style name="_name_removed__res_0x7f130033" parent="@style/_name_removed__res_0x7f130031">
+        <item name="_name_removed__res_0x7f040003">?android:attr/actionBarItemBackground</item>
+        <item name="_name_removed__res_0x7f040018">?android:attr/actionMenuTextAppearance</item>
+        <item name="_name_removed__res_0x7f040019">?android:attr/actionMenuTextColor</item>
+        <item name="_name_removed__res_0x7f040029">?android:attr/actionOverflowButtonStyle</item>
+        <item name="_name_removed__res_0x7f04016b">@drawable/abc_control_background_material</item>
+        <item name="_name_removed__res_0x7f04048a">?android:attr/ratingBarStyleIndicator</item>
+        <item name="_name_removed__res_0x7f04048b">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_name_removed__res_0x7f130034" parent="@style/_name_removed__res_0x7f130032">
+        <item name="_name_removed__res_0x7f040003">?android:attr/actionBarItemBackground</item>
+        <item name="_name_removed__res_0x7f040018">?android:attr/actionMenuTextAppearance</item>
+        <item name="_name_removed__res_0x7f040019">?android:attr/actionMenuTextColor</item>
+        <item name="_name_removed__res_0x7f040029">?android:attr/actionOverflowButtonStyle</item>
+        <item name="_name_removed__res_0x7f04016b">@drawable/abc_control_background_material</item>
+        <item name="_name_removed__res_0x7f04048a">?android:attr/ratingBarStyleIndicator</item>
+        <item name="_name_removed__res_0x7f04048b">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_name_removed__res_0x7f130035" parent="@style/_name_removed__res_0x7f130033">
+        <item name="_name_removed__res_0x7f04012e">?android:attr/colorError</item>
+    </style>
+    <style name="_name_removed__res_0x7f130036" parent="@style/_name_removed__res_0x7f130034">
+        <item name="_name_removed__res_0x7f04012e">?android:attr/colorError</item>
+    </style>
+    <style name="_name_removed__res_0x7f130037" parent="@style/_name_removed__res_0x7f13003f">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f130038" parent="@style/_name_removed__res_0x7f130035">
+        <item name="_name_removed__res_0x7f04019a">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="_name_removed__res_0x7f130039" parent="@style/_name_removed__res_0x7f130036">
+        <item name="_name_removed__res_0x7f04019a">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003a" parent="@style/_name_removed__res_0x7f13008d">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/_name_removed__res_0x7f1300f8</item>
+        <item name="android:textViewStyle">@style/_name_removed__res_0x7f130105</item>
+        <item name="android:dropDownItemStyle">@style/_name_removed__res_0x7f1300e9</item>
+        <item name="android:spinnerItemStyle">@style/_name_removed__res_0x7f130106</item>
+        <item name="android:textAppearanceButton">@style/_name_removed__res_0x7f1300b1</item>
+        <item name="_name_removed__res_0x7f040002">?attr/_name_removed__res_0x7f0401a4</item>
+        <item name="_name_removed__res_0x7f040003">?attr/_name_removed__res_0x7f0404b5</item>
+        <item name="_name_removed__res_0x7f040004">@null</item>
+        <item name="_name_removed__res_0x7f040005">@dimen/_name_removed__res_0x7f070002</item>
+        <item name="_name_removed__res_0x7f040006">?attr/_name_removed__res_0x7f040007</item>
+        <item name="_name_removed__res_0x7f040007">@style/_name_removed__res_0x7f1300d6</item>
+        <item name="_name_removed__res_0x7f040008">@style/_name_removed__res_0x7f13005c</item>
+        <item name="_name_removed__res_0x7f040009">@style/_name_removed__res_0x7f1300d8</item>
+        <item name="_name_removed__res_0x7f04000a">@style/_name_removed__res_0x7f1300d7</item>
+        <item name="_name_removed__res_0x7f04000b">@style/_name_removed__res_0x7f1300d0</item>
+        <item name="_name_removed__res_0x7f04000c">@null</item>
+        <item name="_name_removed__res_0x7f040011">@style/_name_removed__res_0x7f1300d9</item>
+        <item name="_name_removed__res_0x7f040016">@style/_name_removed__res_0x7f130104</item>
+        <item name="_name_removed__res_0x7f040018">@style/_name_removed__res_0x7f1300ac</item>
+        <item name="_name_removed__res_0x7f040019">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="_name_removed__res_0x7f04001a">@drawable/abc_cab_background_top_material</item>
+        <item name="_name_removed__res_0x7f04001b">@style/_name_removed__res_0x7f1300da</item>
+        <item name="_name_removed__res_0x7f04001c">@string/_name_removed__res_0x7f120010</item>
+        <item name="_name_removed__res_0x7f04001d">@drawable/abc_ic_ab_back_material</item>
+        <item name="_name_removed__res_0x7f04001e">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="_name_removed__res_0x7f04001f">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040021">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="_name_removed__res_0x7f040023">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040024">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040025">?attr/colorPrimaryDark</item>
+        <item name="_name_removed__res_0x7f040026">@style/_name_removed__res_0x7f1300dc</item>
+        <item name="_name_removed__res_0x7f040027">?attr/_name_removed__res_0x7f04000b</item>
+        <item name="_name_removed__res_0x7f040029">@style/_name_removed__res_0x7f1300db</item>
+        <item name="_name_removed__res_0x7f04002a">@style/_name_removed__res_0x7f1300fb</item>
+        <item name="_name_removed__res_0x7f040033">@style/_name_removed__res_0x7f1300dd</item>
+        <item name="_name_removed__res_0x7f04003a">false</item>
+        <item name="_name_removed__res_0x7f040040">@style/_name_removed__res_0x7f130001</item>
+        <item name="_name_removed__res_0x7f040041">@style/_name_removed__res_0x7f1300d3</item>
+        <item name="_name_removed__res_0x7f04005a">@style/_name_removed__res_0x7f1300de</item>
+        <item name="_name_removed__res_0x7f04009d">@style/_name_removed__res_0x7f1300e0</item>
+        <item name="_name_removed__res_0x7f0400af">@style/_name_removed__res_0x7f1300e2</item>
+        <item name="_name_removed__res_0x7f0400b0">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b1">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b2">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b3">@style/_name_removed__res_0x7f130051</item>
+        <item name="buttonStyle">@style/_name_removed__res_0x7f1300df</item>
+        <item name="_name_removed__res_0x7f0400ba">@style/_name_removed__res_0x7f1300e3</item>
+        <item name="_name_removed__res_0x7f0400e9">@style/_name_removed__res_0x7f1300e5</item>
+        <item name="_name_removed__res_0x7f0400f5">?android:attr/checkedTextViewStyle</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f060011</item>
+        <item name="_name_removed__res_0x7f040129">@color/_name_removed__res_0x7f060014</item>
+        <item name="_name_removed__res_0x7f04012a">@color/_name_removed__res_0x7f060018</item>
+        <item name="_name_removed__res_0x7f04012b">?attr/colorAccent</item>
+        <item name="_name_removed__res_0x7f04012c">@color/_name_removed__res_0x7f0600ca</item>
+        <item name="_name_removed__res_0x7f04012d">?android:attr/textColorSecondary</item>
+        <item name="_name_removed__res_0x7f04012e">@color/_name_removed__res_0x7f060025</item>
+        <item name="colorPrimary">@color/_name_removed__res_0x7f0600c6</item>
+        <item name="colorPrimaryDark">@color/_name_removed__res_0x7f060009</item>
+        <item name="_name_removed__res_0x7f04013a">@color/_name_removed__res_0x7f0600d0</item>
+        <item name="_name_removed__res_0x7f04016b">?attr/_name_removed__res_0x7f0404b5</item>
+        <item name="_name_removed__res_0x7f04019a">@dimen/_name_removed__res_0x7f07000e</item>
+        <item name="_name_removed__res_0x7f04019b">@dimen/_name_removed__res_0x7f070011</item>
+        <item name="_name_removed__res_0x7f04019c">@style/_name_removed__res_0x7f1300d2</item>
+        <item name="_name_removed__res_0x7f04019f">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f0401a4">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f0401b5">@style/_name_removed__res_0x7f1300e8</item>
+        <item name="_name_removed__res_0x7f0401b6">?android:attr/dropDownListViewStyle</item>
+        <item name="_name_removed__res_0x7f0401b7">?attr/_name_removed__res_0x7f04034e</item>
+        <item name="_name_removed__res_0x7f0401ba">@drawable/abc_edit_text_material</item>
+        <item name="_name_removed__res_0x7f0401bb">?android:attr/textColorPrimary</item>
+        <item name="_name_removed__res_0x7f0401bc">@style/_name_removed__res_0x7f1300ea</item>
+        <item name="_name_removed__res_0x7f040282">@drawable/abc_ic_ab_back_material</item>
+        <item name="_name_removed__res_0x7f04029c">@style/_name_removed__res_0x7f1300eb</item>
+        <item name="_name_removed__res_0x7f0402b9">false</item>
+        <item name="_name_removed__res_0x7f040344">@drawable/abc_list_selector_holo_dark</item>
+        <item name="_name_removed__res_0x7f040347">@null</item>
+        <item name="_name_removed__res_0x7f04034a">@style/_name_removed__res_0x7f1300f6</item>
+        <item name="_name_removed__res_0x7f04034b">@style/_name_removed__res_0x7f1300f7</item>
+        <item name="_name_removed__res_0x7f04034c">@dimen/_name_removed__res_0x7f070018</item>
+        <item name="_name_removed__res_0x7f04034d">@dimen/_name_removed__res_0x7f070017</item>
+        <item name="_name_removed__res_0x7f04034e">@dimen/_name_removed__res_0x7f070007</item>
+        <item name="_name_removed__res_0x7f04034f">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040350">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040351">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040352">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040439">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="_name_removed__res_0x7f04043a">@style/_name_removed__res_0x7f1300be</item>
+        <item name="_name_removed__res_0x7f04043b">@dimen/_name_removed__res_0x7f07001a</item>
+        <item name="_name_removed__res_0x7f040462">@style/_name_removed__res_0x7f1300fa</item>
+        <item name="_name_removed__res_0x7f040486">@style/_name_removed__res_0x7f1300e6</item>
+        <item name="_name_removed__res_0x7f040489">@style/_name_removed__res_0x7f1300fc</item>
+        <item name="_name_removed__res_0x7f04048a">@style/_name_removed__res_0x7f1300fd</item>
+        <item name="_name_removed__res_0x7f04048b">@style/_name_removed__res_0x7f1300fe</item>
+        <item name="_name_removed__res_0x7f0404b2">@style/_name_removed__res_0x7f1300ff</item>
+        <item name="_name_removed__res_0x7f0404b3">@style/_name_removed__res_0x7f130101</item>
+        <item name="_name_removed__res_0x7f0404b4">@drawable/abc_item_background_holo_dark</item>
+        <item name="_name_removed__res_0x7f0404b5">?attr/_name_removed__res_0x7f0404b4</item>
+        <item name="_name_removed__res_0x7f0404e6">@style/_name_removed__res_0x7f1300e9</item>
+        <item name="_name_removed__res_0x7f0404e7">@style/_name_removed__res_0x7f130102</item>
+        <item name="_name_removed__res_0x7f040520">@style/_name_removed__res_0x7f1300e7</item>
+        <item name="_name_removed__res_0x7f040550">@style/_name_removed__res_0x7f1300b3</item>
+        <item name="_name_removed__res_0x7f040552">@style/_name_removed__res_0x7f1300aa</item>
+        <item name="_name_removed__res_0x7f040553">@style/_name_removed__res_0x7f1300a3</item>
+        <item name="_name_removed__res_0x7f040554">@style/_name_removed__res_0x7f1300aa</item>
+        <item name="_name_removed__res_0x7f040555">@style/_name_removed__res_0x7f1300b2</item>
+        <item name="_name_removed__res_0x7f040556">@style/_name_removed__res_0x7f1300a8</item>
+        <item name="_name_removed__res_0x7f040557">@style/_name_removed__res_0x7f1300a9</item>
+        <item name="_name_removed__res_0x7f040558">@style/_name_removed__res_0x7f1300b4</item>
+        <item name="_name_removed__res_0x7f040561">@color/_name_removed__res_0x7f060005</item>
+        <item name="_name_removed__res_0x7f040564">@color/_name_removed__res_0x7f060007</item>
+        <item name="_name_removed__res_0x7f0405ad">@style/_name_removed__res_0x7f130108</item>
+        <item name="_name_removed__res_0x7f0405ae">@style/_name_removed__res_0x7f130107</item>
+        <item name="_name_removed__res_0x7f0405b2">@color/_name_removed__res_0x7f060009</item>
+        <item name="_name_removed__res_0x7f0405b3">@drawable/tooltip_frame_light</item>
+        <item name="_name_removed__res_0x7f040615">true</item>
+        <item name="_name_removed__res_0x7f040616">false</item>
+        <item name="_name_removed__res_0x7f040617">false</item>
+        <item name="_name_removed__res_0x7f040618">@null</item>
+        <item name="_name_removed__res_0x7f040619">@null</item>
+        <item name="_name_removed__res_0x7f04061a">@null</item>
+        <item name="_name_removed__res_0x7f04061b">@null</item>
+        <item name="_name_removed__res_0x7f04061e">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003b" parent="@style/_name_removed__res_0x7f13001f">
+        <item name="android:colorBackground">?attr/_name_removed__res_0x7f040129</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/_name_removed__res_0x7f130092</item>
+        <item name="android:windowTitleBackgroundStyle">@style/_name_removed__res_0x7f13000b</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130003</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">0x20</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/_name_removed__res_0x7f1300e0</item>
+        <item name="android:buttonBarStyle">@style/_name_removed__res_0x7f1300e4</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="_name_removed__res_0x7f040350">24dp</item>
+        <item name="_name_removed__res_0x7f040351">24dp</item>
+        <item name="_name_removed__res_0x7f040615">false</item>
+        <item name="_name_removed__res_0x7f040617">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003c" parent="@style/_name_removed__res_0x7f13008e">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/_name_removed__res_0x7f1300f8</item>
+        <item name="android:textViewStyle">@style/_name_removed__res_0x7f130105</item>
+        <item name="android:dropDownItemStyle">@style/_name_removed__res_0x7f1300e9</item>
+        <item name="android:spinnerItemStyle">@style/_name_removed__res_0x7f130106</item>
+        <item name="android:textAppearanceButton">@style/_name_removed__res_0x7f1300b1</item>
+        <item name="_name_removed__res_0x7f040002">?attr/_name_removed__res_0x7f0401a4</item>
+        <item name="_name_removed__res_0x7f040003">?attr/_name_removed__res_0x7f0404b5</item>
+        <item name="_name_removed__res_0x7f040004">@null</item>
+        <item name="_name_removed__res_0x7f040005">@dimen/_name_removed__res_0x7f070002</item>
+        <item name="_name_removed__res_0x7f040006">?attr/_name_removed__res_0x7f040007</item>
+        <item name="_name_removed__res_0x7f040007">@style/_name_removed__res_0x7f1300ec</item>
+        <item name="_name_removed__res_0x7f040008">@style/_name_removed__res_0x7f1300ed</item>
+        <item name="_name_removed__res_0x7f040009">@style/_name_removed__res_0x7f1300ef</item>
+        <item name="_name_removed__res_0x7f04000a">@style/_name_removed__res_0x7f1300ee</item>
+        <item name="_name_removed__res_0x7f04000b">@style/_name_removed__res_0x7f1300d0</item>
+        <item name="_name_removed__res_0x7f04000c">@null</item>
+        <item name="_name_removed__res_0x7f040011">@style/_name_removed__res_0x7f1300f0</item>
+        <item name="_name_removed__res_0x7f040016">@style/_name_removed__res_0x7f1300f5</item>
+        <item name="_name_removed__res_0x7f040018">@style/_name_removed__res_0x7f1300ac</item>
+        <item name="_name_removed__res_0x7f040019">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="_name_removed__res_0x7f04001a">@drawable/abc_cab_background_top_material</item>
+        <item name="_name_removed__res_0x7f04001b">@style/_name_removed__res_0x7f1300da</item>
+        <item name="_name_removed__res_0x7f04001c">@string/_name_removed__res_0x7f120010</item>
+        <item name="_name_removed__res_0x7f04001d">@drawable/abc_ic_ab_back_material</item>
+        <item name="_name_removed__res_0x7f04001e">@drawable/abc_ic_menu_copy_mtrl_am_alpha</item>
+        <item name="_name_removed__res_0x7f04001f">@drawable/abc_ic_menu_cut_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040021">@drawable/abc_ic_menu_paste_mtrl_am_alpha</item>
+        <item name="_name_removed__res_0x7f040023">@drawable/abc_ic_menu_selectall_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040024">@drawable/abc_ic_menu_share_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040025">?attr/colorPrimaryDark</item>
+        <item name="_name_removed__res_0x7f040026">@style/_name_removed__res_0x7f1300dc</item>
+        <item name="_name_removed__res_0x7f040027">?attr/_name_removed__res_0x7f04000b</item>
+        <item name="_name_removed__res_0x7f040029">@style/_name_removed__res_0x7f1300f1</item>
+        <item name="_name_removed__res_0x7f04002a">@style/_name_removed__res_0x7f1300f3</item>
+        <item name="_name_removed__res_0x7f040033">@style/_name_removed__res_0x7f1300dd</item>
+        <item name="_name_removed__res_0x7f04003a">false</item>
+        <item name="_name_removed__res_0x7f040040">@style/_name_removed__res_0x7f130002</item>
+        <item name="_name_removed__res_0x7f040041">@style/_name_removed__res_0x7f1300d3</item>
+        <item name="_name_removed__res_0x7f04005a">@style/_name_removed__res_0x7f1300de</item>
+        <item name="_name_removed__res_0x7f04009d">@style/_name_removed__res_0x7f1300e0</item>
+        <item name="_name_removed__res_0x7f0400af">@style/_name_removed__res_0x7f1300e2</item>
+        <item name="_name_removed__res_0x7f0400b0">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b1">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b2">?attr/_name_removed__res_0x7f0400af</item>
+        <item name="_name_removed__res_0x7f0400b3">@style/_name_removed__res_0x7f130051</item>
+        <item name="buttonStyle">@style/_name_removed__res_0x7f1300df</item>
+        <item name="_name_removed__res_0x7f0400ba">@style/_name_removed__res_0x7f1300e3</item>
+        <item name="_name_removed__res_0x7f0400e9">@style/_name_removed__res_0x7f1300e5</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f060012</item>
+        <item name="_name_removed__res_0x7f040129">@color/_name_removed__res_0x7f060015</item>
+        <item name="_name_removed__res_0x7f04012a">@color/_name_removed__res_0x7f060019</item>
+        <item name="_name_removed__res_0x7f04012b">?attr/colorAccent</item>
+        <item name="_name_removed__res_0x7f04012c">@color/_name_removed__res_0x7f0600c0</item>
+        <item name="_name_removed__res_0x7f04012d">?android:attr/textColorSecondary</item>
+        <item name="_name_removed__res_0x7f04012e">@color/_name_removed__res_0x7f060026</item>
+        <item name="colorPrimary">@color/_name_removed__res_0x7f0600c7</item>
+        <item name="colorPrimaryDark">@color/_name_removed__res_0x7f0600c5</item>
+        <item name="_name_removed__res_0x7f04013a">@color/_name_removed__res_0x7f0600d1</item>
+        <item name="_name_removed__res_0x7f04016b">?attr/_name_removed__res_0x7f0404b5</item>
+        <item name="_name_removed__res_0x7f04019a">@dimen/_name_removed__res_0x7f07000e</item>
+        <item name="_name_removed__res_0x7f04019b">@dimen/_name_removed__res_0x7f070011</item>
+        <item name="_name_removed__res_0x7f04019c">@style/_name_removed__res_0x7f1300d2</item>
+        <item name="_name_removed__res_0x7f04019f">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f0401a4">@drawable/abc_list_divider_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f0401b5">@style/_name_removed__res_0x7f1300e8</item>
+        <item name="_name_removed__res_0x7f0401b6">?android:attr/dropDownListViewStyle</item>
+        <item name="_name_removed__res_0x7f0401b7">?attr/_name_removed__res_0x7f04034e</item>
+        <item name="_name_removed__res_0x7f0401ba">@drawable/abc_edit_text_material</item>
+        <item name="_name_removed__res_0x7f0401bb">?android:attr/textColorPrimary</item>
+        <item name="_name_removed__res_0x7f0401bc">@style/_name_removed__res_0x7f1300ea</item>
+        <item name="_name_removed__res_0x7f040282">@drawable/abc_ic_ab_back_material</item>
+        <item name="_name_removed__res_0x7f04029c">@style/_name_removed__res_0x7f1300eb</item>
+        <item name="_name_removed__res_0x7f0402b9">true</item>
+        <item name="_name_removed__res_0x7f040344">@drawable/abc_list_selector_holo_light</item>
+        <item name="_name_removed__res_0x7f040347">@null</item>
+        <item name="_name_removed__res_0x7f04034a">@style/_name_removed__res_0x7f1300f6</item>
+        <item name="_name_removed__res_0x7f04034b">@style/_name_removed__res_0x7f1300f7</item>
+        <item name="_name_removed__res_0x7f04034c">@dimen/_name_removed__res_0x7f070018</item>
+        <item name="_name_removed__res_0x7f04034d">@dimen/_name_removed__res_0x7f070017</item>
+        <item name="_name_removed__res_0x7f04034e">@dimen/_name_removed__res_0x7f070007</item>
+        <item name="_name_removed__res_0x7f04034f">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040350">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040351">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040352">@dimen/_name_removed__res_0x7f070019</item>
+        <item name="_name_removed__res_0x7f040439">@drawable/abc_menu_hardkey_panel_mtrl_mult</item>
+        <item name="_name_removed__res_0x7f04043a">@style/_name_removed__res_0x7f1300be</item>
+        <item name="_name_removed__res_0x7f04043b">@dimen/_name_removed__res_0x7f07001a</item>
+        <item name="_name_removed__res_0x7f040462">@style/_name_removed__res_0x7f1300f2</item>
+        <item name="_name_removed__res_0x7f040486">@style/_name_removed__res_0x7f1300e6</item>
+        <item name="_name_removed__res_0x7f040489">@style/_name_removed__res_0x7f1300fc</item>
+        <item name="_name_removed__res_0x7f04048a">@style/_name_removed__res_0x7f1300fd</item>
+        <item name="_name_removed__res_0x7f04048b">@style/_name_removed__res_0x7f1300fe</item>
+        <item name="_name_removed__res_0x7f0404b2">@style/_name_removed__res_0x7f1300f4</item>
+        <item name="_name_removed__res_0x7f0404b3">@style/_name_removed__res_0x7f130101</item>
+        <item name="_name_removed__res_0x7f0404b4">@drawable/abc_item_background_holo_light</item>
+        <item name="_name_removed__res_0x7f0404b5">?attr/_name_removed__res_0x7f0404b4</item>
+        <item name="_name_removed__res_0x7f0404e6">@style/_name_removed__res_0x7f1300e9</item>
+        <item name="_name_removed__res_0x7f0404e7">@style/_name_removed__res_0x7f130102</item>
+        <item name="_name_removed__res_0x7f040520">@style/_name_removed__res_0x7f1300e7</item>
+        <item name="_name_removed__res_0x7f040550">@style/_name_removed__res_0x7f1300a6</item>
+        <item name="_name_removed__res_0x7f040552">@style/_name_removed__res_0x7f1300aa</item>
+        <item name="_name_removed__res_0x7f040553">@style/_name_removed__res_0x7f1300a3</item>
+        <item name="_name_removed__res_0x7f040554">@style/_name_removed__res_0x7f1300aa</item>
+        <item name="_name_removed__res_0x7f040555">@style/_name_removed__res_0x7f1300b2</item>
+        <item name="_name_removed__res_0x7f040556">@style/_name_removed__res_0x7f1300a8</item>
+        <item name="_name_removed__res_0x7f040557">@style/_name_removed__res_0x7f1300a9</item>
+        <item name="_name_removed__res_0x7f040558">@style/_name_removed__res_0x7f1300a7</item>
+        <item name="_name_removed__res_0x7f040561">@color/_name_removed__res_0x7f060006</item>
+        <item name="_name_removed__res_0x7f040564">@color/_name_removed__res_0x7f060007</item>
+        <item name="_name_removed__res_0x7f0405ad">@style/_name_removed__res_0x7f130108</item>
+        <item name="_name_removed__res_0x7f0405ae">@style/_name_removed__res_0x7f130107</item>
+        <item name="_name_removed__res_0x7f0405b2">@color/_name_removed__res_0x7f060015</item>
+        <item name="_name_removed__res_0x7f0405b3">@drawable/tooltip_frame_dark</item>
+        <item name="_name_removed__res_0x7f040615">true</item>
+        <item name="_name_removed__res_0x7f040616">false</item>
+        <item name="_name_removed__res_0x7f040617">false</item>
+        <item name="_name_removed__res_0x7f040618">@null</item>
+        <item name="_name_removed__res_0x7f040619">@null</item>
+        <item name="_name_removed__res_0x7f04061a">@null</item>
+        <item name="_name_removed__res_0x7f04061b">@null</item>
+        <item name="_name_removed__res_0x7f04061e">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003d" parent="@style/_name_removed__res_0x7f130022">
+        <item name="android:colorBackground">?attr/_name_removed__res_0x7f040129</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/_name_removed__res_0x7f130092</item>
+        <item name="android:windowTitleBackgroundStyle">@style/_name_removed__res_0x7f13000b</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130003</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">0x20</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/_name_removed__res_0x7f1300e0</item>
+        <item name="android:buttonBarStyle">@style/_name_removed__res_0x7f1300e4</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="_name_removed__res_0x7f040350">24dp</item>
+        <item name="_name_removed__res_0x7f040351">24dp</item>
+        <item name="_name_removed__res_0x7f040615">false</item>
+        <item name="_name_removed__res_0x7f040617">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003e" parent="@style/_name_removed__res_0x7f130027">
+        <item name="android:colorBackground">?attr/_name_removed__res_0x7f040129</item>
+        <item name="android:windowBackground">@drawable/abc_dialog_material_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/_name_removed__res_0x7f130092</item>
+        <item name="android:windowTitleBackgroundStyle">@style/_name_removed__res_0x7f13000b</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130003</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">0x20</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/_name_removed__res_0x7f1300e0</item>
+        <item name="android:buttonBarStyle">@style/_name_removed__res_0x7f1300e4</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="_name_removed__res_0x7f040350">24dp</item>
+        <item name="_name_removed__res_0x7f040351">24dp</item>
+        <item name="_name_removed__res_0x7f040615">false</item>
+        <item name="_name_removed__res_0x7f040617">true</item>
+        <item name="_name_removed__res_0x7f040618">@null</item>
+        <item name="_name_removed__res_0x7f040619">@null</item>
+        <item name="_name_removed__res_0x7f04061a">@null</item>
+        <item name="_name_removed__res_0x7f04061b">@null</item>
+    </style>
+    <style name="_name_removed__res_0x7f13003f" parent="@android:style/Widget">
+        <item name="android:paddingLeft">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:paddingRight">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:minHeight">?attr/_name_removed__res_0x7f040005</item>
+        <item name="android:paddingStart">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:paddingEnd">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="_name_removed__res_0x7f0400b5">top</item>
+        <item name="_name_removed__res_0x7f040122">@string/_name_removed__res_0x7f120022</item>
+        <item name="_name_removed__res_0x7f040123">?attr/_name_removed__res_0x7f040282</item>
+        <item name="_name_removed__res_0x7f040160">16dp</item>
+        <item name="_name_removed__res_0x7f040161">@dimen/_name_removed__res_0x7f070001</item>
+        <item name="_name_removed__res_0x7f0403cb">@dimen/_name_removed__res_0x7f070002</item>
+        <item name="_name_removed__res_0x7f040510">@style/_name_removed__res_0x7f1300bb</item>
+        <item name="_name_removed__res_0x7f04059f">4dp</item>
+        <item name="_name_removed__res_0x7f0405a7">@style/_name_removed__res_0x7f1300bc</item>
+    </style>
+    <style name="_name_removed__res_0x7f130040" parent="">
+        <item name="android:gravity">0x10</item>
+        <item name="_name_removed__res_0x7f040011">@style/_name_removed__res_0x7f1300d9</item>
+        <item name="_name_removed__res_0x7f040029">@style/_name_removed__res_0x7f1300db</item>
+        <item name="background">@null</item>
+        <item name="_name_removed__res_0x7f04006c">@null</item>
+        <item name="_name_removed__res_0x7f04006d">@null</item>
+        <item name="_name_removed__res_0x7f04015c">@dimen/_name_removed__res_0x7f070000</item>
+        <item name="_name_removed__res_0x7f040160">@dimen/_name_removed__res_0x7f070000</item>
+        <item name="_name_removed__res_0x7f040161">@dimen/_name_removed__res_0x7f070001</item>
+        <item name="_name_removed__res_0x7f04019d">showTitle</item>
+        <item name="divider">?attr/_name_removed__res_0x7f0401a4</item>
+        <item name="elevation">@dimen/_name_removed__res_0x7f070004</item>
+        <item name="height">?attr/_name_removed__res_0x7f040005</item>
+        <item name="_name_removed__res_0x7f040463">?attr/_name_removed__res_0x7f040004</item>
+        <item name="_name_removed__res_0x7f040512">@style/_name_removed__res_0x7f1300ad</item>
+        <item name="_name_removed__res_0x7f0405aa">@style/_name_removed__res_0x7f1300ae</item>
+    </style>
+    <style name="_name_removed__res_0x7f130041" parent="@style/_name_removed__res_0x7f130040">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="_name_removed__res_0x7f04006c">?attr/colorPrimary</item>
+        <item name="_name_removed__res_0x7f04006d">?attr/colorPrimary</item>
+    </style>
+    <style name="_name_removed__res_0x7f130042" parent="">
+        <item name="divider">?attr/_name_removed__res_0x7f040002</item>
+        <item name="_name_removed__res_0x7f0401a0">8dp</item>
+        <item name="_name_removed__res_0x7f0404cc">middle</item>
+    </style>
+    <style name="_name_removed__res_0x7f130043" parent="@android:style/Widget.Material.ActionBar.TabText">
+    </style>
+    <style name="_name_removed__res_0x7f130044" parent="@android:style/Widget.Material.ActionBar.TabView">
+    </style>
+    <style name="_name_removed__res_0x7f130045" parent="@android:style/Widget.Material.ActionButton">
+    </style>
+    <style name="_name_removed__res_0x7f130046" parent="@android:style/Widget.Material.ActionButton.CloseMode">
+        <item name="android:minWidth">56dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130047" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </style>
+    <style name="_name_removed__res_0x7f130048" parent="">
+        <item name="android:paddingLeft">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:paddingRight">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:minHeight">?attr/_name_removed__res_0x7f040005</item>
+        <item name="android:paddingStart">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="android:paddingEnd">@dimen/_name_removed__res_0x7f070003</item>
+        <item name="background">?attr/_name_removed__res_0x7f04001a</item>
+        <item name="_name_removed__res_0x7f04006c">?attr/_name_removed__res_0x7f040025</item>
+        <item name="_name_removed__res_0x7f0400b5">top</item>
+        <item name="_name_removed__res_0x7f040121">@layout/_name_removed__res_0x7f0d0004</item>
+        <item name="_name_removed__res_0x7f040160">16dp</item>
+        <item name="_name_removed__res_0x7f040161">@dimen/_name_removed__res_0x7f070001</item>
+        <item name="height">?attr/_name_removed__res_0x7f040005</item>
+        <item name="_name_removed__res_0x7f0403cb">@dimen/_name_removed__res_0x7f070002</item>
+        <item name="_name_removed__res_0x7f040512">@style/_name_removed__res_0x7f1300af</item>
+        <item name="_name_removed__res_0x7f04059f">4dp</item>
+        <item name="_name_removed__res_0x7f0405aa">@style/_name_removed__res_0x7f1300b0</item>
+    </style>
+    <style name="_name_removed__res_0x7f130049" parent="">
+        <item name="android:gravity">0x11</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_mtrl_alpha</item>
+        <item name="divider">?attr/_name_removed__res_0x7f0401a4</item>
+        <item name="_name_removed__res_0x7f0401a0">6dp</item>
+        <item name="_name_removed__res_0x7f0404cc">middle</item>
+    </style>
+    <style name="_name_removed__res_0x7f13004a" parent="@android:style/Widget.Material.AutoCompleteTextView">
+        <item name="android:background">?attr/_name_removed__res_0x7f0401ba</item>
+    </style>
+    <style name="_name_removed__res_0x7f13004b" parent="@android:style/Widget.Material.Button">
+    </style>
+    <style name="_name_removed__res_0x7f13004c" parent="@android:style/Widget.Material.Button.Borderless">
+    </style>
+    <style name="_name_removed__res_0x7f13004d" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="_name_removed__res_0x7f13004e" parent="@style/_name_removed__res_0x7f1300e1">
+        <item name="android:minWidth">64dp</item>
+        <item name="android:minHeight">@dimen/_name_removed__res_0x7f070006</item>
+    </style>
+    <style name="_name_removed__res_0x7f13004f" parent="@android:style/Widget.Material.Button.Small">
+    </style>
+    <style name="_name_removed__res_0x7f130050" parent="@android:style/Widget.Material.ButtonBar">
+    </style>
+    <style name="_name_removed__res_0x7f130051" parent="@style/_name_removed__res_0x7f130050">
+    </style>
+    <style name="_name_removed__res_0x7f130052" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+    </style>
+    <style name="_name_removed__res_0x7f130053" parent="@android:style/Widget.Material.CompoundButton.RadioButton">
+    </style>
+    <style name="_name_removed__res_0x7f130054" parent="@android:style/Widget.CompoundButton">
+        <item name="android:background">?attr/_name_removed__res_0x7f04016b</item>
+        <item name="android:textOn">@string/_name_removed__res_0x7f120012</item>
+        <item name="android:textOff">@string/_name_removed__res_0x7f120011</item>
+        <item name="android:thumb">@drawable/abc_switch_thumb_material</item>
+        <item name="_name_removed__res_0x7f0404d1">false</item>
+        <item name="_name_removed__res_0x7f04051f">@dimen/_name_removed__res_0x7f07001d</item>
+        <item name="_name_removed__res_0x7f040522">@style/_name_removed__res_0x7f1300b5</item>
+        <item name="track">@drawable/abc_switch_track_mtrl_alpha</item>
+    </style>
+    <style name="_name_removed__res_0x7f130055" parent="@style/_name_removed__res_0x7f130056">
+        <item name="_name_removed__res_0x7f04007e">18dp</item>
+        <item name="_name_removed__res_0x7f0401b0">24dp</item>
+        <item name="_name_removed__res_0x7f04024d">3dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130056" parent="">
+        <item name="_name_removed__res_0x7f040053">8dp</item>
+        <item name="_name_removed__res_0x7f040054">16dp</item>
+        <item name="color">?android:attr/textColorSecondary</item>
+        <item name="_name_removed__res_0x7f0404e5">true</item>
+        <item name="_name_removed__res_0x7f04057f">2dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130057" parent="@android:style/Widget.Material.DropDownItem.Spinner">
+    </style>
+    <style name="_name_removed__res_0x7f130058" parent="@android:style/Widget.Material.EditText">
+        <item name="android:breakStrategy">0</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_name_removed__res_0x7f130059" parent="@android:style/Widget.Material.ImageButton">
+    </style>
+    <style name="_name_removed__res_0x7f13005a" parent="@style/_name_removed__res_0x7f130040">
+        <item name="_name_removed__res_0x7f040011">@style/_name_removed__res_0x7f1300f0</item>
+        <item name="_name_removed__res_0x7f040029">@style/_name_removed__res_0x7f1300f1</item>
+    </style>
+    <style name="_name_removed__res_0x7f13005b" parent="@style/_name_removed__res_0x7f13005a">
+        <item name="background">?attr/colorPrimary</item>
+        <item name="_name_removed__res_0x7f04006c">?attr/colorPrimary</item>
+        <item name="_name_removed__res_0x7f04006d">?attr/colorPrimary</item>
+    </style>
+    <style name="_name_removed__res_0x7f13005c" parent="@style/_name_removed__res_0x7f130042">
+    </style>
+    <style name="_name_removed__res_0x7f13005d" parent="@android:style/Widget.Material.Light.ActionBar.TabText">
+    </style>
+    <style name="_name_removed__res_0x7f13005e" parent="@android:style/Widget.Material.Light.ActionBar.TabView">
+    </style>
+    <style name="_name_removed__res_0x7f13005f" parent="@android:style/Widget.Material.Light.PopupMenu">
+    </style>
+    <style name="_name_removed__res_0x7f130060" parent="@style/_name_removed__res_0x7f13005f">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f130061" parent="@android:style/Widget">
+        <item name="_name_removed__res_0x7f04050a">@drawable/abc_ic_arrow_drop_right_black_24dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130062" parent="@android:style/Widget.Material.ListPopupWindow">
+    </style>
+    <style name="_name_removed__res_0x7f130063" parent="@android:style/Widget.Material.ListView">
+    </style>
+    <style name="_name_removed__res_0x7f130064" parent="@android:style/Widget.Material.ListView.DropDown">
+    </style>
+    <style name="_name_removed__res_0x7f130065" parent="@style/_name_removed__res_0x7f130063">
+    </style>
+    <style name="_name_removed__res_0x7f130066" parent="@android:style/Widget.Material.PopupMenu">
+    </style>
+    <style name="_name_removed__res_0x7f130067" parent="@style/_name_removed__res_0x7f130066">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f130068" parent="@android:style/Widget.Material.RatingBar">
+    </style>
+    <style name="_name_removed__res_0x7f130069" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="_name_removed__res_0x7f13006a" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="_name_removed__res_0x7f13006b" parent="@android:style/Widget">
+        <item name="_name_removed__res_0x7f04011a">@drawable/abc_ic_clear_material</item>
+        <item name="_name_removed__res_0x7f040152">@drawable/abc_ic_commit_search_api_mtrl_alpha</item>
+        <item name="_name_removed__res_0x7f040258">@drawable/abc_ic_go_search_api_material</item>
+        <item name="layout">@layout/_name_removed__res_0x7f0d0016</item>
+        <item name="_name_removed__res_0x7f040483">@drawable/abc_textfield_search_material</item>
+        <item name="_name_removed__res_0x7f0404b0">@drawable/abc_ic_search_api_material</item>
+        <item name="_name_removed__res_0x7f0404b1">@drawable/abc_ic_search_api_material</item>
+        <item name="_name_removed__res_0x7f04050b">@drawable/abc_textfield_search_material</item>
+        <item name="_name_removed__res_0x7f040516">@layout/_name_removed__res_0x7f0d0015</item>
+        <item name="_name_removed__res_0x7f040604">@drawable/abc_ic_voice_search_api_material</item>
+    </style>
+    <style name="_name_removed__res_0x7f13006c" parent="@style/_name_removed__res_0x7f13006b">
+        <item name="_name_removed__res_0x7f040196">@string/_name_removed__res_0x7f12001d</item>
+        <item name="_name_removed__res_0x7f040483">@null</item>
+        <item name="_name_removed__res_0x7f0404b0">@null</item>
+        <item name="_name_removed__res_0x7f04050b">@null</item>
+    </style>
+    <style name="_name_removed__res_0x7f13006d" parent="@android:style/Widget.Material.SeekBar">
+    </style>
+    <style name="_name_removed__res_0x7f13006e" parent="@android:style/Widget.Material.Spinner">
+    </style>
+    <style name="_name_removed__res_0x7f13006f" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">1</item>
+        <item name="android:hyphenationFrequency">0</item>
+    </style>
+    <style name="_name_removed__res_0x7f130070" parent="@android:style/Widget.Material.TextView.SpinnerItem">
+    </style>
+    <style name="_name_removed__res_0x7f130071" parent="@style/_name_removed__res_0x7f130037">
+    </style>
+    <style name="_name_removed__res_0x7f130072" parent="@android:style/Widget.Material.Toolbar.Button.Navigation">
+    </style>
+    <style name="_name_removed__res_0x7f130076" parent="">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="_name_removed__res_0x7f130078" parent="@android:style/Widget.Material.DatePicker">
+        <item name="android:headerBackground">@color/_name_removed__res_0x7f060020</item>
+        <item name="android:datePickerMode">2</item>
+    </style>
+    <style name="_name_removed__res_0x7f130079" parent="@style/_name_removed__res_0x7f1300c1">
+        <item name="android:colorBackground">@color/_name_removed__res_0x7f060020</item>
+        <item name="android:textColorPrimary">@color/_name_removed__res_0x7f06001e</item>
+        <item name="android:textColorSecondary">@color/_name_removed__res_0x7f06001f</item>
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060020</item>
+        <item name="android:datePickerStyle">@style/_name_removed__res_0x7f130078</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f06001d</item>
+    </style>
+    <style name="_name_removed__res_0x7f13007a" parent="@style/_name_removed__res_0x7f1300c3">
+    </style>
+    <style name="_name_removed__res_0x7f13007b" parent="@style/_name_removed__res_0x7f1300e2">
+        <item name="android:textColor">@color/_name_removed__res_0x7f06001d</item>
+    </style>
+    <style name="_name_removed__res_0x7f13007c" parent="@android:style/Widget.Material.DatePicker">
+        <item name="android:calendarViewShown">false</item>
+        <item name="android:datePickerMode">1</item>
+    </style>
+    <style name="_name_removed__res_0x7f13007d" parent="@style/_name_removed__res_0x7f1300c3">
+        <item name="android:textColorPrimary">@color/_name_removed__res_0x7f06001e</item>
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060020</item>
+        <item name="android:textColor">@color/_name_removed__res_0x7f06001d</item>
+        <item name="android:datePickerStyle">@style/_name_removed__res_0x7f13007c</item>
+        <item name="android:colorControlNormal">@color/_name_removed__res_0x7f06001e</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/_name_removed__res_0x7f13007b</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/_name_removed__res_0x7f13007b</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f06001d</item>
+    </style>
+    <style name="_name_removed__res_0x7f13007e" parent="@style/_name_removed__res_0x7f1300c3">
+        <item name="android:datePickerStyle">@style/_name_removed__res_0x7f13007c</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f060020</item>
+    </style>
+    <style name="_name_removed__res_0x7f13007f" parent="@android:style/Widget.Material.TimePicker">
+        <item name="android:timePickerMode">1</item>
+    </style>
+    <style name="_name_removed__res_0x7f130080" parent="@style/_name_removed__res_0x7f1300c3">
+        <item name="android:textColorPrimary">@color/_name_removed__res_0x7f06001e</item>
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060020</item>
+        <item name="android:textColor">@color/_name_removed__res_0x7f06001d</item>
+        <item name="android:colorControlNormal">@color/_name_removed__res_0x7f06001e</item>
+        <item name="android:timePickerStyle">@style/_name_removed__res_0x7f13007f</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f06001d</item>
+    </style>
+    <style name="_name_removed__res_0x7f130081" parent="@style/_name_removed__res_0x7f1300c3">
+        <item name="android:timePickerStyle">@style/_name_removed__res_0x7f13007f</item>
+        <item name="colorAccent">@color/_name_removed__res_0x7f060020</item>
+    </style>
+    <style name="_name_removed__res_0x7f130082" parent="">
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f130083" parent="@android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowElevation">0dp</item>
+        <item name="android:windowClipToOutline">false</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">@integer/_name_removed__res_0x7f0b0008</item>
+    </style>
+    <style name="_name_removed__res_0x7f130084" parent="">
+        <item name="android:dialogTheme">@style/_name_removed__res_0x7f130083</item>
+    </style>
+    <style name="_name_removed__res_0x7f130085" parent="">
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowClipToOutline">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f130086" parent="@style/_name_removed__res_0x7f13000c">
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130087" parent="@style/_name_removed__res_0x7f130086">
+        <item name="android:background">@drawable/glance_error_layout_background</item>
+    </style>
+    <style name="_name_removed__res_0x7f130088" parent="@style/_name_removed__res_0x7f130086">
+        <item name="android:background">@drawable/glance_loading_layout_background</item>
+    </style>
+    <style name="_name_removed__res_0x7f130089" parent="">
+    </style>
+    <style name="_name_removed__res_0x7f13008a" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/glance_progress_horizontal</item>
+    </style>
+    <style name="_name_removed__res_0x7f13008b" parent="">
+        <item name="android:ellipsize">3</item>
+    </style>
+    <style name="_name_removed__res_0x7f13008c" parent="@android:style/Theme.DeviceDefault.DayNight">
+    </style>
+    <style name="_name_removed__res_0x7f13008d" parent="@style/_name_removed__res_0x7f130090">
+    </style>
+    <style name="_name_removed__res_0x7f13008e" parent="@style/_name_removed__res_0x7f130091">
+    </style>
+    <style name="_name_removed__res_0x7f13008f" parent="">
+        <item name="android:colorControlNormal">?attr/_name_removed__res_0x7f04012d</item>
+        <item name="android:colorControlActivated">?attr/_name_removed__res_0x7f04012b</item>
+        <item name="android:colorButtonNormal">?attr/_name_removed__res_0x7f04012a</item>
+        <item name="android:colorControlHighlight">?attr/_name_removed__res_0x7f04012c</item>
+        <item name="android:colorPrimary">?attr/colorPrimary</item>
+        <item name="android:colorPrimaryDark">?attr/colorPrimaryDark</item>
+        <item name="android:colorAccent">?attr/colorAccent</item>
+    </style>
+    <style name="_name_removed__res_0x7f130090" parent="@android:style/Theme.Material.NoActionBar">
+    </style>
+    <style name="_name_removed__res_0x7f130091" parent="@android:style/Theme.Material.Light.NoActionBar">
+    </style>
+    <style name="_name_removed__res_0x7f130092" parent="@style/_name_removed__res_0x7f13000a">
+        <item name="android:textAlignment">5</item>
+    </style>
+    <style name="_name_removed__res_0x7f130093" parent="@android:style/Widget">
+        <item name="android:layout_gravity">0x800013</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130094" parent="@android:style/Widget">
+        <item name="android:paddingEnd">16dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130095" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130096" parent="@android:style/Widget">
+        <item name="android:textAlignment">6</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130097" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">8dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130098" parent="@android:style/Widget">
+        <item name="android:textAlignment">5</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f130099" parent="@android:style/Widget">
+        <item name="android:textAlignment">5</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009a" parent="@android:style/Widget">
+        <item name="android:paddingStart">@dimen/_name_removed__res_0x7f07000a</item>
+        <item name="android:paddingEnd">4dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009b" parent="@android:style/Widget">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009c" parent="@android:style/Widget">
+        <item name="android:layout_toStartOf">@id/edit_query</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009d" parent="@android:style/Widget">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009e" parent="@style/_name_removed__res_0x7f130057">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="_name_removed__res_0x7f13009f" parent="@android:style/Widget">
+        <item name="android:layout_marginStart">@dimen/_name_removed__res_0x7f07000a</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300a2" parent="@style/_name_removed__res_0x7f13000d">
+    </style>
+    <style name="_name_removed__res_0x7f1300a3" parent="@style/_name_removed__res_0x7f13000e">
+    </style>
+    <style name="_name_removed__res_0x7f1300a6" parent="@style/_name_removed__res_0x7f1300b3">
+    </style>
+    <style name="_name_removed__res_0x7f1300a7" parent="@style/_name_removed__res_0x7f1300b4">
+    </style>
+    <style name="_name_removed__res_0x7f1300a8" parent="@style/_name_removed__res_0x7f130011">
+    </style>
+    <style name="_name_removed__res_0x7f1300a9" parent="@style/_name_removed__res_0x7f130012">
+    </style>
+    <style name="_name_removed__res_0x7f1300aa" parent="@style/_name_removed__res_0x7f130013">
+    </style>
+    <style name="_name_removed__res_0x7f1300ab" parent="@style/_name_removed__res_0x7f130014">
+    </style>
+    <style name="_name_removed__res_0x7f1300ac" parent="@style/_name_removed__res_0x7f130015">
+    </style>
+    <style name="_name_removed__res_0x7f1300ad" parent="@style/_name_removed__res_0x7f130016">
+    </style>
+    <style name="_name_removed__res_0x7f1300ae" parent="@style/_name_removed__res_0x7f130017">
+    </style>
+    <style name="_name_removed__res_0x7f1300af" parent="@style/_name_removed__res_0x7f130018">
+    </style>
+    <style name="_name_removed__res_0x7f1300b0" parent="@style/_name_removed__res_0x7f130019">
+    </style>
+    <style name="_name_removed__res_0x7f1300b1" parent="@style/_name_removed__res_0x7f13001a">
+    </style>
+    <style name="_name_removed__res_0x7f1300b2" parent="@style/_name_removed__res_0x7f13001b">
+    </style>
+    <style name="_name_removed__res_0x7f1300b3" parent="@style/_name_removed__res_0x7f13001c">
+    </style>
+    <style name="_name_removed__res_0x7f1300b4" parent="@style/_name_removed__res_0x7f13001d">
+    </style>
+    <style name="_name_removed__res_0x7f1300b5" parent="@style/_name_removed__res_0x7f13001e">
+    </style>
+    <style name="_name_removed__res_0x7f1300ba" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/_name_removed__res_0x7f07001e</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300bb" parent="@style/_name_removed__res_0x7f130016">
+    </style>
+    <style name="_name_removed__res_0x7f1300bc" parent="@style/_name_removed__res_0x7f130017">
+    </style>
+    <style name="Theme.AppCompat" parent="@style/_name_removed__res_0x7f13001f">
+    </style>
+    <style name="_name_removed__res_0x7f1300be" parent="@style/_name_removed__res_0x7f130020">
+    </style>
+    <style name="_name_removed__res_0x7f1300bf" parent="@style/_name_removed__res_0x7f1300c2">
+    </style>
+    <style name="_name_removed__res_0x7f1300c0" parent="@style/_name_removed__res_0x7f1300c4">
+    </style>
+    <style name="_name_removed__res_0x7f1300c1" parent="@style/_name_removed__res_0x7f130021">
+    </style>
+    <style name="_name_removed__res_0x7f1300c2" parent="@style/_name_removed__res_0x7f130022">
+    </style>
+    <style name="_name_removed__res_0x7f1300c3" parent="@style/_name_removed__res_0x7f130023">
+    </style>
+    <style name="_name_removed__res_0x7f1300c4" parent="@style/_name_removed__res_0x7f1300c2">
+        <item name="_name_removed__res_0x7f040615">false</item>
+        <item name="_name_removed__res_0x7f04061e">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c5" parent="@style/Theme.AppCompat">
+        <item name="_name_removed__res_0x7f040615">false</item>
+        <item name="_name_removed__res_0x7f04061e">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c6" parent="@style/_name_removed__res_0x7f1300c0">
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060013</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130000</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="_name_removed__res_0x7f0405e8">@color/_name_removed__res_0x7f0600c3</item>
+        <item name="_name_removed__res_0x7f0405e9">@color/_name_removed__res_0x7f0600c2</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c7" parent="@style/_name_removed__res_0x7f1300c6">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Activity</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c8" parent="@style/_name_removed__res_0x7f1300bf">
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:statusBarColor">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:navigationBarColor">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c9" parent="@style/_name_removed__res_0x7f1300ce">
+        <item name="android:statusBarColor">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="_name_removed__res_0x7f040465">@style/_name_removed__res_0x7f1300c6</item>
+        <item name="_name_removed__res_0x7f04061f">@drawable/hatch_splash_logo_padded</item>
+        <item name="_name_removed__res_0x7f040621">#ffffff</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300ca" parent="@style/_name_removed__res_0x7f1300c6">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300cb" parent="@style/_name_removed__res_0x7f1300c3">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/_name_removed__res_0x7f130005</item>
+        <item name="_name_removed__res_0x7f0400a1">@style/_name_removed__res_0x7f13010a</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300cc" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300cd" parent="@android:style/Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300ce" parent="@style/_name_removed__res_0x7f1300cf">
+        <item name="_name_removed__res_0x7f040465">?android:attr/theme</item>
+        <item name="_name_removed__res_0x7f04061f">@android:drawable/sym_def_app_icon</item>
+        <item name="_name_removed__res_0x7f040620">@integer/_name_removed__res_0x7f0b0002</item>
+        <item name="_name_removed__res_0x7f040621">?android:attr/colorBackground</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300cf" parent="@style/_name_removed__res_0x7f130025">
+        <item name="android:windowBackground">@drawable/compat_splash_screen_no_icon_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fitsSystemWindows">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:opacity">-1</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="_name_removed__res_0x7f0404e8">@dimen/_name_removed__res_0x7f07007b</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300d0" parent="@style/_name_removed__res_0x7f130028">
+    </style>
+    <style name="_name_removed__res_0x7f1300d1" parent="@style/_name_removed__res_0x7f130029">
+    </style>
+    <style name="_name_removed__res_0x7f1300d2" parent="@style/_name_removed__res_0x7f13002a">
+    </style>
+    <style name="_name_removed__res_0x7f1300d3" parent="@style/_name_removed__res_0x7f13002b">
+    </style>
+    <style name="_name_removed__res_0x7f1300d6" parent="@style/_name_removed__res_0x7f130041">
+    </style>
+    <style name="_name_removed__res_0x7f1300d7" parent="@style/_name_removed__res_0x7f130043">
+    </style>
+    <style name="_name_removed__res_0x7f1300d8" parent="@style/_name_removed__res_0x7f130044">
+    </style>
+    <style name="_name_removed__res_0x7f1300d9" parent="@style/_name_removed__res_0x7f130045">
+    </style>
+    <style name="_name_removed__res_0x7f1300da" parent="@style/_name_removed__res_0x7f130046">
+    </style>
+    <style name="_name_removed__res_0x7f1300db" parent="@style/_name_removed__res_0x7f130047">
+    </style>
+    <style name="_name_removed__res_0x7f1300dc" parent="@style/_name_removed__res_0x7f130048">
+    </style>
+    <style name="_name_removed__res_0x7f1300dd" parent="@style/_name_removed__res_0x7f130049">
+    </style>
+    <style name="_name_removed__res_0x7f1300de" parent="@style/_name_removed__res_0x7f13004a">
+    </style>
+    <style name="_name_removed__res_0x7f1300df" parent="@style/_name_removed__res_0x7f13004b">
+    </style>
+    <style name="_name_removed__res_0x7f1300e0" parent="@style/_name_removed__res_0x7f13004c">
+    </style>
+    <style name="_name_removed__res_0x7f1300e1" parent="@style/_name_removed__res_0x7f13004d">
+    </style>
+    <style name="_name_removed__res_0x7f1300e2" parent="@style/_name_removed__res_0x7f13004e">
+    </style>
+    <style name="_name_removed__res_0x7f1300e3" parent="@style/_name_removed__res_0x7f13004f">
+    </style>
+    <style name="_name_removed__res_0x7f1300e4" parent="@style/_name_removed__res_0x7f130051">
+    </style>
+    <style name="_name_removed__res_0x7f1300e5" parent="@style/_name_removed__res_0x7f130052">
+    </style>
+    <style name="_name_removed__res_0x7f1300e6" parent="@style/_name_removed__res_0x7f130053">
+    </style>
+    <style name="_name_removed__res_0x7f1300e7" parent="@style/_name_removed__res_0x7f130054">
+    </style>
+    <style name="_name_removed__res_0x7f1300e8" parent="@style/_name_removed__res_0x7f130055">
+        <item name="color">?attr/_name_removed__res_0x7f04012d</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300e9" parent="@style/_name_removed__res_0x7f13009e">
+    </style>
+    <style name="_name_removed__res_0x7f1300ea" parent="@style/_name_removed__res_0x7f130058">
+    </style>
+    <style name="_name_removed__res_0x7f1300eb" parent="@style/_name_removed__res_0x7f130059">
+    </style>
+    <style name="_name_removed__res_0x7f1300ec" parent="@style/_name_removed__res_0x7f13005b">
+    </style>
+    <style name="_name_removed__res_0x7f1300ed" parent="@style/_name_removed__res_0x7f13005c">
+    </style>
+    <style name="_name_removed__res_0x7f1300ee" parent="@style/_name_removed__res_0x7f13005d">
+    </style>
+    <style name="_name_removed__res_0x7f1300ef" parent="@style/_name_removed__res_0x7f13005e">
+    </style>
+    <style name="_name_removed__res_0x7f1300f0" parent="@style/_name_removed__res_0x7f1300d9">
+    </style>
+    <style name="_name_removed__res_0x7f1300f1" parent="@style/_name_removed__res_0x7f1300db">
+    </style>
+    <style name="_name_removed__res_0x7f1300f2" parent="@style/_name_removed__res_0x7f13005f">
+    </style>
+    <style name="_name_removed__res_0x7f1300f3" parent="@style/_name_removed__res_0x7f130060">
+    </style>
+    <style name="_name_removed__res_0x7f1300f4" parent="@style/_name_removed__res_0x7f1300ff">
+    </style>
+    <style name="_name_removed__res_0x7f1300f5" parent="@style/_name_removed__res_0x7f130104">
+    </style>
+    <style name="_name_removed__res_0x7f1300f6" parent="@style/_name_removed__res_0x7f130061">
+    </style>
+    <style name="_name_removed__res_0x7f1300f7" parent="@style/_name_removed__res_0x7f130062">
+    </style>
+    <style name="_name_removed__res_0x7f1300f8" parent="@style/_name_removed__res_0x7f130064">
+    </style>
+    <style name="_name_removed__res_0x7f1300f9" parent="@style/_name_removed__res_0x7f130065">
+    </style>
+    <style name="_name_removed__res_0x7f1300fa" parent="@style/_name_removed__res_0x7f130066">
+    </style>
+    <style name="_name_removed__res_0x7f1300fb" parent="@style/_name_removed__res_0x7f130067">
+    </style>
+    <style name="_name_removed__res_0x7f1300fc" parent="@style/_name_removed__res_0x7f130068">
+    </style>
+    <style name="_name_removed__res_0x7f1300fd" parent="@style/_name_removed__res_0x7f130069">
+    </style>
+    <style name="_name_removed__res_0x7f1300fe" parent="@style/_name_removed__res_0x7f13006a">
+    </style>
+    <style name="_name_removed__res_0x7f1300ff" parent="@style/_name_removed__res_0x7f13006b">
+    </style>
+    <style name="_name_removed__res_0x7f130100" parent="@style/_name_removed__res_0x7f13006c">
+    </style>
+    <style name="_name_removed__res_0x7f130101" parent="@style/_name_removed__res_0x7f13006d">
+    </style>
+    <style name="_name_removed__res_0x7f130102" parent="@style/_name_removed__res_0x7f13006e">
+    </style>
+    <style name="_name_removed__res_0x7f130103" parent="@style/_name_removed__res_0x7f130102">
+    </style>
+    <style name="_name_removed__res_0x7f130104" parent="@style/_name_removed__res_0x7f130103">
+    </style>
+    <style name="_name_removed__res_0x7f130105" parent="@style/_name_removed__res_0x7f13006f">
+    </style>
+    <style name="_name_removed__res_0x7f130106" parent="@style/_name_removed__res_0x7f130070">
+    </style>
+    <style name="_name_removed__res_0x7f130107" parent="@style/_name_removed__res_0x7f130071">
+    </style>
+    <style name="_name_removed__res_0x7f130108" parent="@style/_name_removed__res_0x7f130072">
+    </style>
+    <style name="_name_removed__res_0x7f13010a" parent="@android:style/Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:elevation">@dimen/_name_removed__res_0x7f070016</item>
+        <item name="_name_removed__res_0x7f04006e">?android:attr/colorBackground</item>
+        <item name="_name_removed__res_0x7f040089">true</item>
+        <item name="_name_removed__res_0x7f04008b">auto</item>
+        <item name="_name_removed__res_0x7f04008d">false</item>
+        <item name="_name_removed__res_0x7f0401ce">false</item>
+        <item name="_name_removed__res_0x7f0404c1">@null</item>
+        <item name="_name_removed__res_0x7f0404c3">@null</item>
+    </style>
+    <style name="_name_removed__res_0x7f13010c" parent="@android:style/Widget">
+        <item name="android:background">@drawable/design_snackbar_background</item>
+        <item name="android:paddingLeft">@dimen/_name_removed__res_0x7f070029</item>
+        <item name="android:paddingRight">@dimen/_name_removed__res_0x7f070029</item>
+        <item name="android:maxWidth">@dimen/_name_removed__res_0x7f070027</item>
+        <item name="android:minWidth">@dimen/_name_removed__res_0x7f070028</item>
+        <item name="_name_removed__res_0x7f04002e">@dimen/_name_removed__res_0x7f070024</item>
+        <item name="animationMode">slide</item>
+        <item name="elevation">@dimen/_name_removed__res_0x7f070009</item>
+        <item name="_name_removed__res_0x7f0403ca">@dimen/_name_removed__res_0x7f070023</item>
+    </style>
+    <style name="_name_removed__res_0x7f13010f" parent="@android:style/Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <style name="_name_removed__res_0x7f130111" parent="@style/_name_removed__res_0x7f1300df">
+        <item name="android:textAppearance">?attr/_name_removed__res_0x7f04054c</item>
+        <item name="android:textColor">@color/_name_removed__res_0x7f0600b1</item>
+        <item name="android:paddingLeft">@dimen/_name_removed__res_0x7f070016</item>
+        <item name="android:paddingTop">@dimen/_name_removed__res_0x7f070004</item>
+        <item name="android:paddingRight">@dimen/_name_removed__res_0x7f070016</item>
+        <item name="android:paddingBottom">@dimen/_name_removed__res_0x7f070004</item>
+        <item name="android:maxWidth">@dimen/_name_removed__res_0x7f07006d</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetTop">@dimen/_name_removed__res_0x7f070009</item>
+        <item name="android:insetBottom">@dimen/_name_removed__res_0x7f070009</item>
+        <item name="android:stateListAnimator">@animator/_name_removed__res_0x7f020009</item>
+        <item name="_name_removed__res_0x7f04006e">@color/_name_removed__res_0x7f0600af</item>
+        <item name="cornerRadius">@null</item>
+        <item name="elevation">@dimen/_name_removed__res_0x7f07000e</item>
+        <item name="_name_removed__res_0x7f0401ce">true</item>
+        <item name="_name_removed__res_0x7f0401cf">true</item>
+        <item name="_name_removed__res_0x7f040292">@dimen/_name_removed__res_0x7f07000a</item>
+        <item name="_name_removed__res_0x7f040297">@color/_name_removed__res_0x7f0600b1</item>
+        <item name="_name_removed__res_0x7f04049f">@color/_name_removed__res_0x7f0600b0</item>
+        <item name="_name_removed__res_0x7f0404c1">?attr/_name_removed__res_0x7f0404c4</item>
+    </style>
+    <style name="_name_removed__res_0x7f130114" parent="@style/_name_removed__res_0x7f1300e5">
+        <item name="android:minWidth">?attr/_name_removed__res_0x7f0403eb</item>
+        <item name="android:minHeight">?attr/_name_removed__res_0x7f0403eb</item>
+        <item name="_name_removed__res_0x7f0401ce">true</item>
+        <item name="_name_removed__res_0x7f0405ee">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f130115" parent="@style/_name_removed__res_0x7f1300e6">
+        <item name="android:minWidth">?attr/_name_removed__res_0x7f0403eb</item>
+        <item name="android:minHeight">?attr/_name_removed__res_0x7f0403eb</item>
+        <item name="_name_removed__res_0x7f0401ce">true</item>
+        <item name="_name_removed__res_0x7f0405ee">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f13011b" parent="">
+        <item name="_name_removed__res_0x7f040115">@color/_name_removed__res_0x7f0600ae</item>
+        <item name="_name_removed__res_0x7f040116">?attr/colorPrimary</item>
+        <item name="_name_removed__res_0x7f040118">@color/_name_removed__res_0x7f0600ad</item>
+    </style>
+    <style name="_name_removed__res_0x7f13011e" parent="@android:style/Widget">
+        <item name="_name_removed__res_0x7f040500">#000000</item>
+    </style>
+    <style name="_name_removed__res_0x7f13011f" parent="">
+        <item name="android:gravity">0x10</item>
+        <item name="android:orientation">0</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">12dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130120" parent="">
+        <item name="android:background">@drawable/widget_preview_button_background</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:src">@drawable/arrowsrefresh_outline_24_wght400</item>
+        <item name="android:tint">@color/_name_removed__res_0x7f0600da</item>
+        <item name="android:importantForAccessibility">2</item>
+        <item name="android:layout_marginStart">12dp</item>
+    </style>
+    <style name="_name_removed__res_0x7f130121" parent="">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/_name_removed__res_0x7f0600db</item>
+        <item name="android:ellipsize">3</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:fontFamily">@font/optimistic_ai_vf</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+    <style name="_name_removed__res_0x7f130122" parent="">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/_name_removed__res_0x7f0600da</item>
+        <item name="android:ellipsize">3</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:fontFamily">@font/optimistic_ai_vf</item>
+        <item name="android:letterSpacing">0.015</item>
+        <item name="android:fontVariationSettings">&apos;wght&apos; 600</item>
+    </style>
+    <style name="_name_removed__res_0x7f130123" parent="">
+        <item name="_name_removed__res_0x7f040356">0.15</item>
+        <item name="_name_removed__res_0x7f040358">@color/_name_removed__res_0x7f0600a6</item>
+        <item name="_name_removed__res_0x7f04035e">@drawable/maplibre_user_stroke_icon</item>
+        <item name="_name_removed__res_0x7f04035f">@drawable/maplibre_user_stroke_icon</item>
+        <item name="_name_removed__res_0x7f040362">@drawable/maplibre_user_bearing_icon</item>
+        <item name="_name_removed__res_0x7f040377">12dp</item>
+        <item name="_name_removed__res_0x7f040378">true</item>
+        <item name="_name_removed__res_0x7f04037b">@drawable/maplibre_user_icon</item>
+        <item name="_name_removed__res_0x7f04037c">@drawable/maplibre_user_icon_stale</item>
+        <item name="_name_removed__res_0x7f040380">@drawable/maplibre_user_puck_icon</item>
+        <item name="_name_removed__res_0x7f040381">0</item>
+        <item name="_name_removed__res_0x7f040382">0</item>
+        <item name="_name_removed__res_0x7f040383">0</item>
+        <item name="_name_removed__res_0x7f040384">0</item>
+        <item name="_name_removed__res_0x7f04038a">1</item>
+        <item name="_name_removed__res_0x7f04038b">0.6</item>
+        <item name="_name_removed__res_0x7f04038e">0.4</item>
+        <item name="_name_removed__res_0x7f04038f">@color/_name_removed__res_0x7f0600a6</item>
+        <item name="_name_removed__res_0x7f040390">2300</item>
+        <item name="_name_removed__res_0x7f040391">false</item>
+        <item name="_name_removed__res_0x7f040392">true</item>
+        <item name="_name_removed__res_0x7f040393">decelerate</item>
+        <item name="_name_removed__res_0x7f040394">35</item>
+        <item name="_name_removed__res_0x7f040397">30000</item>
+        <item name="_name_removed__res_0x7f040399">false</item>
+        <item name="_name_removed__res_0x7f04039a">@dimen/_name_removed__res_0x7f07005a</item>
+        <item name="_name_removed__res_0x7f04039b">@dimen/_name_removed__res_0x7f07005b</item>
+    </style>
+</resources>

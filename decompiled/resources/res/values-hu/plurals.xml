@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">Lejárat: %1$d óra múlva</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">%1$d perc múlva lejár.</item>
+        <item quantity="other">Lejárat: %1$d perc múlva</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">Az egyik feladat ellenőrzést igényel.</item>
+        <item quantity="other">%1$d feladat ellenőrzést igényel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d szerepel az árban</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d utas</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d éjszaka</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$d feladat ellenőrzést igényel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d napja</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d órája</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d perce</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">%1$d tétel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">%1$s és további %2$d személy társaságában</item>
+        <item quantity="other">%1$s és további %2$d ember társaságában</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d vendég</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="other">%1$d éjszaka</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">%1$d vélemény</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">További %1$d fiók elérhető</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="other">%1$s és további %2$d profil</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="other">%1$d profil fog hozzáférni a(z) %2$s alkalmazáshoz.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$d autó</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">%1$d nagy méretű táska</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km szerepel az árban</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">%1$s mérföld szerepel az árban</item>
+        <item quantity="other">%1$s mérföld benne</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="other">%1$d ülés</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">%1$d autó megjelenítése</item>
+        <item quantity="other">Az összes autó megjelenítése (%1$d)</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="other">%1$d kis méretű táska</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+ további %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$d tétel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">%1$d tétel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="other">%1$d emberrel megosztva</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d közreműködő</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="other">%1$d ember</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d terület</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">%1$s tokened megmarad.</item>
+        <item quantity="other">A(z) %1$s tokened megmarad.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">Még %1$d próbálkozásod van. Ha a PIN-kódod helytelen, kizárod magad.</item>
+        <item quantity="other">Még %1$d próbálkozásod van, utána kizárod magad.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">Helytelen PIN-kód. Még %1$d próbálkozásod van.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">%1$d inaktív megjelenítése</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">Megosztott egy területet veled és további %1$d emberrel.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">%1$s. lehetőség</item>
+        <item quantity="other">%1$s. lehetőségek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">%1$d kép használata</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d böngészőfeladat</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">A kód helytelen. %1$d próbálkozási lehetőség maradt.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d szerepel az árban</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Járat megerősítése</item>
+        <item quantity="other">Járatok megerősítése</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d fedélzeti bőrönd</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d feladott csomag</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d utazó</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$d megálló</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">További %1$d megjelenítése</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">%1$d összekötő</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="other">+%1$d további feladat</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">További %1$d videó</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">Ingyenes visszaküldés %1$d napon belül</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d napos visszaküldés</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d közreműködő</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d termék</item>
+        <item quantity="other">%1$d elem</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">%1$d/%2$d. feladat kész</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$d fiók</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d közreműködő</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="other">%1$d időzített feladat</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">%1$d óránként</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">%1$d percenként</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">%1$d másodpercenként</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Végleg törölsz %1$d fájlt?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">%1$d fájl törlése</item>
+    </plurals>
+</resources>

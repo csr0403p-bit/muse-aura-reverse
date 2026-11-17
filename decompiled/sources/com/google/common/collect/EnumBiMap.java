@@ -1,0 +1,19 @@
+package com.google.common.collect;
+
+import X.F60;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.lang.Enum;
+
+/* loaded from: classes5.dex */
+public abstract class EnumBiMap<K extends Enum<K>, V extends Enum<V>> extends AbstractBiMap<K, V> {
+    public static final long serialVersionUID = 0;
+
+    private void readObject(ObjectInputStream stream) {
+        throw F60.createAndThrow();
+    }
+
+    private void writeObject(ObjectOutputStream stream) {
+        throw F60.createAndThrow();
+    }
+}

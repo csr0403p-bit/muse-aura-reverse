@@ -1,0 +1,171 @@
+package com.facebook.aura.commands.alarm;
+
+import X.AbstractC07749im;
+import X.AnonymousClass003;
+import X.C07729ii;
+import X.C07779iq;
+import X.C07839ix;
+import X.C2hx;
+import X.C3cG;
+import X.C3cH;
+import X.C3cI;
+import X.C3cJ;
+import X.C5hV;
+import X.C7384Etj;
+import X.C9cd;
+import X.C9hr;
+import X.C9iK;
+import X.C9iZ;
+import X.C9j1;
+import X.C9j4;
+import X.C9j5;
+import X.F0C;
+import X.Hs1;
+import X.InterfaceC07789is;
+import X.InterfaceC07829iw;
+import com.facebook.aura.feed.repo.FeedRepositoryKt;
+import kotlin.Deprecated;
+
+@Deprecated(level = Hs1.A03, message = "This synthesized declaration should not be used directly")
+/* loaded from: classes3.dex */
+public final /* synthetic */ class ShadowReminder$$serializer implements C9cd<ShadowReminder> {
+    public static final ShadowReminder$$serializer INSTANCE;
+    public static final C9iZ descriptor;
+
+    @Override // X.C9jG
+    public final ShadowReminder deserialize(InterfaceC07829iw interfaceC07829iw) {
+        C7384Etj.A0Y(interfaceC07829iw, 0);
+        C9iZ c9iZ = descriptor;
+        C9j4 c9j4A55 = interfaceC07829iw.A55(c9iZ);
+        F0C<C9hr<Object>>[] f0cArr = ShadowReminder.$childSerializers;
+        String strA0h = null;
+        Long lA0Q = null;
+        String strA0s = null;
+        ReminderDelivery reminderDelivery = null;
+        Recurrence recurrence = null;
+        Long lA0Q2 = null;
+        String strA8f = null;
+        long jA8X = 0;
+        long jA8X2 = 0;
+        int iA8U = 0;
+        boolean zA8G = false;
+        int iA8U2 = 0;
+        int iA8U3 = 0;
+        String strA8f2 = null;
+        int i = 0;
+        while (true) {
+            int iA8N = c9j4A55.A8N(c9iZ);
+            switch (iA8N) {
+                case -1:
+                    c9j4A55.AAd(c9iZ);
+                    return new ShadowReminder(i, strA8f2, strA0h, iA8U3, iA8U2, strA8f, jA8X, lA0Q, lA0Q2, recurrence, jA8X2, iA8U, zA8G, strA0s, reminderDelivery, (C2hx) null);
+                case 0:
+                    strA8f2 = c9j4A55.A8f(c9iZ, 0);
+                    i |= 1;
+                    break;
+                case 1:
+                    strA0h = C3cH.A0h(c9iZ, c9j4A55);
+                    i |= 2;
+                    break;
+                case 2:
+                    iA8U3 = c9j4A55.A8U(c9iZ, 2);
+                    i |= 4;
+                    break;
+                case 3:
+                    iA8U2 = c9j4A55.A8U(c9iZ, 3);
+                    i |= 8;
+                    break;
+                case 4:
+                    strA8f = c9j4A55.A8f(c9iZ, 4);
+                    i |= 16;
+                    break;
+                case 5:
+                    jA8X = c9j4A55.A8X(c9iZ, 5);
+                    i |= 32;
+                    break;
+                case 6:
+                    lA0Q = C3cI.A0Q(c9iZ, c9j4A55, 6);
+                    i |= 64;
+                    break;
+                case 7:
+                    lA0Q2 = C3cI.A0Q(c9iZ, c9j4A55, 7);
+                    i |= 128;
+                    break;
+                case 8:
+                    recurrence = (Recurrence) c9j4A55.A8Z(Recurrence$$serializer.INSTANCE, c9iZ, 8);
+                    i |= 256;
+                    break;
+                case 9:
+                    jA8X2 = c9j4A55.A8X(c9iZ, 9);
+                    i |= 512;
+                    break;
+                case 10:
+                    iA8U = c9j4A55.A8U(c9iZ, 10);
+                    i |= 1024;
+                    break;
+                case 11:
+                    zA8G = c9j4A55.A8G(c9iZ, 11);
+                    i |= 2048;
+                    break;
+                case 12:
+                    strA0s = C3cI.A0s(c9iZ, c9j4A55);
+                    i |= 4096;
+                    break;
+                case 13:
+                    reminderDelivery = (ReminderDelivery) C3cJ.A0G(c9iZ, c9j4A55, f0cArr, 13);
+                    i |= 8192;
+                    break;
+                default:
+                    throw C3cG.A17(iA8N);
+            }
+        }
+    }
+
+    static {
+        ShadowReminder$$serializer shadowReminder$$serializer = new ShadowReminder$$serializer();
+        INSTANCE = shadowReminder$$serializer;
+        C9iK c9iKA1C = C3cG.A1C("com.facebook.aura.commands.alarm.ShadowReminder", shadowReminder$$serializer, 14);
+        C3cI.A1P("id", c9iKA1C, false);
+        c9iKA1C.A08("hour", false);
+        c9iKA1C.A08("minute", false);
+        c9iKA1C.A08("days", true);
+        c9iKA1C.A08("triggerTimeMs", false);
+        c9iKA1C.A08("eventId", true);
+        c9iKA1C.A08("calendarId", true);
+        c9iKA1C.A08("recurrence", true);
+        c9iKA1C.A08("anchorMs", true);
+        c9iKA1C.A08("firedCount", true);
+        c9iKA1C.A08("pendingSnooze", true);
+        c9iKA1C.A08(FeedRepositoryKt.TIMEZONE_PARAM, true);
+        c9iKA1C.A08("delivery", true);
+        descriptor = c9iKA1C;
+    }
+
+    @Override // X.C9cd
+    public final C9hr<?>[] childSerializers() {
+        F0C<C9hr<Object>>[] f0cArr = ShadowReminder.$childSerializers;
+        C07779iq c07779iq = C07779iq.A01;
+        C07729ii c07729ii = C07729ii.A00;
+        C9j1 c9j1 = C9j1.A00;
+        return new C9hr[]{c07779iq, c07779iq, c07729ii, c07729ii, c07779iq, c9j1, AbstractC07749im.A00(c9j1), AbstractC07749im.A00(c9j1), AbstractC07749im.A00(Recurrence$$serializer.INSTANCE), c9j1, c07729ii, C07839ix.A00, AbstractC07749im.A00(c07779iq), C3cH.A14(f0cArr, 13)};
+    }
+
+    @Override // X.C9hr, X.C9hv, X.C9jG
+    public final C9iZ getDescriptor() {
+        return descriptor;
+    }
+
+    @Override // X.C9cd
+    public /* bridge */ C9hr<?>[] typeParametersSerializers() {
+        return C5hV.A00;
+    }
+
+    @Override // X.C9hv
+    public final void serialize(InterfaceC07789is interfaceC07789is, ShadowReminder shadowReminder) {
+        AnonymousClass003.A0u(interfaceC07789is, shadowReminder);
+        C9iZ c9iZ = descriptor;
+        C9j5 c9j5A56 = interfaceC07789is.A56(c9iZ);
+        ShadowReminder.write$Self$fbandroid_express_aura_java_com_facebook_aura_commands_alarm_alarm(shadowReminder, c9j5A56, c9iZ);
+        c9j5A56.AAd(c9iZ);
+    }
+}

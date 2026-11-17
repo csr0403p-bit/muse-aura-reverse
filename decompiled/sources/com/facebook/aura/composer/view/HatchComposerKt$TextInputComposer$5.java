@@ -1,0 +1,188 @@
+package com.facebook.aura.composer.view;
+
+import X.AHD;
+import X.AbstractC7559F3s;
+import X.AnonymousClass001;
+import X.AnonymousClass011;
+import X.BFM;
+import X.BQI;
+import X.BRg;
+import X.C1518AkS;
+import X.C1890At8;
+import X.C20Q;
+import X.G0U;
+import X.G0V;
+import X.G2k;
+import android.graphics.Bitmap;
+import android.net.Uri;
+import com.facebook.aura.analytics.hatch.HatchComposerEntryPoint;
+import com.facebook.aura.composer.dictation.WaveformBuffer;
+import java.util.List;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes.dex */
+public final class HatchComposerKt$TextInputComposer$5 extends AbstractC7559F3s implements G0V<BFM, Integer, Unit> {
+    public final /* synthetic */ int $$changed;
+    public final /* synthetic */ int $$changed1;
+    public final /* synthetic */ int $$changed2;
+    public final /* synthetic */ int $$changed3;
+    public final /* synthetic */ int $$changed4;
+    public final /* synthetic */ int $$changed5;
+    public final /* synthetic */ int $$changed6;
+    public final /* synthetic */ int $$default;
+    public final /* synthetic */ int $$default1;
+    public final /* synthetic */ int $$default2;
+    public final /* synthetic */ Function0<Boolean> $allowsFileAttachments;
+    public final /* synthetic */ C1518AkS $attachButtonFocusRequester;
+    public final /* synthetic */ boolean $attachmentsAboveInput;
+    public final /* synthetic */ Function0<Boolean> $canAppendDictation;
+    public final /* synthetic */ boolean $captureActionsInPlusMenu;
+    public final /* synthetic */ ComposerMode $composerMode;
+    public final /* synthetic */ String $contextChipEyebrow;
+    public final /* synthetic */ String $contextChipTitle;
+    public final /* synthetic */ HatchComposerEntryPoint $entryPoint;
+    public final /* synthetic */ BQI<String> $failedUploadUris;
+    public final /* synthetic */ C1518AkS $focusRequester;
+    public final /* synthetic */ String $hintText;
+    public final /* synthetic */ boolean $isAwaitingResponse;
+    public final /* synthetic */ boolean $isCancelableActivity;
+    public final /* synthetic */ boolean $isLiveSessionActive;
+    public final /* synthetic */ boolean $isPrimaryThread;
+    public final /* synthetic */ boolean $isSendBlocked;
+    public final /* synthetic */ boolean $isSendEnabled;
+    public final /* synthetic */ Object $layoutResetKey;
+    public final /* synthetic */ AHD<String> $linkAttachmentUrls;
+    public final /* synthetic */ G2k<String, Function0<Unit>, BRg, BFM, Integer, Unit> $linkPreview;
+    public final /* synthetic */ float $mainRowHorizontalPadding;
+    public final /* synthetic */ C20Q<Unit> $micFocusRequests;
+    public final /* synthetic */ BRg $modifier;
+    public final /* synthetic */ String $nameHintText;
+    public final /* synthetic */ G0U<List<? extends Uri>, Unit> $onAddImageUris;
+    public final /* synthetic */ G0U<String, Unit> $onAttachmentClick;
+    public final /* synthetic */ Function0<Unit> $onCameraClick;
+    public final /* synthetic */ Function0<Unit> $onCancelDictation;
+    public final /* synthetic */ Function0<Unit> $onClearContextChip;
+    public final /* synthetic */ G0U<Integer, Unit> $onClearFileClick;
+    public final /* synthetic */ G0U<Integer, Unit> $onClearImageClick;
+    public final /* synthetic */ Function0<Unit> $onClearReply;
+    public final /* synthetic */ Function0<Unit> $onDictationSend;
+    public final /* synthetic */ Function0<Unit> $onDictationStop;
+    public final /* synthetic */ Function0<Unit> $onFilesClick;
+    public final /* synthetic */ Function0<Unit> $onGalleryClick;
+    public final /* synthetic */ Function0<Unit> $onMicHold;
+    public final /* synthetic */ Function0<Unit> $onMicTap;
+    public final /* synthetic */ G0U<String, Unit> $onRemoveLinkAttachment;
+    public final /* synthetic */ Function0<Unit> $onReplyPreviewClick;
+    public final /* synthetic */ G0U<String, Unit> $onRetryUpload;
+    public final /* synthetic */ Function0<Unit> $onScreenshotClick;
+    public final /* synthetic */ Function0<Unit> $onSendClick;
+    public final /* synthetic */ Function0<Unit> $onStopClick;
+    public final /* synthetic */ Function0<Unit> $onVideoClick;
+    public final /* synthetic */ Bitmap $pendingDiscussionItemPreview;
+    public final /* synthetic */ AHD<String> $pendingFileUris;
+    public final /* synthetic */ AHD<String> $pendingImageUris;
+    public final /* synthetic */ String $prefixText;
+    public final /* synthetic */ String $replyPreview;
+    public final /* synthetic */ String $replyPreviewImageUrl;
+    public final /* synthetic */ boolean $showAttachmentButton;
+    public final /* synthetic */ boolean $showMicButton;
+    public final /* synthetic */ boolean $showOnlyCameraIcon;
+    public final /* synthetic */ boolean $showScreenshotButton;
+    public final /* synthetic */ C1890At8 $state;
+    public final /* synthetic */ String $threadId;
+    public final /* synthetic */ G0V<BFM, Integer, Unit> $trailingAction;
+    public final /* synthetic */ BQI<String> $uploadingFileUris;
+    public final /* synthetic */ long $userMessageBubbleColor;
+    public final /* synthetic */ long $userMessageTextColor;
+    public final /* synthetic */ WaveformBuffer $waveformBuffer;
+
+    @Override // X.G0V
+    public /* bridge */ /* synthetic */ Unit invoke(BFM bfm, Integer num) {
+        invoke(bfm, AnonymousClass001.A0F(num));
+        return Unit.INSTANCE;
+    }
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    /* JADX WARN: Multi-variable type inference failed */
+    public HatchComposerKt$TextInputComposer$5(C1890At8 c1890At8, Object obj, ComposerMode composerMode, G0V<? super BFM, ? super Integer, Unit> g0v, WaveformBuffer waveformBuffer, boolean z, boolean z2, long j, long j2, AHD<String> ahd, AHD<String> ahd2, BQI<String> bqi, BQI<String> bqi2, AHD<String> ahd3, G0U<? super String, Unit> g0u, Function0<Unit> function0, Function0<Unit> function02, Function0<Unit> function03, Function0<Unit> function04, Function0<Unit> function05, Function0<Unit> function06, Function0<Unit> function07, Function0<Unit> function08, Function0<Boolean> function09, G0U<? super List<? extends Uri>, Unit> g0u2, G0U<? super Integer, Unit> g0u3, G0U<? super Integer, Unit> g0u4, G0U<? super String, Unit> g0u5, G0U<? super String, Unit> g0u6, Function0<Unit> function010, Function0<Unit> function011, boolean z3, Function0<Boolean> function012, C20Q<Unit> c20q, String str, String str2, Bitmap bitmap, C1518AkS c1518AkS, C1518AkS c1518AkS2, String str3, String str4, Function0<Unit> function013, Function0<Unit> function014, String str5, String str6, Function0<Unit> function015, boolean z4, boolean z5, boolean z6, Function0<Unit> function016, boolean z7, String str7, HatchComposerEntryPoint hatchComposerEntryPoint, BRg bRg, boolean z8, boolean z9, boolean z10, Function0<Unit> function017, String str8, boolean z11, boolean z12, float f, G2k<? super String, ? super Function0<Unit>, ? super BRg, ? super BFM, ? super Integer, Unit> g2k, int i, int i2, int i3, int i4, int i5, int i6, int i7, int i8, int i9, int i10) {
+        super(2);
+        this.$state = c1890At8;
+        this.$layoutResetKey = obj;
+        this.$composerMode = composerMode;
+        this.$trailingAction = g0v;
+        this.$waveformBuffer = waveformBuffer;
+        this.$isSendEnabled = z;
+        this.$isSendBlocked = z2;
+        this.$userMessageBubbleColor = j;
+        this.$userMessageTextColor = j2;
+        this.$pendingImageUris = ahd;
+        this.$pendingFileUris = ahd2;
+        this.$uploadingFileUris = bqi;
+        this.$failedUploadUris = bqi2;
+        this.$linkAttachmentUrls = ahd3;
+        this.$onRemoveLinkAttachment = g0u;
+        this.$onSendClick = function0;
+        this.$onDictationSend = function02;
+        this.$onCancelDictation = function03;
+        this.$onDictationStop = function04;
+        this.$onGalleryClick = function05;
+        this.$onCameraClick = function06;
+        this.$onFilesClick = function07;
+        this.$onVideoClick = function08;
+        this.$allowsFileAttachments = function09;
+        this.$onAddImageUris = g0u2;
+        this.$onClearImageClick = g0u3;
+        this.$onClearFileClick = g0u4;
+        this.$onRetryUpload = g0u5;
+        this.$onAttachmentClick = g0u6;
+        this.$onMicTap = function010;
+        this.$onMicHold = function011;
+        this.$showMicButton = z3;
+        this.$canAppendDictation = function012;
+        this.$micFocusRequests = c20q;
+        this.$hintText = str;
+        this.$nameHintText = str2;
+        this.$pendingDiscussionItemPreview = bitmap;
+        this.$focusRequester = c1518AkS;
+        this.$attachButtonFocusRequester = c1518AkS2;
+        this.$replyPreview = str3;
+        this.$replyPreviewImageUrl = str4;
+        this.$onReplyPreviewClick = function013;
+        this.$onClearReply = function014;
+        this.$contextChipTitle = str5;
+        this.$contextChipEyebrow = str6;
+        this.$onClearContextChip = function015;
+        this.$isCancelableActivity = z4;
+        this.$isAwaitingResponse = z5;
+        this.$isLiveSessionActive = z6;
+        this.$onStopClick = function016;
+        this.$isPrimaryThread = z7;
+        this.$threadId = str7;
+        this.$entryPoint = hatchComposerEntryPoint;
+        this.$modifier = bRg;
+        this.$showAttachmentButton = z8;
+        this.$showOnlyCameraIcon = z9;
+        this.$showScreenshotButton = z10;
+        this.$onScreenshotClick = function017;
+        this.$prefixText = str8;
+        this.$attachmentsAboveInput = z11;
+        this.$captureActionsInPlusMenu = z12;
+        this.$mainRowHorizontalPadding = f;
+        this.$linkPreview = g2k;
+        this.$$changed = i;
+        this.$$changed1 = i2;
+        this.$$changed2 = i3;
+        this.$$changed3 = i4;
+        this.$$changed4 = i5;
+        this.$$changed5 = i6;
+        this.$$changed6 = i7;
+        this.$$default = i8;
+        this.$$default1 = i9;
+        this.$$default2 = i10;
+    }
+
+    public final void invoke(BFM bfm, int i) {
+        HatchComposerKt.m434TextInputComposerzeFyvcw(this.$state, this.$layoutResetKey, this.$composerMode, this.$trailingAction, this.$waveformBuffer, this.$isSendEnabled, this.$isSendBlocked, this.$userMessageBubbleColor, this.$userMessageTextColor, this.$pendingImageUris, this.$pendingFileUris, this.$uploadingFileUris, this.$failedUploadUris, this.$linkAttachmentUrls, this.$onRemoveLinkAttachment, this.$onSendClick, this.$onDictationSend, this.$onCancelDictation, this.$onDictationStop, this.$onGalleryClick, this.$onCameraClick, this.$onFilesClick, this.$onVideoClick, this.$allowsFileAttachments, this.$onAddImageUris, this.$onClearImageClick, this.$onClearFileClick, this.$onRetryUpload, this.$onAttachmentClick, this.$onMicTap, this.$onMicHold, this.$showMicButton, this.$canAppendDictation, this.$micFocusRequests, this.$hintText, this.$nameHintText, this.$pendingDiscussionItemPreview, this.$focusRequester, this.$attachButtonFocusRequester, this.$replyPreview, this.$replyPreviewImageUrl, this.$onReplyPreviewClick, this.$onClearReply, this.$contextChipTitle, this.$contextChipEyebrow, this.$onClearContextChip, this.$isCancelableActivity, this.$isAwaitingResponse, this.$isLiveSessionActive, this.$onStopClick, this.$isPrimaryThread, this.$threadId, this.$entryPoint, this.$modifier, this.$showAttachmentButton, this.$showOnlyCameraIcon, this.$showScreenshotButton, this.$onScreenshotClick, this.$prefixText, this.$attachmentsAboveInput, this.$captureActionsInPlusMenu, this.$mainRowHorizontalPadding, this.$linkPreview, bfm, AnonymousClass011.A00(this.$$changed), AnonymousClass011.A01(this.$$changed1), AnonymousClass011.A01(this.$$changed2), AnonymousClass011.A01(this.$$changed3), AnonymousClass011.A01(this.$$changed4), AnonymousClass011.A01(this.$$changed5), AnonymousClass011.A01(this.$$changed6), this.$$default, this.$$default1, this.$$default2);
+    }
+}

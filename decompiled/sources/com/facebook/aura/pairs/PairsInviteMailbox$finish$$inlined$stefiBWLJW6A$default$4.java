@@ -1,0 +1,28 @@
+package com.facebook.aura.pairs;
+
+import X.AbstractC7559F3s;
+import X.C9e0;
+import X.C9hr;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* renamed from: com.facebook.aura.pairs.PairsInviteMailbox$finish$$inlined$stefi-BWLJW6A$default$4, reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class PairsInviteMailbox$finish$$inlined$stefiBWLJW6A$default$4 extends AbstractC7559F3s implements Function0<C9hr<Unit>> {
+    public static final PairsInviteMailbox$finish$$inlined$stefiBWLJW6A$default$4 INSTANCE = new PairsInviteMailbox$finish$$inlined$stefiBWLJW6A$default$4();
+
+    public PairsInviteMailbox$finish$$inlined$stefiBWLJW6A$default$4() {
+        super(0);
+    }
+
+    /* JADX WARN: Can't rename method to resolve collision */
+    @Override // kotlin.jvm.functions.Function0
+    public final C9hr<Unit> invoke() {
+        return C9e0.A01;
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ C9hr<Unit> invoke() {
+        return C9e0.A01;
+    }
+}

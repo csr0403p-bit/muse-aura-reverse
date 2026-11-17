@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">%1$d ঘণ্টার মধ্যে মেয়াদ শেষ হবে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">%1$d মিনিটের মধ্যে মেয়াদ শেষ হয়ে যাবে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">একটি কাজ রিভিউ করতে হবে</item>
+        <item quantity="other">%1$dটি কাজ রিভিউ করতে হবে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$dটি অন্তর্ভুক্ত করা হয়েছে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d জন যাত্রী</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d রাত</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$dটি কাজ রিভিউ করতে হবে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d দিন আগে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d ঘণ্টা আগে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d মিনিট আগে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="other">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">%1$s এবং আরও %2$d জনের সাথে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d জন অতিথি</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="other">%1$d রাত</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="other">%1$dটি রিভিউ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">আরও %1$dটি অ্যাকাউন্ট উপলভ্য</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="other">%1$s এবং অন্য %2$dটি প্রোফাইল</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="other">%1$dটি প্রোফাইলের কাছে %2$s-এর অ্যাক্সেস থাকবে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$dটি গাড়ি</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">%1$dটি বড় ব্যাগ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s কিমি অন্তর্ভুক্ত</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s মাইল অন্তর্ভুক্ত</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$dটি সীট</item>
+        <item quantity="other">%1$dটি সিট</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">%1$dটি গাড়ি দেখুন</item>
+        <item quantity="other">%1$dটি গাড়ির মধ্যে সবকটি দেখুন</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$dটি স্মল ব্যাগ</item>
+        <item quantity="other">%1$dটি ছোট ব্যাগ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">আরও +%1$dটি</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="other">%1$s · %2$dটি আইটেম</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="other">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">%1$d জন ব্যক্তির সাথে শেয়ার করা হয়েছে</item>
+        <item quantity="other">%1$d জনের সাথে শেয়ার করা হয়েছে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d জন সহযোগী</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="other">%1$d জন ব্যক্তি</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$dটি স্পেস</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">আপনি নিজের %1$sটি টোকেন রাখতে পারবেন</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">আর %1$d বার চেষ্টা করা যাবে। আপনার পিন ভুল হলে, আপনি অ্যাক্সেস হারাবেন।</item>
+        <item quantity="other">আপনাকে লক আউট করে দেওয়ার আগে আর %1$d বার চেষ্টা করতে পারবেন।</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">ভুল পিন। আপনার কাছে %1$dটি চেষ্টা বাকি আছে।</item>
+        <item quantity="other">ভুল পিন। আপনার কাছে %1$dটি চেষ্টা বাকি রয়েছে।</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">%1$dটি নিষ্ক্রিয় দেখান</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">আপনার ও আরও %1$d জনের সাথে একটি স্পেস শেয়ার করেছেন।</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">বিকল্প %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="other">%1$dটি ছবি ব্যবহার করুন</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$dটি ব্রাউজার সম্পর্কিত কাজ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">কোডটি সঠিক নয়। আর %1$d বার চেষ্টা করতে পারবেন।</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$dটি অন্তর্ভুক্ত করা হয়েছে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">ফ্লাইট নিশ্চিত করুন</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$dটি ক্যারি-অন ব্যাগ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$dটি চেক ব্যাগ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">%1$d জন ভ্রমণকারী</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="other">%1$dটি স্টপ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">আরও %1$dটি দেখান</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">%1$dটি কানেক্টর</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">আরও %1$dটি কাজ</item>
+        <item quantity="other">আরও +%1$dটি কাজ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="other">আরও %1$dটি ভিডিও</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">%1$d দিন পর্যন্ত ফ্রি রিটার্নের সুবিধা</item>
+        <item quantity="other">%1$d দিন পর্যন্ত ফ্রিতে রিটার্ন করার সুবিধা</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d-দিনের মধ্যে রিটার্নের সুবিধা</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d জন সহযোগী</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">%2$dটি কাজের মধ্যে %1$dটি কাজ সম্পূর্ণ হয়েছে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$dটি অ্যাকাউন্ট</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d জন সহযোগী</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="other">%1$dটি শিডিউল করা কাজ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="other">প্রতি %1$d ঘণ্টায়</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">প্রতি %1$d মিনিটে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">প্রতি %1$d সেকেন্ডে</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">%1$dটি ফাইল চিরতরে মুছতে চান?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">%1$dটি ফাইল মুছুন</item>
+    </plurals>
+</resources>

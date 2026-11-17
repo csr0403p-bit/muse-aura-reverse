@@ -1,0 +1,101 @@
+package X;
+
+import java.util.Collections;
+import java.util.Set;
+
+/* renamed from: X.DxI, reason: case insensitive filesystem */
+/* loaded from: classes5.dex */
+public final class C6175DxI {
+    public static final C6175DxI A0i = new C6175DxI(Collections.EMPTY_SET, -2, 18, 6, 3, 6, 0, 1000, 0, 3, 64, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false);
+    public final int A00;
+    public final int A01;
+    public final int A02;
+    public final int A03;
+    public final int A04;
+    public final int A05;
+    public final int A06;
+    public final int A07;
+    public final int A08;
+    public final int A09;
+    public final Set<String> A0A;
+    public final boolean A0B;
+    public final boolean A0C;
+    public final boolean A0D;
+    public final boolean A0E;
+    public final boolean A0F;
+    public final boolean A0G;
+    public final boolean A0H;
+    public final boolean A0I;
+    public final boolean A0J;
+    public final boolean A0K;
+    public final boolean A0L;
+    public final boolean A0M;
+    public final boolean A0N;
+    public final boolean A0O;
+    public final boolean A0P;
+    public final boolean A0Q;
+    public final boolean A0R;
+    public final boolean A0S;
+    public final boolean A0T;
+    public final boolean A0U;
+    public final boolean A0V;
+    public final boolean A0W;
+    public final boolean A0X;
+    public final boolean A0Y;
+    public final boolean A0Z;
+    public final boolean A0a;
+    public final boolean A0b;
+    public final boolean A0c;
+    public final boolean A0d;
+    public final boolean A0e;
+    public final boolean A0f;
+    public final boolean A0g;
+    public final boolean A0h;
+
+    public C6175DxI(Set set, int i, int i2, int i3, int i4, int i5, int i6, int i7, int i8, int i9, int i10, boolean z, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6, boolean z7, boolean z8, boolean z9, boolean z10, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, boolean z18, boolean z19, boolean z20, boolean z21, boolean z22, boolean z23, boolean z24, boolean z25, boolean z26, boolean z27, boolean z28, boolean z29, boolean z30, boolean z31, boolean z32, boolean z33) {
+        this.A0a = z26;
+        this.A0Y = z24;
+        this.A03 = i4;
+        this.A04 = i5;
+        this.A0g = z32;
+        this.A0f = z31;
+        this.A0L = z11;
+        this.A0c = z28;
+        this.A0U = z20;
+        this.A0V = z21;
+        this.A06 = i7;
+        this.A0Q = z16;
+        this.A0b = z27;
+        this.A0d = z29;
+        this.A09 = i10;
+        this.A08 = i9;
+        this.A0P = z15;
+        this.A00 = i;
+        this.A01 = i2;
+        this.A02 = i3;
+        this.A0S = z18;
+        this.A0C = z2;
+        this.A0h = z33;
+        this.A0D = z3;
+        this.A0Z = z25;
+        this.A0T = z19;
+        this.A05 = i6;
+        this.A0O = z14;
+        this.A0M = z12;
+        this.A0N = z13;
+        this.A0B = z;
+        this.A07 = i8;
+        this.A0e = z30;
+        this.A0F = z5;
+        this.A0W = z22;
+        this.A0X = z23;
+        this.A0R = z17;
+        this.A0J = z9;
+        this.A0K = z10;
+        this.A0G = z6;
+        this.A0I = z8;
+        this.A0H = z7;
+        this.A0E = z4;
+        this.A0A = set;
+    }
+}

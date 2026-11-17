@@ -1,0 +1,29 @@
+{
+  "built_in": [],
+  "downloadable": [
+    {
+      "disabled": false,
+      "hash": "a1a96b515af6820dbf7e684fee619b6636c28c5b4640426734d4eb8e94e0a139",
+      "name": "browser_engine",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d186e6f7b0206a3899c6777943d6b47fe4af8c91902ca0d3b60b69aeb8446b1c",
+      "name": "internal_settings",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "c97a9d3916bf18caa2fffce05aaca555ca46a1d691ebc06b1baa03a8fa83bc16",
+      "name": "maps_native",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "e463e47ab492749a487eabbed8df4eb358974751648f69ba7220d4b6536ecf04",
+      "name": "mlkit_face_detection",
+      "requires_native": true
+    }
+  ]
+}

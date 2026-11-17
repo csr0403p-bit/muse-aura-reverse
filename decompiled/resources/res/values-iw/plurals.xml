@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">יפוג בעוד שעה אחת (%1$d)</item>
+        <item quantity="other">יפוג בעוד %1$d שעות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">יפוג בעוד דקה אחת %1$d</item>
+        <item quantity="other">יפוג בעוד %1$d דקות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">יש משימה שדורשת בדיקה</item>
+        <item quantity="other">‏%1$d משימות מחכות לבדיקה</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d נכללו</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">נוסע %1$d</item>
+        <item quantity="other">%1$d נוסעים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="other">%1$d לילות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">משימה אחת (%1$d) מחכה לבדיקה</item>
+        <item quantity="other">‏%1$d משימות מחכות לבדיקה</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">לפני %1$d ימים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">לפני %1$d שעות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">לפני %1$d דק&apos;</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">פריט אחד (%1$d)</item>
+        <item quantity="other">‏%1$d פריטים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">עם %1$s ו-%2$d נוסף</item>
+        <item quantity="other">עם %1$s ו-%2$d נוספים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">אורח %1$d</item>
+        <item quantity="other">%1$d אורחים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">לילה %1$d</item>
+        <item quantity="other">%1$d לילות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">‫%1$d ביקורות</item>
+        <item quantity="other">‏%1$d ביקורות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="other">יש עוד %1$d חשבונות זמינים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s ופרופיל %2$d נוסף</item>
+        <item quantity="other">%1$s ו-%2$d פרופילים נוספים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">לפרופיל ‏%1$d תהיה גישה לאפליקציית %2$s</item>
+        <item quantity="other">ל-%1$d פרופילים תהיה גישה לאפליקציה %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">מכונית אחת (%1$d)</item>
+        <item quantity="other">%1$d מכוניות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">מזוודה גדולה אחת (%1$d)</item>
+        <item quantity="other">%1$d מזוודות גדולות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s כ&quot;מ כלולים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">%1$s מייל כלולים</item>
+        <item quantity="other">%1$s מיילים כלולים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d מושב</item>
+        <item quantity="other">%1$d מושבים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">הצגת מכונית אחת (%1$d)</item>
+        <item quantity="other">לראות את כל %1$d המכוניות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">תיק קטן אחד (%1$d)</item>
+        <item quantity="other">%1$d תיקים קטנים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">ועוד %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · פריט %2$d</item>
+        <item quantity="other">%1$s · %2$d פריטים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">פריט %1$d</item>
+        <item quantity="other">%1$d פריטים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">שותף עם %1$d אדם</item>
+        <item quantity="other">שותף עם %1$d אנשים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">שותף %1$d</item>
+        <item quantity="other">‏%1$d שותפים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">אדם אחד (%1$d)</item>
+        <item quantity="other">%1$d אנשים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">מרחב %1$d</item>
+        <item quantity="other">%1$d מרחבים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">האסימון %1$s יישאר אצלך</item>
+        <item quantity="other">האסימונים %1$s יישארו</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">נותר ניסיון אחד (%1$d). אם קוד ה-PIN שגוי, הגישה שלך תיחסם.</item>
+        <item quantity="other">נותרו %1$d ניסיונות לפני שהגישה תיחסם.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="other">קוד ה-PIN שגוי. נותרו לך %1$d ניסיונות.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">הצגת %1$d שאינם פעילים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">שיתפ/ה מרחב איתך ועם %1$d נוספים.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">אפשרות %1$s</item>
+        <item quantity="other">אפשרויות %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">שימוש בתמונה %1$d</item>
+        <item quantity="other">שימוש ב-%1$d תמונות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d משימות דפדפן</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="other">הקוד הזה שגוי. נותרו %1$d ניסיונות.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d נכללו</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">אישור טיסה</item>
+        <item quantity="other">אישור טיסות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">תיק נשיאה %1$d</item>
+        <item quantity="other">%1$d תיקי נשיאה</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">מזוודה אחת (%1$d) בבדיקה</item>
+        <item quantity="other">%1$d מזוודות מופקדות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">נוסע %1$d</item>
+        <item quantity="other">%1$d נוסעים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">עצירה %1$d</item>
+        <item quantity="other">%1$d עצירות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">להציג עוד %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">חיבור אחד (%1$d)</item>
+        <item quantity="other">‏%1$d חיבורים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+ משימה אחת (%1$d) נוספת</item>
+        <item quantity="other">+%1$d משימות נוספות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">עוד סרטון אחד (%1$d)</item>
+        <item quantity="other">%1$d סרטונים נוספים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">החזרות בחינם למשך %1$d יום</item>
+        <item quantity="other">החזרות בחינם למשך %1$d ימים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">החזרות בטווח של %1$d ימים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">שותף %1$d</item>
+        <item quantity="other">‏%1$d שותפים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">פריט אחד (%1$d)</item>
+        <item quantity="other">%1$d פריטים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="other">בוצעו %1$d מתוך %2$d משימות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">‏%1$d חשבון</item>
+        <item quantity="other">‏%1$d חשבונות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">שותף אחד (%1$d)</item>
+        <item quantity="other">%1$d שותפים</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">משימה מתוזמנת %1$d</item>
+        <item quantity="other">‏%1$d משימות מתוזמנות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">כל שעה אחת (%1$d)</item>
+        <item quantity="other">כל %1$d שעות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">כל דקה %1$d</item>
+        <item quantity="other">כל %1$d דקות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">כל שנייה %1$d</item>
+        <item quantity="other">כל %1$d שניות</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">למחוק קובץ אחד (%1$d) לצמיתות?</item>
+        <item quantity="other">למחוק %1$d קבצים לצמיתות?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">מחיקת קובץ אחד (%1$d)</item>
+        <item quantity="other">מחיקת%1$d קבצים</item>
+    </plurals>
+</resources>

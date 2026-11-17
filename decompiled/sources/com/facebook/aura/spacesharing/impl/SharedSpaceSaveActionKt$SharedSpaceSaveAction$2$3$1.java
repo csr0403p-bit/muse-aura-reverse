@@ -1,0 +1,23 @@
+package com.facebook.aura.spacesharing.impl;
+
+import X.C7438Evz;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes3.dex */
+public final /* synthetic */ class SharedSpaceSaveActionKt$SharedSpaceSaveAction$2$3$1 extends C7438Evz implements Function0<Unit> {
+    public SharedSpaceSaveActionKt$SharedSpaceSaveAction$2$3$1(Object obj) {
+        super(0, obj, SharedSpaceSaveViewModel.class, "onPrimaryAction", "onPrimaryAction()V", 0);
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        ((SharedSpaceSaveViewModel) this.receiver).onPrimaryAction();
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+}

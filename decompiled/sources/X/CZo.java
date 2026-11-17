@@ -1,0 +1,12 @@
+package X;
+
+/* loaded from: classes5.dex */
+public enum CZo {
+    FB_INSTALLER_OLD_SIGN,
+    FB_INSTALLER_NEW_SIGN,
+    FB_INSTALLER_UPDATE_ONLY_SIGN,
+    FB_INSTALLER_OEM_SIGN,
+    FB_INSTALLER_UNKNOWN_SIGN,
+    FB_DEVICE_OWNER,
+    TRITIUM
+}

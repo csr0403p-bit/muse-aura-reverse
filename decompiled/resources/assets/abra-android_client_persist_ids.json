@@ -1,0 +1,50 @@
+{
+  "ABRARegisterPushTokenMutation": {
+    "client_doc_id": "4031729182130553690036888407",
+    "schema": "abra"
+  },
+  "ABRAUnregisterPushTokenMutation": {
+    "client_doc_id": "261641195412177938380645681928",
+    "schema": "abra"
+  },
+  "AuraDebugSetHatchWaitlistStatusMutation": {
+    "client_doc_id": "324136601411192291745328099292",
+    "schema": "abra"
+  },
+  "DCPCreatePurchaseQuoteMutation": {
+    "client_doc_id": "36651592974662623831280499052",
+    "schema": "abra"
+  },
+  "DCPCreatePurchasedOrderMutation": {
+    "client_doc_id": "31731260367471479066332490105",
+    "schema": "abra"
+  },
+  "DCPFulfillIAPTransactionsMutation": {
+    "client_doc_id": "4317662308953256518531366636",
+    "schema": "abra"
+  },
+  "DCPInternalSandboxCreateSessionMutation": {
+    "client_doc_id": "56308500910524029313785218266",
+    "schema": "abra"
+  },
+  "DCPProductInfoQuery": {
+    "client_doc_id": "180519934416907117579165793222",
+    "schema": "abra"
+  },
+  "IACQueryProductInfo": {
+    "client_doc_id": "9007973791558341972822525003",
+    "schema": "abra"
+  },
+  "IACQuoteDisplay": {
+    "client_doc_id": "185284933112586179377216587254",
+    "schema": "abra"
+  },
+  "IACSandboxPlatformMode": {
+    "client_doc_id": "36559885119811150252593278954",
+    "schema": "abra"
+  },
+  "MetaPlaceDetails": {
+    "client_doc_id": "997993706113575029788106515",
+    "schema": "abra"
+  }
+}

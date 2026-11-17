@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Vervalt over %1$d uur</item>
+        <item quantity="other">Verloopt over %1$d uur</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Vervalt over %1$d minuut</item>
+        <item quantity="other">Verloopt over %1$d minuten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">Een taak moet worden beoordeeld</item>
+        <item quantity="other">%1$d taken moeten worden beoordeeld</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d inbegrepen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d passagier</item>
+        <item quantity="other">%1$d passagiers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d nacht</item>
+        <item quantity="other">%1$d nachten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d taak moet worden beoordeeld</item>
+        <item quantity="other">%1$d taken moeten worden beoordeeld</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d d geleden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d u geleden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d m geleden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">Met %1$s en %2$d andere persoon</item>
+        <item quantity="other">Met %1$s en %2$d anderen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d gast</item>
+        <item quantity="other">%1$d gasten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d nacht</item>
+        <item quantity="other">%1$d nachten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d beoordeling</item>
+        <item quantity="other">%1$d beoordelingen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">Nog %1$d account beschikbaar</item>
+        <item quantity="other">Nog %1$d accounts beschikbaar</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s en %2$d ander profiel</item>
+        <item quantity="other">%1$s en %2$d andere profielen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profiel krijgt toegang tot %2$s</item>
+        <item quantity="other">%1$d profielen krijgen toegang tot %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d auto</item>
+        <item quantity="other">%1$d auto&apos;s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d grote koffer</item>
+        <item quantity="other">%1$d grote koffers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km inbegrepen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s mijl inbegrepen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d zitplaats</item>
+        <item quantity="other">%1$d zitplaatsen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">%1$d auto bekijken</item>
+        <item quantity="other">Alle %1$d auto&apos;s weergeven</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d kleine tas</item>
+        <item quantity="other">%1$d kleine tassen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+ nog %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Gedeeld met %1$d persoon</item>
+        <item quantity="other">Gedeeld met %1$d mensen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d samenwerker</item>
+        <item quantity="other">%1$d samenwerkers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d persoon</item>
+        <item quantity="other">%1$d mensen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d ruimte</item>
+        <item quantity="other">%1$d ruimtes</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Je behoudt je %1$s token</item>
+        <item quantity="other">Je behoudt je %1$s tokens</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d poging resterend. Als je pincode onjuist is, word je geblokkeerd.</item>
+        <item quantity="other">Nog %1$d pogingen voordat je geen toegang meer hebt.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">Onjuiste pincode. Je hebt nog %1$d poging.</item>
+        <item quantity="other">Onjuiste pincode. Je kunt nog %1$d pogingen doen.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">%1$d inactieve weergeven</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Heeft een ruimte gedeeld met jou en %1$d andere persoon.</item>
+        <item quantity="other">Heeft een ruimte gedeeld met jou en %1$d anderen.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Optie %1$s</item>
+        <item quantity="other">Opties %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">%1$d afbeelding gebruiken</item>
+        <item quantity="other">%1$d afbeeldingen gebruiken</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d browsertaak</item>
+        <item quantity="other">%1$d browsertaken</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">Deze code is onjuist. Je hebt nog %1$d poging.</item>
+        <item quantity="other">Deze code is onjuist. Je hebt nog %1$d pogingen.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d inbegrepen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Vlucht bevestigen</item>
+        <item quantity="other">Vluchten bevestigen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d handbagageartikel</item>
+        <item quantity="other">%1$d handbagageartikelen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d ingecheckte tas</item>
+        <item quantity="other">%1$d koffers gecontroleerd</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d reiziger</item>
+        <item quantity="other">%1$d reizigers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Nog %1$d weergeven</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+ nog %1$d taak</item>
+        <item quantity="other">+ nog %1$d taken</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">Nog %1$d video</item>
+        <item quantity="other">Nog %1$d video&apos;s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">%1$d dag gratis retourneren</item>
+        <item quantity="other">%1$d dagen gratis retourneren</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Retourneren binnen %1$d dagen</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d samenwerker</item>
+        <item quantity="other">%1$d samenwerkers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d van %2$d taak voltooid</item>
+        <item quantity="other">%1$d van %2$d taken voltooid</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d samenwerker</item>
+        <item quantity="other">%1$d samenwerkers</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d geplande taak</item>
+        <item quantity="other">%1$d geplande taken</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">Elk %1$d uur</item>
+        <item quantity="other">Elke %1$d uur</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">Elke %1$d minuut</item>
+        <item quantity="other">Elke %1$d minuten</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">Elke %1$d seconde</item>
+        <item quantity="other">Elke %1$d seconden</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">%1$d bestand permanent verwijderen?</item>
+        <item quantity="other">%1$d bestanden permanent verwijderen?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">%1$d bestand verwijderen</item>
+        <item quantity="other">%1$d bestanden verwijderen</item>
+    </plurals>
+</resources>

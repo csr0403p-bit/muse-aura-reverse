@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Scade tra %1$d ora</item>
+        <item quantity="other">Scade tra %1$d ore</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Scade tra %1$d minuto</item>
+        <item quantity="other">Scade fra %1$d minuti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">Un&apos;attività deve essere controllata</item>
+        <item quantity="other">%1$d attività da controllare</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d inclusi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d passeggero</item>
+        <item quantity="other">%1$d passeggeri</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d notte</item>
+        <item quantity="other">%1$d notti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="other">%1$d attività da controllare</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d g fa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d h fa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d min fa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d articolo</item>
+        <item quantity="other">%1$d articoli</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="one">Con %1$s e %2$d altra persona</item>
+        <item quantity="other">Con %1$s e altri %2$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d ospite</item>
+        <item quantity="other">Ospiti: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d notte</item>
+        <item quantity="other">%1$d notti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d recensione</item>
+        <item quantity="other">%1$d recensioni</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">%1$d altro account disponibile</item>
+        <item quantity="other">Altri %1$d account disponibili</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s e %2$d altro profilo</item>
+        <item quantity="other">%1$s e altri %2$d profili</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profilo avrà accesso a %2$s</item>
+        <item quantity="other">%1$d profili avranno accesso a %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$d auto</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d valigia grande</item>
+        <item quantity="other">%1$d valigie grandi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km inclusi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s mi incluse</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d posto</item>
+        <item quantity="other">%1$d posti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Vedi %1$d auto</item>
+        <item quantity="other">Vedi tutte le %1$d auto</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d borsa piccola</item>
+        <item quantity="other">%1$d borse piccole</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">Ancora %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · %2$d articolo</item>
+        <item quantity="other">%1$s · Articoli: %2$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d articolo</item>
+        <item quantity="other">%1$d articoli</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Condivisa con %1$d persona</item>
+        <item quantity="other">Condivisa con %1$d persone</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d collaboratore</item>
+        <item quantity="other">%1$d collaboratori</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d persona</item>
+        <item quantity="other">%1$d persone</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d spazio</item>
+        <item quantity="other">%1$d spazi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="one">Conserverai %1$s token</item>
+        <item quantity="other">Conserverai i tuoi %1$s token</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d tentativo rimanente. Se il tuo PIN è errato, non potrai più accedere.</item>
+        <item quantity="other">%1$d tentativi rimanenti prima che l&apos;account venga bloccato.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">PIN errato. Hai %1$d altro tentativo rimanente.</item>
+        <item quantity="other">PIN errato. Hai %1$d altri tentativi rimanenti.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Mostra %1$d non attivi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Ha condiviso uno spazio con te e %1$d altra persona.</item>
+        <item quantity="other">Ha condiviso uno spazio con te e altri %1$d.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Opzione %1$s</item>
+        <item quantity="other">Opzioni %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Usa %1$d immagine</item>
+        <item quantity="other">Usa %1$d immagini</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">%1$d attività del browser</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">Il codice non è corretto. Ti rimane %1$d tentativo.</item>
+        <item quantity="other">Il codice non è corretto. Ti rimangono %1$d tentativi.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d inclusi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Conferma volo</item>
+        <item quantity="other">Conferma voli</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d bagaglio a mano</item>
+        <item quantity="other">%1$d bagagli a mano</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="one">%1$d bagaglio registrato</item>
+        <item quantity="other">%1$d bagagli da stiva</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="other">Viaggiatori: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d fermata</item>
+        <item quantity="other">%1$d fermate</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Mostra altre %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d connettore</item>
+        <item quantity="other">%1$d connettori</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d altra attività</item>
+        <item quantity="other">+ altre %1$d attività</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">%1$d altro video</item>
+        <item quantity="other">Altri %1$d video</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Resi gratuiti per %1$d giorno</item>
+        <item quantity="other">Resi gratuiti per %1$d giorni</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Resi entro %1$d giorni</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d collaboratore</item>
+        <item quantity="other">%1$d collaboratori</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d articolo</item>
+        <item quantity="other">%1$d elementi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">Attività completata: %1$d di %2$d</item>
+        <item quantity="other">Attività completate: %1$d di %2$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="other">%1$d account</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d collaboratore</item>
+        <item quantity="other">%1$d collaboratori</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d attività programmata</item>
+        <item quantity="other">%1$d attività programmate</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">Ogni %1$d ora</item>
+        <item quantity="other">Ogni %1$d ore</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">Ogni %1$d minuto</item>
+        <item quantity="other">Ogni %1$d minuti</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">Ogni %1$d secondo</item>
+        <item quantity="other">Ogni %1$d secondi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Vuoi eliminare %1$d file in modo definitivo?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">Elimina %1$d file</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_name_removed__res_0x7f130024" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:enforceNavigationBarContrast">true</item>
+        <item name="_name_removed__res_0x7f0402b9">?android:attr/isLightTheme</item>
+    </style>
+    <style name="_name_removed__res_0x7f130086" parent="@style/_name_removed__res_0x7f13000c">
+        <item name="android:padding">16dp</item>
+        <item name="android:clipToOutline">true</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c9" parent="@style/_name_removed__res_0x7f1300ce">
+        <item name="android:statusBarColor">#ffffff</item>
+        <item name="android:navigationBarColor">#ffffff</item>
+        <item name="android:windowSplashScreenBackground">#ffffff</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/hatch_splash_logo_padded</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/hatch_splash_brand</item>
+        <item name="_name_removed__res_0x7f040465">@style/_name_removed__res_0x7f1300c6</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300ce" parent="@style/_name_removed__res_0x7f130025">
+        <item name="android:windowSplashScreenBackground">?attr/_name_removed__res_0x7f040621</item>
+        <item name="android:windowSplashScreenAnimatedIcon">?attr/_name_removed__res_0x7f04061f</item>
+        <item name="android:windowSplashScreenAnimationDuration">?attr/_name_removed__res_0x7f040620</item>
+    </style>
+</resources>

@@ -1,0 +1,31 @@
+package com.facebook.aura.feed.view;
+
+import X.AbstractC7559F3s;
+import X.C1805ArO;
+import X.C7384Etj;
+import X.G0U;
+import androidx.compose.runtime.MutableState;
+import kotlin.Unit;
+
+/* loaded from: classes.dex */
+public final class FeedTabScreenKt$FeedTabScreen$10$1$1 extends AbstractC7559F3s implements G0U<C1805ArO, Unit> {
+    public final /* synthetic */ MutableState<C1805ArO> $promptText$delegate;
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2(C1805ArO c1805ArO) {
+        C7384Etj.A0Y(c1805ArO, 0);
+        this.$promptText$delegate.Af8(c1805ArO);
+    }
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public FeedTabScreenKt$FeedTabScreen$10$1$1(MutableState<C1805ArO> mutableState) {
+        super(1);
+        this.$promptText$delegate = mutableState;
+    }
+
+    @Override // X.G0U
+    public /* bridge */ /* synthetic */ Unit invoke(C1805ArO c1805ArO) {
+        invoke2(c1805ArO);
+        return Unit.INSTANCE;
+    }
+}

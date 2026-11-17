@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_name_removed__res_0x7f120cd1">לא מותקן דפדפן אינטרנט במכשיר, לא ניתן לפתוח את דף האינטרנט.</string>
+    <string name="_name_removed__res_0x7f120cd2">MapLibre Android</string>
+    <string name="_name_removed__res_0x7f120cd3">סמל שיוך. הפעל כדי להציג תיבת דו-שיח של שיוך.</string>
+    <string name="_name_removed__res_0x7f120cd4">מצפן. הפעל בכדי לקבע את כיוון המפה צפונה.</string>
+    <string name="_name_removed__res_0x7f120cd5">מציג מפה שנוצרה עם MapLibre. גלול באמצעות גרירה עם שתי אצבעות, זום באמצעות צביטה עם שתי אצבעות.</string>
+    <string name="_name_removed__res_0x7f120cd6">בתנאי ש- OfflineRegionDefinition אינו מתאים לגבולות העולם: %s</string>
+</resources>

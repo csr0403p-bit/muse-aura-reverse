@@ -1,0 +1,34 @@
+package com.facebook.aura.rentalcars;
+
+import X.AbstractC7559F3s;
+import android.content.Context;
+import androidx.compose.runtime.MutableState;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes3.dex */
+public final class RentalCarDetailsSectionsKt$RentalCarLocationRows$2$1$1 extends AbstractC7559F3s implements Function0<Unit> {
+    public final /* synthetic */ Context $context;
+    public final /* synthetic */ RentalCarLocation $location;
+    public final /* synthetic */ MutableState<RentalCarLocation> $mapsLocation$delegate;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public RentalCarDetailsSectionsKt$RentalCarLocationRows$2$1$1(Context context, RentalCarLocation rentalCarLocation, MutableState<RentalCarLocation> mutableState) {
+        super(0);
+        this.$context = context;
+        this.$location = rentalCarLocation;
+        this.$mapsLocation$delegate = mutableState;
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        this.$mapsLocation$delegate.Af8(null);
+        RentalCarDetailsSectionsKt.openRentalCarMaps(this.$context, this.$location);
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        invoke2();
+        return Unit.INSTANCE;
+    }
+}

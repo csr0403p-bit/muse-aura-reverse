@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/_name_removed__res_0x7f130089">
+    <include layout="@layout/_name_removed__res_0x7f0d0054"/>
+    <include layout="@layout/_name_removed__res_0x7f0d0055"/>
+    <include layout="@layout/_name_removed__res_0x7f0d0056"/>
+</FrameLayout>

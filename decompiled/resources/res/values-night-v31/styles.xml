@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_name_removed__res_0x7f1300c9" parent="@style/_name_removed__res_0x7f1300ce">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowSplashScreenBackground">#000000</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/hatch_splash_logo_padded</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/hatch_splash_brand</item>
+        <item name="_name_removed__res_0x7f040465">@style/_name_removed__res_0x7f1300c6</item>
+    </style>
+</resources>

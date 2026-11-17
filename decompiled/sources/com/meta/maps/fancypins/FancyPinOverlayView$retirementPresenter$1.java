@@ -1,0 +1,40 @@
+package com.meta.maps.fancypins;
+
+import X.C3cI;
+import X.C7384Etj;
+import X.C7438Evz;
+import X.Ht9;
+import X.InterfaceC2349BUy;
+import java.util.List;
+import java.util.Set;
+
+/* loaded from: classes6.dex */
+public final /* synthetic */ class FancyPinOverlayView$retirementPresenter$1 implements InterfaceC2349BUy, FancyPinRetirementPresenter {
+    public final /* synthetic */ FancyPinOverlayView $tmp0;
+
+    @Override // com.meta.maps.fancypins.FancyPinRetirementPresenter
+    public final Set<FancyPinRetirement> present(List<FancyPinRetirement> list) {
+        C7384Etj.A0Y(list, 0);
+        return this.$tmp0.presentRetirements(list);
+    }
+
+    public FancyPinOverlayView$retirementPresenter$1(FancyPinOverlayView fancyPinOverlayView) {
+        this.$tmp0 = fancyPinOverlayView;
+    }
+
+    public final boolean equals(Object obj) {
+        if ((obj instanceof FancyPinRetirementPresenter) && (obj instanceof InterfaceC2349BUy)) {
+            return C3cI.A1V(obj, getFunctionDelegate());
+        }
+        return false;
+    }
+
+    @Override // X.InterfaceC2349BUy
+    public final Ht9<?> getFunctionDelegate() {
+        return new C7438Evz(1, this.$tmp0, FancyPinOverlayView.class, "presentRetirements", "presentRetirements(Ljava/util/List;)Ljava/util/Set;", 0);
+    }
+
+    public final int hashCode() {
+        return getFunctionDelegate().hashCode();
+    }
+}

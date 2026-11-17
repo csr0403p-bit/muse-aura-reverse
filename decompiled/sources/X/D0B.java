@@ -1,0 +1,12 @@
+package X;
+
+/* loaded from: classes5.dex */
+public final class D0B implements InterfaceC3288C9m {
+    public static final D0B A00 = new D0B();
+    public static final C2580BeF A01 = Cx8.A0V("errorCode");
+
+    @Override // X.C9k
+    public final /* bridge */ /* synthetic */ void AA4(Object obj, InterfaceC3892CgV interfaceC3892CgV) {
+        throw null;
+    }
+}

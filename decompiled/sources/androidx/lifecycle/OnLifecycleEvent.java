@@ -1,0 +1,15 @@
+package androidx.lifecycle;
+
+import X.EnumC3085Bxl;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+
+@Target({ElementType.METHOD})
+@Retention(RetentionPolicy.RUNTIME)
+@Deprecated
+/* loaded from: classes6.dex */
+public @interface OnLifecycleEvent {
+    EnumC3085Bxl value();
+}

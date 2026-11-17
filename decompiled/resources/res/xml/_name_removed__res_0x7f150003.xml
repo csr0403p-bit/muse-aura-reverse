@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="shared"
+        path="shared/"/>
+    <cache-path
+        name="media"
+        path="."/>
+    <files-path
+        name="micro_recordings"
+        path="micro_recordings/"/>
+    <external-files-path
+        name="external_files"
+        path="/"/>
+    <external-path
+        name="sdcard_root"
+        path="/"/>
+</paths>

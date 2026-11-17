@@ -1,0 +1,26 @@
+package com.facebook.aura.skills.repo;
+
+import X.AbstractC7559F3s;
+import X.C9hr;
+import kotlin.jvm.functions.Function0;
+
+/* renamed from: com.facebook.aura.skills.repo.SkillsConnectorAccountsRepository$fetchReconnectLinkUrl$2$invokeSuspend$$inlined$executeJarvisRequest-Z6QaZII$default$1, reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class SkillsConnectorAccountsRepository$fetchReconnectLinkUrl$2$invokeSuspend$$inlined$executeJarvisRequestZ6QaZII$default$1 extends AbstractC7559F3s implements Function0<C9hr<ConnectorReconnectRequestJson>> {
+    public static final SkillsConnectorAccountsRepository$fetchReconnectLinkUrl$2$invokeSuspend$$inlined$executeJarvisRequestZ6QaZII$default$1 INSTANCE = new SkillsConnectorAccountsRepository$fetchReconnectLinkUrl$2$invokeSuspend$$inlined$executeJarvisRequestZ6QaZII$default$1();
+
+    public SkillsConnectorAccountsRepository$fetchReconnectLinkUrl$2$invokeSuspend$$inlined$executeJarvisRequestZ6QaZII$default$1() {
+        super(0);
+    }
+
+    /* JADX WARN: Can't rename method to resolve collision */
+    @Override // kotlin.jvm.functions.Function0
+    public final C9hr<ConnectorReconnectRequestJson> invoke() {
+        return ConnectorReconnectRequestJson$$serializer.INSTANCE;
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ C9hr<ConnectorReconnectRequestJson> invoke() {
+        return ConnectorReconnectRequestJson$$serializer.INSTANCE;
+    }
+}

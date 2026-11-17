@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="other">Istječe za %1$d h</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Istječe za %1$d minutu</item>
+        <item quantity="few">Istječe za %1$d minute</item>
+        <item quantity="other">Istječe za %1$d minuta</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">%1$d zadatak treba pregledati</item>
+        <item quantity="few">%1$d zadatka treba pregledati</item>
+        <item quantity="other">%1$d zadataka treba pregledati</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">Uključeno: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d putnika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d noćenje</item>
+        <item quantity="other">%1$d noćenja</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d zadatak treba pregledati</item>
+        <item quantity="few">%1$d zadatka treba pregledati</item>
+        <item quantity="other">%1$d zadataka treba pregledati</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="one">Prije %1$d dan</item>
+        <item quantity="other">Prije %1$d dana</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">Prije %1$d h</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">Prije %1$d min</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d stavka</item>
+        <item quantity="few">%1$d stavke</item>
+        <item quantity="other">%1$d stavki</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">S %1$s i njih još %2$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d gost</item>
+        <item quantity="few">%1$d gosta</item>
+        <item quantity="other">%1$d gostiju</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d noćenje</item>
+        <item quantity="other">%1$d noćenja</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="few">%1$d recenzije</item>
+        <item quantity="other">%1$d recenzija</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">Dostupan je još %1$d korisnički račun</item>
+        <item quantity="few">Dostupna su još %1$d korisnička računa</item>
+        <item quantity="other">Dostupno je još %1$d korisničkih računa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s i još %2$d profil</item>
+        <item quantity="other">%1$s i još %2$d profila</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profil imat će pristup aplikaciji %2$s</item>
+        <item quantity="other">%1$d profila imat će pristup aplikaciji %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d automobil</item>
+        <item quantity="other">%1$d automobila</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d velika torba</item>
+        <item quantity="few">%1$d velike torbe</item>
+        <item quantity="other">%1$d velikih torbi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km uključeno</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="one">Uključena %1$s milja</item>
+        <item quantity="few">Uključene %1$s milje</item>
+        <item quantity="other">Uključeno %1$s milja</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d sjedalo</item>
+        <item quantity="other">%1$d sjedala</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Prikaži sve: %1$d automobil</item>
+        <item quantity="few">Prikaži sva %1$d automobila</item>
+        <item quantity="other">Prikaži svih %1$d automobila</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d mala torba</item>
+        <item quantity="few">%1$d male torbe</item>
+        <item quantity="other">%1$d malih torbi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">još %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d artikl</item>
+        <item quantity="few">%1$d artikla</item>
+        <item quantity="other">%1$d artikala</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Podijeljeno s %1$d osobom</item>
+        <item quantity="few">Podijeljeno s %1$d osobe</item>
+        <item quantity="other">Podijeljeno s %1$d osoba</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="other">%1$d suradnika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="few">%1$d osobe</item>
+        <item quantity="other">%1$d osoba</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d prostor</item>
+        <item quantity="other">%1$d prostora</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">Zadržat ćete %1$s tokena</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">Preostaje vam još %1$d pokušaj prije nego što vam se pristup onemogući.</item>
+        <item quantity="few">Preostaju vam još %1$d pokušaja prije nego što vam se pristup onemogući.</item>
+        <item quantity="other">Preostaje vam još %1$d pokušaja prije nego što vam se pristup onemogući.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">Netočan PIN. Imate još %1$d pokušaj.</item>
+        <item quantity="other">Netočan PIN. Imate još %1$d pokušaja.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="one">Prikaži %1$d neaktivnu</item>
+        <item quantity="few">Prikaži %1$d neaktivne</item>
+        <item quantity="other">Prikaži %1$d neaktivnih</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">Dijeli prostor s vama i još %1$d drugom osobom.</item>
+        <item quantity="few">Dijeli prostor s vama i još %1$d druge osobe.</item>
+        <item quantity="other">Dijeli prostor s vama i još %1$d drugih osoba.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="other">Mogućnosti %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Upotrijebi %1$d sliku</item>
+        <item quantity="few">Upotrijebi %1$d slike</item>
+        <item quantity="other">Upotrijebi %1$d slika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="other">Broj zadataka preglednika: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">Kôd nije točan. Preostaje vam još %1$d pokušaj.</item>
+        <item quantity="few">Kôd nije točan. Preostaju vam još %1$d pokušaja.</item>
+        <item quantity="other">Kôd nije točan. Preostaje vam još %1$d pokušaja.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">Uključeno: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="other">Potvrdi letove</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">Ručna prtljaga: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d predanih torbi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d putnik</item>
+        <item quantity="other">%1$d putnika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d zaustavljanje</item>
+        <item quantity="other">%1$d zaustavljanja</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">Prikaži još %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="other">%1$d osoba za povezivanje</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+ još %1$d zadatak</item>
+        <item quantity="few">+ još %1$d zadatka</item>
+        <item quantity="other">+ još %1$d zadataka</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">Još %1$d videozapis</item>
+        <item quantity="other">Još %1$d videozapisa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="other">Besplatni povrati u roku od %1$d dana</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Povrat u roku od %1$d dana</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="other">%1$d suradnika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="other">Broj stavki: %1$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">Gotovo %1$d od %2$d zadatka</item>
+        <item quantity="few">Gotovo %1$d od %2$d zadatka</item>
+        <item quantity="other">Gotovo %1$d od %2$d zadataka</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d suradnik</item>
+        <item quantity="other">%1$d suradnika</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d zakazani zadatak</item>
+        <item quantity="few">%1$d zakazana zadatka</item>
+        <item quantity="other">%1$d zakazanih zadataka</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">Svaki %1$d sat</item>
+        <item quantity="few">Svaka %1$d sata</item>
+        <item quantity="other">Svakih %1$d sati</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">Svake %1$d minute</item>
+        <item quantity="few">Svake %1$d minute</item>
+        <item quantity="other">Svakih %1$d minuta</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">Svakih %1$d sekundi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="other">Trajno izbrisati %1$d datoteke?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="other">Izbriši %1$d datoteke</item>
+    </plurals>
+</resources>

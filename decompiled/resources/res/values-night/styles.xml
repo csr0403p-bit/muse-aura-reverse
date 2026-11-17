@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_name_removed__res_0x7f130025" parent="@style/_name_removed__res_0x7f130024">
+        <item name="_name_removed__res_0x7f0402b9">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300bf" parent="@style/Theme.AppCompat">
+    </style>
+    <style name="_name_removed__res_0x7f1300c0" parent="@style/_name_removed__res_0x7f1300c5">
+    </style>
+    <style name="_name_removed__res_0x7f1300c6" parent="@style/_name_removed__res_0x7f1300c0">
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f060013</item>
+        <item name="_name_removed__res_0x7f0405e8">@color/_name_removed__res_0x7f0600c4</item>
+        <item name="_name_removed__res_0x7f0405e9">@color/_name_removed__res_0x7f0600c2</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c8" parent="@style/_name_removed__res_0x7f1300bf">
+        <item name="android:windowBackground">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:statusBarColor">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:navigationBarColor">@color/_name_removed__res_0x7f0600a2</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="_name_removed__res_0x7f1300c9" parent="@style/_name_removed__res_0x7f1300ce">
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="_name_removed__res_0x7f040465">@style/_name_removed__res_0x7f1300c6</item>
+        <item name="_name_removed__res_0x7f04061f">@drawable/hatch_splash_logo_padded</item>
+        <item name="_name_removed__res_0x7f040621">#000000</item>
+    </style>
+</resources>

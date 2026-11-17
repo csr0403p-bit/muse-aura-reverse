@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">Platnost skončí za %1$d hodinu</item>
+        <item quantity="few">Platnost skončí za %1$d hodiny</item>
+        <item quantity="other">Platnost skončí za %1$d hodin</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="one">Platnost skončí za %1$d minutu.</item>
+        <item quantity="few">Platnost skončí za %1$d minuty.</item>
+        <item quantity="other">Platnost skončí za %1$d minut.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">%1$d úkol vyžaduje kontrolu</item>
+        <item quantity="few">%1$d úkoly vyžadují kontrolu</item>
+        <item quantity="other">%1$d úkolů vyžaduje kontrolu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100003">
+        <item quantity="other">%1$d zahrnutý</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="one">%1$d cestující</item>
+        <item quantity="few">%1$d cestující</item>
+        <item quantity="other">%1$d cestujících</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d noc</item>
+        <item quantity="few">%1$d noci</item>
+        <item quantity="other">%1$d nocí</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d úkol vyžaduje kontrolu</item>
+        <item quantity="few">%1$d úkoly vyžadují kontrolu</item>
+        <item quantity="other">%1$d úkolů vyžaduje kontrolu</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">Před %1$d d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">Před %1$d h</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">Před %1$d min</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d položka</item>
+        <item quantity="other">%1$d položek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">S %1$s a %2$d dalšími</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="one">%1$d host</item>
+        <item quantity="few">%1$d hosté</item>
+        <item quantity="other">%1$d hostů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d noc</item>
+        <item quantity="few">%1$d noci</item>
+        <item quantity="other">%1$d nocí</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d recenze</item>
+        <item quantity="few">%1$d recenze</item>
+        <item quantity="other">%1$d recenzí</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">Je dostupný %1$d další účet</item>
+        <item quantity="other">Jsou dostupné %1$d další účty</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s a %2$d další profil</item>
+        <item quantity="few">%1$s a %2$d další profily</item>
+        <item quantity="other">%1$s a %2$d dalších profilů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d profil bude mít přístup k aplikaci %2$s</item>
+        <item quantity="few">%1$d profily budou mít přístup k aplikaci %2$s</item>
+        <item quantity="other">%1$d profilů bude mít přístup k aplikaci %2$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="other">%1$d auto</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="other">%1$d velké zavazadlo</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="other">%1$s km v ceně</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100015">
+        <item quantity="other">%1$s mi v ceně</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100016">
+        <item quantity="one">%1$d sedadlo</item>
+        <item quantity="other">%1$d míst</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100017">
+        <item quantity="one">Zobrazit %1$d auto</item>
+        <item quantity="other">Zobrazit %1$d aut</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100018">
+        <item quantity="one">%1$d malé zavazadlo</item>
+        <item quantity="other">%1$d malých zavazadel</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d dalších</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001a">
+        <item quantity="one">%1$s · %2$d položka</item>
+        <item quantity="other">%1$s · %2$d položek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+        <item quantity="other">%1$d položek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">Sdíleno s %1$d člověkem</item>
+        <item quantity="other">Sdíleno s %1$d lidmi</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d spolupracovník</item>
+        <item quantity="few">%1$d spolupracovníci</item>
+        <item quantity="other">%1$d spolupracovníků</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d člověk</item>
+        <item quantity="other">%1$d lidí</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="other">%1$d prostor</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100020">
+        <item quantity="other">Zůstanou vám %1$s tokeny</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">Zbývá vám %1$d pokus. Potom přijdete o přístup.</item>
+        <item quantity="few">Zbývají vám %1$d pokusy. Potom přijdete o přístup.</item>
+        <item quantity="other">Zbývá vám %1$d pokusů. Potom přijdete o přístup.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">Nesprávný PIN. Zbývá vám %1$d pokus.</item>
+        <item quantity="few">Nesprávný PIN. Zbývají vám %1$d pokusy.</item>
+        <item quantity="other">Nesprávný PIN. Zbývá vám %1$d pokusů.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100023">
+        <item quantity="other">Zobrazit %1$d neaktivních</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="other">Sdílel(a) prostor s vámi a %1$d dalšími.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">Možnost %1$s</item>
+        <item quantity="other">Možnosti %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">Použít %1$d obrázek</item>
+        <item quantity="few">Použít %1$d obrázky</item>
+        <item quantity="other">Použít %1$d obrázků</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">%1$d úkol v prohlížeči</item>
+        <item quantity="few">%1$d úkoly v prohlížeči</item>
+        <item quantity="other">%1$d úkolů v prohlížeči</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">Kód je chybný. Zbývá vám %1$d pokus.</item>
+        <item quantity="few">Kód je chybný. Zbývají vám %1$d pokusy.</item>
+        <item quantity="other">Kód je chybný. Zbývá vám %1$d pokusů.</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100029">
+        <item quantity="other">%1$d zahrnutý</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002a">
+        <item quantity="one">Potvrdit let</item>
+        <item quantity="other">Potvrdit lety</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="other">%1$d příruční zavazadla</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d odbavené zavazadlo</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002d">
+        <item quantity="one">%1$d cestovatel</item>
+        <item quantity="other">%1$d cestující</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d zastávka</item>
+        <item quantity="few">%1$d zastávky</item>
+        <item quantity="other">%1$d zastávek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="one">Zobrazit %1$d další</item>
+        <item quantity="few">Zobrazit %1$d další</item>
+        <item quantity="other">Zobrazit %1$d dalších</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d konektor</item>
+        <item quantity="other">%1$d konektorů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d další úkol</item>
+        <item quantity="other">+%1$d další úkoly</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">%1$d další video</item>
+        <item quantity="other">%1$d další videa</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">Vrácení zdarma do %1$d dne</item>
+        <item quantity="other">Vrácení zdarma do %1$d dnů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">Vrácení do %1$d dnů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d spolupracovník</item>
+        <item quantity="few">%1$d spolupracovníci</item>
+        <item quantity="other">%1$d spolupracovníků</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+        <item quantity="other">%1$d položek</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d hotových úkolů z %2$d</item>
+        <item quantity="other">Je hotových %1$d úkolů ze %2$d</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100039">
+        <item quantity="one">%1$d účet</item>
+        <item quantity="other">%1$d účty</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="other">%1$d spolupracovník</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d naplánovaný úkol</item>
+        <item quantity="few">%1$d naplánované úkoly</item>
+        <item quantity="other">%1$d naplánovaných úkolů</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">Každou %1$d hodinu</item>
+        <item quantity="few">Každé %1$d hodiny</item>
+        <item quantity="other">Každých %1$d hodin</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="one">Každou %1$d minutu</item>
+        <item quantity="few">Každé %1$d minuty</item>
+        <item quantity="other">Každých %1$d minut</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="one">Každou %1$d sekundu</item>
+        <item quantity="few">Každé %1$d sekundy</item>
+        <item quantity="other">Každých %1$d sekund</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">Trvale odstranit %1$d soubor?</item>
+        <item quantity="few">Trvale odstranit %1$d soubory?</item>
+        <item quantity="other">Trvale odstranit %1$d souborů?</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">Odstranit %1$d soubor</item>
+        <item quantity="few">Odstranit %1$d soubory</item>
+        <item quantity="other">Odstranit %1$d souborů</item>
+    </plurals>
+</resources>

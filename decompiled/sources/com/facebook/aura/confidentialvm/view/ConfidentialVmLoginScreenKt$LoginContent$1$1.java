@@ -1,0 +1,63 @@
+package com.facebook.aura.confidentialvm.view;
+
+import X.AbstractC07127nr;
+import X.AnonymousClass001;
+import X.AnonymousClass003;
+import X.C1110AYw;
+import X.C3UX;
+import X.C3cG;
+import X.EnumC10460Hji;
+import X.G0V;
+import X.HtJ;
+import X.Hwg;
+import androidx.compose.foundation.gestures.ScrollExtensionsKt;
+import kotlin.Unit;
+import kotlin.coroutines.jvm.internal.DebugMetadata;
+
+@DebugMetadata(c = "com.facebook.aura.confidentialvm.view.ConfidentialVmLoginScreenKt$LoginContent$1$1", f = "ConfidentialVmLoginScreen.kt", l = {194}, m = "invokeSuspend", v = 2)
+/* loaded from: classes.dex */
+public final class ConfidentialVmLoginScreenKt$LoginContent$1$1 extends AbstractC07127nr implements G0V<C3UX, HtJ<? super Unit>, Object> {
+    public final /* synthetic */ boolean $isImeVisible;
+    public final /* synthetic */ C1110AYw $scrollState;
+    public int label;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public ConfidentialVmLoginScreenKt$LoginContent$1$1(boolean z, C1110AYw c1110AYw, HtJ<? super ConfidentialVmLoginScreenKt$LoginContent$1$1> htJ) {
+        super(2, htJ);
+        this.$isImeVisible = z;
+        this.$scrollState = c1110AYw;
+    }
+
+    @Override // X.AbstractC8884Fsp
+    public final HtJ<Unit> create(Object obj, HtJ<?> htJ) {
+        return new ConfidentialVmLoginScreenKt$LoginContent$1$1(this.$isImeVisible, this.$scrollState, htJ);
+    }
+
+    @Override // X.AbstractC8884Fsp
+    public final Object invokeSuspend(Object obj) {
+        EnumC10460Hji enumC10460Hji = EnumC10460Hji.A02;
+        int i = this.label;
+        if (i == 0) {
+            Hwg.A00(obj);
+            if (this.$isImeVisible) {
+                C1110AYw c1110AYw = this.$scrollState;
+                int iAGd = c1110AYw.A01.AGd();
+                this.label = 1;
+                if (C3cG.A0U(ScrollExtensionsKt.A00(AnonymousClass003.A0Q(null), c1110AYw, this, iAGd - c1110AYw.A04.AGd())) == enumC10460Hji) {
+                    return enumC10460Hji;
+                }
+            }
+        } else {
+            if (i != 1) {
+                throw AnonymousClass001.A0n();
+            }
+            Hwg.A00(obj);
+        }
+        return Unit.INSTANCE;
+    }
+
+    @Override // X.G0V
+    public final Object invoke(C3UX c3ux, HtJ<? super Unit> htJ) {
+        return ((ConfidentialVmLoginScreenKt$LoginContent$1$1) create(c3ux, htJ)).invokeSuspend(Unit.INSTANCE);
+    }
+}

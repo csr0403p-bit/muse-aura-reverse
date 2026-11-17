@@ -1,0 +1,21 @@
+package com.facebook.rsys.mediastats.gen;
+
+import X.GUd;
+import com.facebook.djinni.msys.infra.McfReference;
+import com.facebook.rsys.base.gen.FeatureHolder;
+
+/* loaded from: classes6.dex */
+public abstract class MediaStatsFeatureFactory {
+
+    public final class CProxy extends MediaStatsFeatureFactory {
+        public static native FeatureHolder create();
+
+        public static native MediaStatsFeatureFactory createFromMcfType(McfReference mcfReference);
+
+        public static native long nativeGetMcfTypeId();
+
+        static {
+            GUd.A00();
+        }
+    }
+}

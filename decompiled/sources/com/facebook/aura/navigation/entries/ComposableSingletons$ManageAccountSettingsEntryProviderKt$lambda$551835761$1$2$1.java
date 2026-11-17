@@ -1,0 +1,26 @@
+package com.facebook.aura.navigation.entries;
+
+import X.AbstractC7559F3s;
+import com.facebook.aura.logout.AuraLogoutHelper;
+import kotlin.Unit;
+import kotlin.jvm.functions.Function0;
+
+/* loaded from: classes2.dex */
+public final class ComposableSingletons$ManageAccountSettingsEntryProviderKt$lambda$551835761$1$2$1 extends AbstractC7559F3s implements Function0<Unit> {
+    public static final ComposableSingletons$ManageAccountSettingsEntryProviderKt$lambda$551835761$1$2$1 INSTANCE = new ComposableSingletons$ManageAccountSettingsEntryProviderKt$lambda$551835761$1$2$1();
+
+    public ComposableSingletons$ManageAccountSettingsEntryProviderKt$lambda$551835761$1$2$1() {
+        super(0);
+    }
+
+    @Override // kotlin.jvm.functions.Function0
+    public /* bridge */ /* synthetic */ Unit invoke() {
+        AuraLogoutHelper.INSTANCE.performLogout();
+        return Unit.INSTANCE;
+    }
+
+    /* renamed from: invoke, reason: avoid collision after fix types in other method */
+    public final void invoke2() {
+        AuraLogoutHelper.INSTANCE.performLogout();
+    }
+}

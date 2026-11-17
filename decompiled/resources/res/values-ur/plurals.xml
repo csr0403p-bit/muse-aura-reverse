@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="_name_removed__res_0x7f100000">
+        <item quantity="one">%1$d گھنٹے میں ایکسپائر ہونے والا ہے</item>
+        <item quantity="other">%1$d گھنٹے میں ایکسپائر ہو جائے گی</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100001">
+        <item quantity="other">%1$d منٹ میں ایکسپائر ہونے والا ہے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100002">
+        <item quantity="one">ایک ٹاسک کے جائزے کی ضرورت ہے</item>
+        <item quantity="other">%1$d ٹاسکس کا جائزہ درکار ہے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100004">
+        <item quantity="other">%1$d مسافر</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100005">
+        <item quantity="one">%1$d رات</item>
+        <item quantity="other">%1$d راتیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100006">
+        <item quantity="one">%1$d ٹاسک کا جائزہ درکار ہے</item>
+        <item quantity="other">%1$d ٹاسکس کا جائزہ درکار ہے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100007">
+        <item quantity="other">%1$d دن پہلے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100008">
+        <item quantity="other">%1$d گھنٹے پہلے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100009">
+        <item quantity="other">%1$d منٹ پہلے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000a">
+        <item quantity="one">%1$d آئٹم</item>
+        <item quantity="other">%1$d آئٹمز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000b">
+        <item quantity="other">%1$s اور %2$d دیگر کے ساتھ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000c">
+        <item quantity="other">%1$d مہمان</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000d">
+        <item quantity="one">%1$d رات</item>
+        <item quantity="other">%1$d راتیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000e">
+        <item quantity="one">%1$d جائزہ</item>
+        <item quantity="other">%1$d جائزے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10000f">
+        <item quantity="one">%1$d مزید اکاؤنٹ دستیاب ہے</item>
+        <item quantity="other">%1$d مزید اکاؤنٹس دستیاب ہیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100010">
+        <item quantity="one">%1$s اور %2$d دیگر پروفائل</item>
+        <item quantity="other">%1$s اور %2$d دیگر پروفائلز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100011">
+        <item quantity="one">%1$d پروفائل کو %2$s تک رسائی حاصل ہوگی</item>
+        <item quantity="other">%1$d پروفائلز کو %2$s تک رسائی حاصل ہو گی</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100012">
+        <item quantity="one">%1$d کار</item>
+        <item quantity="other">%1$d کاریں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100013">
+        <item quantity="one">%1$d بڑا بیگ</item>
+        <item quantity="other">%1$d بڑے بیگز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100014">
+        <item quantity="one">%1$s km included</item>
+        <item quantity="other">%1$s کلو میٹر شامل ہیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100019">
+        <item quantity="other">+%1$d مزید</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001b">
+        <item quantity="one">%1$d آئٹم</item>
+        <item quantity="other">%1$d آئٹمز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001c">
+        <item quantity="one">%1$d شخص کے ساتھ شیئر کردہ</item>
+        <item quantity="other">%1$d لوگوں کے ساتھ شیئر کردہ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001d">
+        <item quantity="one">%1$d کولیبریٹر</item>
+        <item quantity="other">%1$d کولیبریٹرز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001e">
+        <item quantity="one">%1$d شخص</item>
+        <item quantity="other">%1$d لوگ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10001f">
+        <item quantity="one">%1$d جگہ</item>
+        <item quantity="other">%1$d جگہیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100021">
+        <item quantity="one">%1$d کوشش باقی ہے۔ اگر آپ کا PIN غلط ہے تو آپ کا اکاؤنٹ لاک ہو جائے گا۔</item>
+        <item quantity="other">آپ کے لاک آؤٹ ہونے سے قبل %1$d کوششیں باقی ہیں۔</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100022">
+        <item quantity="one">غلط PIN۔ آپ کے پاس %1$d کوشش باقی ہے۔</item>
+        <item quantity="other">غلط PIN۔ آپ کے پاس %1$d کوششیں باقی ہیں۔</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100024">
+        <item quantity="one">آپ اور %1$d دیگر شخص کے ساتھ ایک جگہ شیئر کی گئی ہے۔</item>
+        <item quantity="other">آپ اور %1$d دیگر لوگوں کے ساتھ ایک جگہ شیئر کی گئی ہے۔</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100025">
+        <item quantity="one">آپشن %1$s</item>
+        <item quantity="other">آپشنز %1$s</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100026">
+        <item quantity="one">%1$d تصویر استعمال کریں</item>
+        <item quantity="other">%1$d تصاویر استعمال کریں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100027">
+        <item quantity="one">براؤزر میں %1$d ٹاسک</item>
+        <item quantity="other">%1$d براؤزر ٹاسکس</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100028">
+        <item quantity="one">وہ کوڈ غلط ہے۔ %1$d کوشش باقی ہے۔</item>
+        <item quantity="other">یہ کوڈ غلط ہے۔ %1$d کوششیں باقی ہیں۔</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002b">
+        <item quantity="one">%1$d چھوٹا بیگ</item>
+        <item quantity="other">%1$d چھوٹے بیگز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002c">
+        <item quantity="other">%1$d چیک شدہ بیگز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002e">
+        <item quantity="one">%1$d بار روکا گيا</item>
+        <item quantity="other">%1$d بار رکنا</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10002f">
+        <item quantity="other">%1$d مزید دکھائیں</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100030">
+        <item quantity="one">%1$d کنیکٹر</item>
+        <item quantity="other">%1$d کنیکٹرز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100031">
+        <item quantity="one">+%1$d مزید ٹاسک</item>
+        <item quantity="other">+%1$d مزید ٹاسکس</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100032">
+        <item quantity="one">%1$d مزید ویڈیو</item>
+        <item quantity="other">%1$d مزید ویڈیوز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100034">
+        <item quantity="one">%1$d دن کے اندر مفت واپسیاں</item>
+        <item quantity="other">%1$d دنوں کے اندر مفت واپسی</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100035">
+        <item quantity="other">%1$d دن کے اندر واپسی</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100036">
+        <item quantity="one">%1$d کولیبریٹر</item>
+        <item quantity="other">%1$d کولیبریٹرز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100037">
+        <item quantity="one">%1$d آئٹم</item>
+        <item quantity="other">%1$d آئٹمز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100038">
+        <item quantity="one">%1$d of %2$d task done</item>
+        <item quantity="other">%2$d ٹاسکس میں سے %1$d مکمل ہو گئے</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003a">
+        <item quantity="one">%1$d کولیبریٹر</item>
+        <item quantity="other">%1$d کولیبریٹرز</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003b">
+        <item quantity="one">%1$d شیڈول کردہ ٹاسک</item>
+        <item quantity="other">%1$d شیڈول کردہ ٹاسکس</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003c">
+        <item quantity="one">ہر %1$d گھنٹے</item>
+        <item quantity="other">ہر %1$d گھنٹے بعد</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003d">
+        <item quantity="other">ہر %1$d منٹ بعد</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003e">
+        <item quantity="other">ہر %1$d سیکنڈ</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f10003f">
+        <item quantity="one">%1$d فائل کو مستقل طور پر ڈیلیٹ کریں؟</item>
+        <item quantity="other">%1$d فائلز کو مستقل طور پر ڈیلیٹ کریں؟</item>
+    </plurals>
+    <plurals name="_name_removed__res_0x7f100040">
+        <item quantity="one">%1$d فائل ڈیلیٹ کریں</item>
+        <item quantity="other">%1$d فائلز ڈیلیٹ کریں</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.facebook.fbui.popover.PopoverViewFlipper
+        android:id="@+id/fbui_popover_view_flipper"
+        android:background="?attr/_name_removed__res_0x7f040458"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</merge>

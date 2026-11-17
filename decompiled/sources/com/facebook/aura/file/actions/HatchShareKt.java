@@ -1,0 +1,54 @@
+package com.facebook.aura.file.actions;
+
+/* loaded from: classes3.dex */
+public abstract class HatchShareKt {
+    public static final String ATTRIBUTION_PARAM = "source_application";
+    public static final String AUDIO_ASSET_ID_PARAM = "audio_asset_id";
+    public static final String AUDIO_CLUSTER_ID_PARAM = "audio_cluster_id";
+    public static final String AUDIO_OVERLAP_DURATION_MS_PARAM = "audio_overlap_duration_ms";
+    public static final String AUDIO_START_TIME_MS_PARAM = "audio_start_time_ms";
+    public static final String BOTTOM_BACKGROUND_COLOR_PARAM = "bottom_background_color";
+    public static final String COMPOSER_INITIAL_TEXT_KEY = "composer_initial_text";
+    public static final String CONTACT_DESTINATION_HASH_KEY = "contact_destination_hash";
+    public static final String CONTACT_DESTINATION_TYPE_KEY = "contact_destination_type";
+    public static final String CONTENT_URL_PARAM = "content_url";
+    public static final String DEFAULT_INSTAGRAM_LINK_STICKER_ID = "link_sticker_black_white";
+    public static final String FACEBOOK_APP_ID_KEY = "com.facebook.platform.extra.APPLICATION_ID";
+    public static final String FACEBOOK_NEWS_FEED_ALIAS = "com.facebook.composer.shareintent.ImplicitShareIntentHandlerDefaultAlias";
+    public static final String FACEBOOK_STORY_ACTION = "com.facebook.stories.ADD_TO_STORY";
+    public static final String HATCH_AVATAR_STORY_BOTTOM_COLOR_PARAM = "external_avatar_story_bottom_color";
+    public static final String HATCH_AVATAR_STORY_BUBBLE_TEXT_COLOR_PARAM = "external_avatar_story_bubble_text_color";
+    public static final String HATCH_AVATAR_STORY_BUBBLE_TEXT_PARAM = "external_avatar_story_bubble_text";
+    public static final String HATCH_AVATAR_STORY_TOP_COLOR_PARAM = "external_avatar_story_top_color";
+    public static final String HATCH_AVATAR_STORY_VERSION_PARAM = "external_avatar_story_version";
+    public static final String IG_APP_ID_KEY = "com.instagram.platform.extra.APPLICATION_ID";
+    public static final String INSTAGRAM_DIRECT_ACTION = "com.instagram.share.ADD_TO_DIRECT_MESSAGING";
+    public static final String INSTAGRAM_SHOW_COMPOSER_KEY = "DirectPrivateStoryRecipientFragment.DIRECT_SHOULD_SHOW_MESSAGE_COMPOSER";
+    public static final String INSTAGRAM_SHOW_TEXT_IN_COMPOSER_KEY = "DirectPrivateStoryRecipientFragment.SHOW_TEXT_IN_COMPOSER";
+    public static final String INSTAGRAM_STORY_ACTION = "com.instagram.share.ADD_TO_STORY";
+    public static final String INTERACTIVE_ASSET_LIST_PARAM = "interactive_asset_list";
+    public static final String INTERACTIVE_ASSET_URI_PARAM = "interactive_asset_uri";
+    public static final String LINK_STICKER_CENTER_Y_RATIO_PARAM = "link_sticker_center_y_ratio";
+    public static final String LINK_STICKER_CUSTOM_CTA_PARAM = "link_sticker_custom_cta";
+    public static final String LINK_STICKER_ICON_URI_PARAM = "link_sticker_icon_uri";
+    public static final String LINK_STICKER_ID_PARAM = "link_sticker_id";
+    public static final String LINK_STICKER_PRESERVE_CUSTOM_CTA_CASE_PARAM = "link_sticker_preserve_custom_cta_case";
+    public static final String LINK_STICKER_TEXT_PARAM = "link_sticker_text";
+    public static final String LINK_STICKER_URL_PARAM = "link_sticker_url";
+    public static final String MESSENGER_APP_ID_KEY = "com.facebook.orca.extra.APPLICATION_ID";
+    public static final int MESSENGER_IMAGE_SHARE_REQUEST_CODE = 19795;
+    public static final String MESSENGER_MEDIA_CAPTION_KEY = "caption_text";
+    public static final String MESSENGER_PRESELECTED_RECIPIENTS_KEY = "preselected_recipients";
+    public static final String MESSENGER_SHOW_COMPOSER_KEY = "show_composer";
+    public static final String MINIMUM_INSTAGRAM_AVATAR_STORY_VERSION = "444.0.0.0.77";
+    public static final String MUSE_ADD_YOURS_PARAM = "external_muse_add_yours";
+    public static final String MUSE_AVATAR_NAME_PARAM = "external_muse_avatar_name";
+    public static final String STICKER_CENTER_X_RATIO_PARAM = "sticker_center_x_ratio";
+    public static final String STICKER_CENTER_Y_RATIO_PARAM = "sticker_center_y_ratio";
+    public static final String STICKER_ROTATION_PARAM = "sticker_rotation";
+    public static final String STICKER_WIDTH_RATIO_PARAM = "sticker_width_ratio";
+    public static final String TAG = "HatchShare";
+    public static final String TOP_BACKGROUND_COLOR_PARAM = "top_background_color";
+    public static final String WHATSAPP_PACKAGE = "com.whatsapp";
+    public static final String X_PACKAGE = "com.twitter.android";
+}
